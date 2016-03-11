@@ -1,1 +1,1 @@
- ## Mulitlingual Document CLustering
+ # Mulit-Lingual Document Clustering
