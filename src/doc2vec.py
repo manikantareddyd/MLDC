@@ -10,8 +10,8 @@ class docVector:
         wv.gen()
         Model = KMeans(k)
         Model.fit(wv.words_vectors.values())
-        topics_en = ['Physics','Chemistry','Politics','Adele']
-        topics_fr = ['Physique','chimie','Politique','Adele_fr']
+        topics_en = ['Physics','Chemistry','Politics','Adele','Pakistan_en','India']
+        topics_fr = ['Physique','chimie','Politique','Adele_fr','Pakistan_fr','Inde']
         self.topicVectors={}
         for topic in topics_en:
             vector = [0 for x in range(k)]
@@ -28,8 +28,8 @@ class docVector:
 d=docVector(10)
 n = np.linalg.norm
 v=d.topicVectors
-topics_en = ['Physics','Chemistry','Politics','Adele']
-topics_fr = ['Physique','chimie','Politique','Adele_fr']
+topics_en = ['Physics','Chemistry','Politics','Adele','Pakistan_en','India']
+topics_fr = ['Physique','chimie','Politique','Adele_fr','Pakistan_fr','Inde']
 for topic in topics_en:
     for t in topics_fr:
         print t,topic,n(v[t]-v[topic],1)

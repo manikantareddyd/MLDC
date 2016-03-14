@@ -6,7 +6,7 @@ from nltk.stem.snowball import FrenchStemmer
 import math
 class vectorGen:
     def gen(self):
-        topics_en = ['Physics','Chemistry','Politics','Adele']#,'Leonardo Di Caprio','Academy Awards','India','Naruto','Pakistan','pikachu','pokemon']
+        topics_en = ['Physics','Chemistry','Politics','Adele','Pakistan_en','India']#,'Leonardo Di Caprio','Academy Awards','India','Naruto','Pakistan','pikachu','pokemon']
         self.corpus_en = {}
         words_en  = []
         stop_en = stopwords.words('english')
@@ -26,7 +26,7 @@ class vectorGen:
             self.corpus_en[topic] = freqDist_en[topic].keys()
         words_en = list(set(words_en))
         #/(0.001*len(self.corpus_en[topic]))
-        topics_fr = ['Physique','chimie','Politique','Adele_fr']
+        topics_fr = ['Physique','chimie','Politique','Adele_fr','Pakistan_fr','Inde']
         self.corpus_fr = {}
         words_fr  = []
         stop_fr = stopwords.words('french')
