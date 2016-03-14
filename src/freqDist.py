@@ -21,7 +21,7 @@ class vectorGen:
             self.corpus_en[topic]  = [(st_en.stem(unicode(i))) for i in (re.findall("[a-zA-Z]+", content)) if unicode(i) not in stop_en]
             freqDist_en[topic]={x:self.corpus_en[topic].count(x) for x in self.corpus_en[topic] if self.corpus_en[topic].count(x) > 1}# and self.corpus_en[topic].count(x) < 20}
             maxval = max(freqDist_en[topic].values())
-            freqDist_en[topic]={x:math.log(freqDist_en[topic][x]/(1.0+1.0*maxval)) for x in freqDist_en[topic].keys()}
+            freqDist_en[topic]={x:math.exp(freqDist_en[topic][x]/(1.0+1.0*maxval)) for x in freqDist_en[topic].keys()}
             words_en += freqDist_en[topic].keys()
             self.corpus_en[topic] = freqDist_en[topic].keys()
         words_en = list(set(words_en))
@@ -41,7 +41,7 @@ class vectorGen:
             self.corpus_fr[topic] = [(st_fr.stem(unicode(i))) for i in (re.findall("[a-zA-Z]+", content)) if unicode(i) not in stop_fr]
             freqDist_fr[topic]={x:self.corpus_fr[topic].count(x) for x in self.corpus_fr[topic] if self.corpus_fr[topic].count(x) > 1}
             maxval = max(freqDist_fr[topic].values())
-            freqDist_fr[topic]={x:math.log(freqDist_fr[topic][x]/(1.0+1.0*maxval)) for x in freqDist_fr[topic].keys()}
+            freqDist_fr[topic]={x:math.exp(freqDist_fr[topic][x]/(1.0+1.0*maxval)) for x in freqDist_fr[topic].keys()}
             words_fr += freqDist_fr[topic].keys()
             self.corpus_fr[topic] = freqDist_fr[topic].keys()
         words_fr = list(set(words_fr))
@@ -69,10 +69,10 @@ class vectorGen:
             self.words_vectors[word]=vec
 
         print "Hurray"
-        w=self.words_vectors.values()
-        from mpl_toolkits.mplot3d import Axes3D
-        import matplotlib.pyplot as plt
-        fig = plt.figure()
-        ay = fig.add_subplot(111, projection='3d')
-        ay.scatter(zip(*w)[0],zip(*w)[1],zip(*w)[2])
-        fig.show()
+        # w=self.words_vectors.values()
+        # from mpl_toolkits.mplot3d import Axes3D
+        # import matplotlib.pyplot as plt
+        # fig = plt.figure()
+        # ay = fig.add_subplot(111, projection='3d')
+        # ay.scatter(zip(*w)[0],zip(*w)[1],zip(*w)[2])
+        # fig.show()
