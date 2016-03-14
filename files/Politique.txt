@@ -1,0 +1,260 @@
+notion polysémique, la politique recouvre :
+la politique en son sens plus large, celui de civilité ou politikos, indique le cadre général d'une société organisée et développée ;
+plus précisément, la politique, au sens de politeia, renvoie à la constitution et concerne donc la structure et le fonctionnement (méthodique, théorique et pratique) d'une communauté, d'une société, d'un groupe social. la politique porte sur les actions, l’équilibre, le développement interne ou externe de cette société, ses rapports internes et ses rapports à d'autres ensembles. la politique est donc principalement ce qui a trait au collectif, à une somme d'individualités et/ou de multiplicités. c'est dans cette optique que les études politiques ou la science politique s'élargissent à tous les domaines d'une société (économie, droit, sociologie, etc.) ;
+dans une acception beaucoup plus restreinte, la politique, au sens de politikè, ou d'art politique se réfère à la pratique du pouvoir, soit donc aux luttes de pouvoir et de représentativité entre des hommes et femmes de pouvoir, et aux différents partis politiques auxquels ils peuvent appartenir, tout comme à la gestion de ce même pouvoir.
+la politique est le plus souvent assortie d'un épithète qui détermine sa définition : on va parler de stratégie politique par exemple pour expliquer comment elle se situe dans une perception combinatoire et planifiée de nature à lui faire atteindre ses objectifs.
+
+
+== histoire ==
+
+
+=== anthropologie ===
+
+selon georges balandier, l'anthropologie politique « tend à fonder une science du politique, envisageant l'homme sous la forme de l'homo politicus et recherchant les propriétés communes à toutes les organisations politiques reconnues dans leur diversité historique et géographique ».
+les anthropologues ont distingué quatre systèmes politiques primitifs, qui se situeraient en dehors de toute logique étatique.
+les bandes de chasseurs-cueilleurs nomades. du fait de leur taille réduite (guère plus d'une centaine d'individus), et de leur mobilité, ces bandes n'éprouveraient nul besoin d'instituer des autorités politiques permanentes.
+les sociétés lignagères. décrit par evans-pritchard, dans son étude classique sur les nuer, ce système politique implique la réunion de plusieurs groupes familiaux, au sein desquels les aînés possèdent une légitimité particulière, qui les rend aptes à dénouer un conflit.
+les sociétés à notables charismatiques. ici, le pouvoir est représenté ponctuellement par quelques personnalités reconnues pour leurs qualités morales ou leurs attributs matériels. toutefois, cette dignité demeure individuelle, et n'est pas transmissible héréditairement.
+les sociétés à chefferies. quelques individus exercent un pouvoir incontestable et héréditaire, dont l'étendue reste cependant variable.
+l'existence de sociétés sans états reste néanmoins sujette à caution.
+
+
+=== états proche-orientaux ===
+au cours de la ville d'obeid en mésopotamie, (6500 à 3750 av jc) vont apparaitre et se combiner deux faits importants:
+le phénomène de structuration économique initié au début de l'ère néolithique atteint un niveau critique, qui entraîne l'émergence d'une nouvelle cellule sociologique, la ville, ainsi que l'avènement d'inégalités sociales. l'invention de l'écriture permet l'administration rationnelle d'un espace donné : « les écrits, en effet, permettent de porter au loin des messages, de noter des comptes, de conserver des archives, toutes ressources susceptibles d'aider au plus haut degré l'administration de l'état ». l'avènement conjoint de ce modèle sociologique et de cette technologie intellectuelle contribue à l'émergence d'une structure humaine nouvelle, l'état, et de son corollaire, la politique.
+à partir de l'an 3000 av. j-c, les cités-états qui apparaissent en mésopotamie semblent privilégier des régimes politiques assez proches de la monarchie constitutionnelle, voire de la république. un poème sumérien étudié en particulier par samuel noah kramer fait ainsi état de la présence de deux assemblées à uruk, l'une, l'assemblée des anciens, s'apparentant à une sorte de sénat, l'autre à une assemblée du peuple. la légitimité du roi d'uruk semble dépendre étroitement de ces deux assemblées : il ne déclare en effet la guerre à la cité de kish qu'après avoir reçu au moins le soutien de l'assemblée du peuple. qui plus est, l'attribution du pouvoir royal n'est que rarement héréditaire. le terme sumérien pour désigner le roi, lugal, consiste en effet en l'association de la racine lu, homme et gal, grand. ce qui importe ici avant tout ce sont les qualités morales et nullement l'appartenance héréditaire : sargon d'akkad n'obtient ainsi le trône que grâce à ses vertus royales.
+progressivement le pouvoir monarchique se renforce, tout à la fois en puissance (les premières cérémonies de sacre, qui impliquent une légitimité de droit divin apparaissent au début du iie millénaire av. j-c) et en étendue (les cités-états sont absorbées par de grands royaumes). les institutions démocratiques et républicaines, notées par kramer, tombent de fait en désuétude. le renforcement de l'autorité monarchique va favoriser, au cours du premier quart du iie millénaire av. j-c, la mise en place d'une administration et d'une jurisprudence normalisées, évolution illustrées par les codes d'ur-nammu (vers -2100), de lipit-ishtar (vers -1930) et d'hammurabi (vers -1750), ainsi que les lois d'eshnunna (vers -1760). certes ces premiers corpus juridiques n'ont aucune visée exhaustive et s'apparentent plutôt par leur style à des recueils de prescriptions morales. toutefois le fait qu'ils entendent corriger les traditions orales dans une optique rationnelle représente une rupture importante : « la situation dans une société proche-orientale est donc très différente de celle des sociétés sans histoires, où les coutumes sont absolument fixes et où le changement est subi et non organisé »
+l'affermissement de grands états centralisés et rationalisés induit l'organisation de relations internationales. de la fin du iie millénaire av. j.-c. à -1100, un espace allant de l'égypte à élam, et de l'arabie au royaume hittite est régi par un système diplomatique élaboré : le système d'armana. fondé sur relatif équilibre géopolitique entre quatre ou cinq grandes puissances, ce système dispose de sa lingua franca, l'akkadien, et de ses protocoles propres. ainsi, les « différents rois entretenant des relations diplomatiques sont réputés appartenir à une seule et même grande famille ou grande maison (…) les rois de statut identique se traitent de frères, ceux de moindre envergure sont les fils ou les serviteurs des premiers ». les invasions successives des peuples de la mer mettent fin à cette construction politique élaborée.
+il semble ainsi que les états proche-orientaux ont forgé la quasi-totalité des formes et structures politiques. pour autant si le politique est certes un objet bien établi, il ne s'agit en aucun cas d'une pensée ni d'une théorie politique. : « jamais le mythe, la loi, la coutume dans leur ensemble ne deviendront objet de débat explicite, parce qu'elles continuent à relever du sacré, et du sacré seul ». les hommes d'états proche-orientaux se préoccupent avant tout des politiques, de la gestion des affaires administratives, et fort peu de la politique, de l'ordre étatique dans son ensemble — car l'ordre est partie prenante de l'ordre divin dans son ensemble, et ne saurait être contesté, discuté ou simplement considéré.
+
+
+=== cité grecque ===
+
+en dépit des précédents proche-orientaux, l'origine de la politique se confond généralement avec celle de la pensée politique et donc de fait, avec la cité grecque. ainsi l'helléniste anglais moses finley, a-t-il pu affirmer que la politique « est une des activités les moins répandues dans le monde pré-moderne ». il s'agit en effet, « d'une invention grecque, ou, pour être plus précis, une invention que firent séparément les grecs, les étrusques et/ou les romains ».
+tout au long du iie millénaire av. j.‑c., la grèce apparaît comme une simple continuité périphérique du système d'amarna. comme le note en effet jean-pierre vernant : « la méditerranée ne marque pas encore de part et d'autre de ses rives, une coupure entre l'orient et l'occident. le monde égéen et la péninsule grecque se rattachent sans discontinuité (…) d'une part au plateau anatolien (…) de l'autre (…) à la mésopotamie et à l'iran ». de la sorte, le premier état grec connu, le royaume mycénien, s'apparente par de nombreux traits aux monarchies proche-orientales contemporaines. il s'agit en effet d'une royauté bureaucratique, caractérisée par une régulation quasi-maniaque de la vie sociale. de plus, le roi ou anax possède une autorité essentiellement militaire et religieuse. aussi, la politique à l'ère mycénienne prend ainsi la forme d'une activité essentiellement administrative, inscrite dans un cadre cosmogonique plus large.
+effectif à partir du xiie siècle av. j.-c. le déclin du monde mycénien va entraîner un redéploiement complet des structures politiques initiales : l'anax disparaît et les potentats locaux, dits basileus ne conservent le plus souvent que des prérogatives religieuses. le reflux de la souveraineté monarchique va favoriser deux forces sociales jusqu'ici quasiment exclues du jeu politique : « d'une part les communautés villageoises, et de l'autre une aristocratie guerrière ». les dissensions fréquentes entre ces deux forces, vont rendre nécessaire la mise en place du débat politique ou agôn, sur une place publique. le pouvoir cesse dès lors de dépendre d'un centre unique, pour être le produit d'une délibération constante : « l'archè ne saurait plus être la propriété exclusive de qui que ce soit ; l'état est précisément ce qui a dépouillé tout caractère privé, particulier, ce qui, échappant au ressort des genè, apparaît déjà comme l'affaire de tous ».
+progressivement s'instaure une entité politique d'un genre nouveau : la polis ou cité. elle se caractérise par trois traits principaux : l'usage du discours rationnel, la publicisation des actes politiques, et la croyance en l'égalité des citoyens devant la loi (ou isonomie). cette instauration invalide de fait les vieilles coutumes orales, qui régulaient jusqu'alors le jeu politique et social. plusieurs législateurs, regroupés sous l'appellation générique de sept sages vont promouvoir en conséquence une nouvelle éthique citoyenne, qui témoigne d'une volonté de rationaliser la justice : le criminel n'est ainsi plus jugé coupable vis-à-vis de sa victime, mais de la cité entière.
+pendant moral de cette éthique, la « sôphrosunè » ou modération, fait converger l'ensemble des structures sociales vers un « juste milieu ». solon impose ainsi une égalité géométrique, ou homoneia, des corps de citoyens, en accord avec les rapports de types musicaux (2/1, 3/2, 4/3) : la première classe de citoyen reçoit ainsi cinq cent mesures de blé, quand la dernière classe n'en reçoit que deux cents. par la suite les démocrates comme clisthène généralisent le principe de l'égalité absolue, fondée sur le rapport 1/1 : chaque citoyen devient dès lors l'entité indivisible d'un corps unique : la cité. afin de garantir ce principe, clisthènes procède à une réforme profonde de l'espace civique athénien, en regroupant les quatre tribus traditionnelles en dix tribus : purement conventionnelle, cette division administrative achève de rationaliser la cité.
+
+
+=== moyen âge et époque moderne ===
+au moyen âge, le régime politique le plus répandu est celui de la monarchie. le roi est alors le suzerain de ses vassaux. à partir de la renaissance, le roi devient souverain. dans certains états, le régime prend la forme de la monarchie absolue de droit divin, dont l'archétype est, en france, le roi louis xiv.
+
+
+=== fin du xviie siècle - xxe siècle ===
+à partir de la fin du xviie siècle et au xviiie siècle, pendant les lumières, les injustices qui découlent des inégalités entre les trois ordres, notamment les privilèges accordés à la noblesse, entraînent des modifications profondes des régimes politiques en europe.
+l'angleterre est la première à passer à un régime de monarchie constitutionnelle lors de la glorieuse révolution (1688). la france lui emboîte le pas près d'un siècle plus tard : la révolution française éclate en 1789. elle se concrétise dans un premier temps par une déclaration des droits de l'homme et du citoyen ; le pouvoir n'émane plus du monarque par l'intermédiaire de droits divins, mais du peuple, et trouve sa légitimité dans les « droits naturels, inaliénables et sacrés », que possède tout homme (et toute femme) dès la naissance. le régime passe à la monarchie constitutionnelle (1791), puis à la république (1792), puis passe par des états transitoires : empire (1804), monarchie constitutionnelle (à la restauration en 1815), république (1848), empire (1851), avant de se stabiliser en république (1871).
+ces deux types de régimes (monarchie constitutionnelle et république) vont se répandre progressivement dans la quasi-totalité des états du monde jusqu'à aujourd'hui.
+
+
+=== à partir de la fin de la seconde guerre mondiale ===
+après la seconde guerre mondiale, de nouveaux droits sont proclamés. en france, la constitution de 1946 définit dans son préambule des droits à caractère essentiellement social (droit à obtenir un emploi, droit de grève, droit d'obtenir de la collectivité des moyens convenables d'existence). ces droits sont conservés dans la constitution de 1958.
+l'apparition et l'intensification des problèmes écologiques à partir des années 1970 soulève la question des droits et devoirs des citoyens en rapport à leur environnement. les politiques des états commencent à prendre en compte des objectifs de développement durable, croisant les aspects économiques, sociaux, et environnementaux, selon la description donnée au sommet de la terre de rio de janeiro en 1992. l'union européenne met en place une politique de développement durable. en france, les droits et devoirs liés à l'environnement sont proclamés dans la charte de l'environnement de 2004, faisant de ce pays le premier état au monde à leur attribuer une valeur constitutionnelle.
+
+
+== philosophie ==
+
+
+=== chine ===
+la pensée politique chinoise émerge, comme en grèce archaïque dans un contexte de crise. la décomposition des structures politiques traditionnelles suscite en effet dans les deux cas une prise de conscience philosophique et politique. effectif à partir du viiie siècle av. j.-c., le déclin de l'empire des zhou, permet aux divers fiefs et seigneuries de s'émanciper et de constituer de multiples royaumes indépendants.
+dans une société chinoise divisée par le féodalisme, confucius cherchait à restaurer l'ordre et la paix grâce au respect des traditions, à la légitimité du pouvoir et à la hiérarchie sociale. au-delà de ses principes directeurs, son expérience l'amène à la conclusion théorique suivante : pour que le pouvoir politique puisse vivre et être pérenne, le prince est tenu de se comporter comme un homme de qualité, un sage en montrant sans cesse l'exemple. « si un homme sait se gouverner lui-même, quelle difficulté aura-t-il à gouverner son état ? »
+
+
+=== grèce antique ===
+la pensée politique de socrate se résume à deux apports fondamentaux. premièrement, le développement d'une méthode critique d'évaluation de la connaissance politique. à la différence de protagoras, socrate affirme que la vérité existe. toutefois, cette vérité n'est pas dogmatique : on ne peut l'atteindre que par l'exercice constant d'un esprit critique. rétif aux concepts, socrate s'efforce d'instiller le doute quant à la moralité et l'efficacité des systèmes politiques : « en mettant ses interlocuteurs en contradiction avec eux-mêmes, il montre que l'opinion est (…) incapable de servir de base à la délibération et à la décision politique, ce qui ruine le postulat athénien (…) de l'universelle compétence des citoyens ». deuxièmement, la conceptualisation de la morale comme un objet de science. il y a, selon socrate, des lois morales universelles, que l'on ne saurait découvrir que par une éducation véritablement philosophique. rarement innée, la science du gouvernement s'apprend ; si bien que pour socrate, la politique apparaît comme un véritable métier.
+initialement dérivée des théories socratiques, la philosophie politique de platon repose sur la question du bien et des facultés de l'âme, question qui touche tant aux conduites humaines individuelles qu'à l'éducation : il n'y a pas, en effet, pour platon, de vertu que l'on pourrait acquérir de manière individuelle, et la philosophie elle-même est une activité de la pensée qui suppose toujours une éducation et des conditions politiques qu'il reste à définir. la philosophie politique est donc, pour platon, inséparable de la philosophie morale (comme c'est le cas pour toute la philosophie grecque ancienne) : la politique, que platon est le premier philosophe à identifier comme telle, a pour but de prendre soin de l'âme des citoyens, par le moyen de l'éducation. pour ces raisons, la politique est la science du bien en général, et elle est donc supérieure à toutes les autres sciences et techniques, c'est pourquoi platon la désigne comme technique royale.
+par opposition à socrate, qui part du monde des idées pour en déduire des applications concrètes, aristote tend à vouloir s'appuyer sur l'observation du réel pour en déduire des principes théoriques. cette approche aristotélicienne est aussi vraie en politique. pour aristote, l'homme est fait pour vivre en communauté politique. pour lui, la cité est voulue par la nature et est donc inhérente à tout groupe humain, selon le principe que l'homme est par nature un être destiné à vivre en cité (ἄνθρωπος φύσει πολιτικὸν ζῷον / anthropos phusei politikon zoon)
+dans son œuvre la politique, aristote analyse l'origine et le fonctionnement des différents régimes politiques de son époque, le ive siècle av. j.-c., pour définir le meilleur d'entre eux, qui doit donner naissance à la cité idéale.
+la philosophie hellénistique va marquer un net retrait par rapport à ces préoccupations politiques.
+
+
+=== théologie ===
+
+
+==== judaïsme ====
+
+
+==== islam ====
+
+
+==== christianisme ====
+
+
+=== renaissance et sécularisation ===
+
+machiavel incarne une rupture absolue par rapport à la tradition politique chrétienne et, à ce titre, apparaît comme le premier penseur politique moderne. selon lui, en effet, « un prince nouveau, dans une cité, ou une province conquise doit faire toute chose nouvelle »[réf. incomplète]. pour machiavel, trois principes doivent diriger le politique : la force, le respect des lois, la ruse. pour machiavel, le prince n'a pas besoin de faire profession d'homme de bien. ces conceptions politiques se doublent d'une interprétation théologique également renouvelée. en effet, selon léo strauss : « puisqu'il caractérise comme tyrannique une façon d'agir que le nouveau testament attribue à dieu, il nous conduit à la conclusion, non, il dit en effet que dieu est un tyran ».
+aussi, pour machiavel, le prince se doit d'être efficient, autrement dit le prince se doit d'être utile. ce qui est une révolution pour l'époque car il sous-entend que le prince n'est pas nécessairement utile, que le prince n'est pas une finalité en soit mais que sa place et sa fonction se doivent d'être méritées[réf. nécessaire].
+
+
+=== xviie ‑ xviiie siècles ===
+
+la question de l'état de nature et du contrat social s'inscrit dans un contexte particulier de la pensée occidentale. à partir du xviie siècle, s'amorce en effet une contestation des thèses politiques aristotéliciennes, à partir d'un contre-argumentaire humaniste. pour aristote en effet : « l'état est un fait de nature », et « naturellement, l'homme est un être sociable », par le simple fait qu'il maîtrise le langage rationnel, et est ainsi apte, plus qu'aucun autre animal à se regrouper en société : « l'homme est infiniment plus sociable que tous les autres animaux qui vivent en groupe ». il s'ensuit que « la nature pousse donc instinctivement tous les hommes à l'association politique » et que « ἄνθρωπος φύσει πολιτικὸν ζῷον » — « l'homme est un animal politique ».
+a contrario, « pour l'âge moderne, l'humanité de l'homme ne dépend pas essentiellement de son rapport à autrui dans la construction d'un ordre juste ». dans l'esprit de l'humanisme, la relation entre l'homme et la morale ou la nature n'est en effet pas d'ordre collectif, mais individuel. dans la mesure où l'homme précède l'état, celui-ci ne saurait être un fait de nature, et n'a pu être instauré qu'à un moment précis de l'histoire humaine, pour répondre à des besoins non moins précis. il est à noter qu'une telle position conventionnaliste existait déjà au temps d'aristote. outre un certain nombre de sophistes cités par ce dernier et dont l'œuvre ne nous a pas été transmise, tels que lycophon, épicure partageait ces conceptions. pour ce dernier, l'état fut instauré par convention (sunkhétai), afin de permettre aux philosophes de s'adonner à la science, sans redouter l'insécurité des rapports humains : « épicure voit le fondement de la cité, et plus généralement des liens de droit, dans des contrats ou des conventions liant des sujets autonomes (...) les hommes s'associent parce qu'ils ont éprouvé la douleur de subir des dommages (...) l'homme n'est pas un animal naturellement politique ». le hasard de la transmission des textes a contribué à occulter cette position conventionnaliste, alors relativement fréquente.
+réhabilité par hugo grotius, qui établit l'existence, dans son traité du droit de la guerre et de la paix, d'un droit naturel préexistant aux divers droits politiques, l'état de nature est exposé clairement par samuel pufendorf dans le premier livre du droit de la nature et des gens. pour celui-ci, l'état ne fait que confirmer positivement un système de droit et de devoir préexistant en l'homme : il existe des lois naturelles, telles que la loi de sociabilité, qui régissent les rapports humains. toutefois, pour que ces lois naturelles puissent réellement être appliquées, l'intervention d'une autorité politique est nécessaire : « le but des législateurs de cette terre est de régler les actions extérieures de chacun, le mieux qu'il est possible ».
+
+
+== idéologie ==
+
+la première mention du terme idéologie remonte à 1801, lors de la publication des éléments d'idéologie par antoine destutt de tracy. toutefois, le sens que tracy appliquait à ce néologisme n'avait rien de politique : il s'agissait d'une science des idées et des sensations : « je veux dans cet écrit, non pas vous enseigner, mais vous faire remarquer tout ce qui se passe en vous quand vous pensez, parlez, et raisonnez ». elle ne recouvre en fait son sens actuel qu'à partir de l'idéologie allemande de karl marx, écrit en 1846, mais publié beaucoup plus tard.
+
+
+=== libéralisme ===
+
+le libéralisme est un courant de pensée de philosophie politique, né d'une opposition à l'absolutisme et au droit divin dans l’europe des lumières (xviiie siècle), qui affirme la primauté des principes de liberté et de responsabilité individuelle [référence nécessaire] sur le pouvoir du souverain. il repose sur l’idée que chaque être humain possède des droits fondamentaux qu'aucun pouvoir ne peut violer. en conséquence, les libéraux veulent limiter les obligations sociales imposées par le pouvoir et plus généralement le système social au profit du libre choix de chaque individu.
+le libéralisme repose sur un précepte moral qui s'oppose à l'assujettissement de l'individu, d'où découlent une philosophie et une organisation de la vie en société permettant à chaque individu de jouir d'un maximum de liberté, notamment en matière économique. pour la plupart des libéraux, la dichotomie entre « libéralisme économique » et « libéralisme politique » n'existe donc pas, puisqu'il s'agit de l'application d’une même doctrine dans des domaines différents.
+au sens large, le libéralisme prône une société fondée sur la liberté d'expression des individus dans le respect du droit du pluralisme et du libre échange des idées. elle doit joindre d'une part dans le domaine économique, l'initiative privée, la libre concurrence et son corollaire l'économie de marché, d'autre part, des pouvoirs politique et économique bien encadrés par la loi et les contre-pouvoirs. elle valorise donc le mérite comme fondement de la hiérarchie. cela suppose idéalement un état de droit où sont respectées les minorités jusqu'à la plus petite, l'individu, l'état n'étant que le garant de ce respect et devant rendre des comptes de son action.
+cependant en fonction de la situation (et de ce que chacun peut en penser soi-même) le libéralisme pourra se manifester de façon fort diverse, voire opposée. le libéral pourra ainsi être, selon le lieu, voire en fonction des moments, celui qui exige de l'état qu'il brise un traditionalisme religieux ou social oppresseur pour l'individu (caste, statuts, discriminations et privilèges, ...) ou qu'il intervienne pour donner à chacun une véritable capacité d'action économique (bridée par un monopole, la pauvreté, le manque d'éducation de crédit ou autre), ou inversement celui qui s'oppose à l'intervention du pouvoir.
+les limites à fixer à l'action de l'état, ainsi que les modalités de l'action publique (notamment aux rôles respectifs de l'action administrative et de la loi), seront spécialement sujet à débat au sein même. la plupart des libéraux considèrent que l'action de l'état est nécessaire à la protection des libertés individuelles, dans le cadre de ses fonctions régaliennes, et nombre d'entre eux (comme adam smith, raymond aron, karl popper ou benedetto croce) acceptent et même recommandent certaines interventions de l'état dans l'économie, notamment en matière de contrôle et de régulation. à l'opposé, les libertariens (ou anarcho-capitalistes) refusent à l'état toute légitimité dans quelque domaine que ce soit.
+
+
+=== socialisme ===
+
+le socialisme est un type d'organisation sociale fondé sur la propriété collective (ou propriété sociale) des moyens de production,,, par opposition au capitalisme.
+il est l'objectif de divers courants apparus et développés depuis le xixe siècle, et ayant abouti aujourd'hui aux différents courants marxistes et anarchistes, ainsi qu'aux sociaux-démocrates. la répartition des biens et services peut se faire en fonction de la production de chaque individu (collectivisme, travail aux pièces) ou en fonction des besoins de chaque individu (communisme, prise au tas). les états marxistes ont une économie collectiviste, alors que le communisme est préconisé par les anarchistes. le mouvement socialiste recherche une justice sociale, condamne les inégalités sociales et l’exploitation de l’homme par l’homme, défend le progrès social, et prône l'avènement d'une société égalitaire, sans classes sociales.
+pour leur part, les universitaires georges bourgin et pierre rimbert définissent le socialisme comme « une forme de société dont les bases fondamentales sont les suivantes :
+propriété sociale des instruments de production ;
+gestion démocratique de ces instruments ;
+orientation de la production en vue de satisfaire les besoins individuels et collectifs des hommes. »
+
+
+=== fascisme ===
+
+à l'origine, le fascisme (en italien fascismo) désigne un mouvement politique italien apparu à la fin de la première guerre mondiale. le 23 mars 1919, benito mussolini réunit un certain nombre de dissidents du psi, et entreprend de former un « faisceau de combat » (fascio di combattimento). par « faisceau », mussolini entendait alors un mouvement spontanéiste, dans la lignée du syndicalisme révolutionnaire italien. le terme appartenait de fait à un vocabulaire d'extrême-gauche . en concurrence directe avec d'autres organisations révolutionnaires (dont le parti communiste naissant), les fascii essaient de récupérer une clientèle de droite. ces tentatives de récupération rassurent la bourgeoisie italienne, qui, à l'issue de la répression des mouvements ouvriers, considère ce mouvement comme un moindre mal.
+l'idéologie de ce mouvement est délicate à définir : on peut y voir schématiquement une synthèse du nationalisme et du syndicalisme révolutionnaire, mais de multiples contextes et mouvements idéologiques ont en fait préludé à sa création : le renouveau de l'irrationnel, le futurisme, l'antisémitisme… du fait de sa nature composite, le fascisme a peiné à constituer une doctrine originale et nouvelle : « au début, le fascisme se distingue difficilement d'autres mouvements ultra-minoritaires ». les contemporains eux-mêmes étaient sceptiques vis-à-vis d'un programme « attrape-tout », qui capte aussi bien des thématiques marxistes, nationalistes et réactionnaires.
+comme le note l'historien pierre milza, cette diversité idéologique nous oblige à penser le fascisme comme une pluralité : « il n'y a pas un mais des fascismes ». cette pluralité est d'abord spatiale : « sur un fond commun (…) il y a éclosion de mouvements politiques d'un type nouveau, proches parents les uns des autres, mais en même temps dotés d'une spécificité qui tient au passé, aux traditions, aux structures des pays dans lesquels ils se développent ». elle est aussi, et surtout, temporelle. milza identifie ainsi quatre étapes de développement du fascisme :
+le premier fascisme constitue une réaction spontanée de la classe moyenne face à des menaces diverses et contextualisées : prolétarisation, mouvements révolutionnaires.
+le second fascisme résulte d'une alliance entre le premier fascisme et la grande bourgeoisie, ce qui suppose que cette dernière se sente également menacée. cette alliance entraîne la liquidation de certains courants gauchisants (le squadrisme italien, les sa allemands…).
+le troisième fascisme représente le fascisme de gouvernement. il hérite des contradictions initiales du mouvement. à la différence des dictatures de droite classiques, le fascisme ne peut simplement consacrer la domination des élites en place. il doit en effet satisfaire certaines classes sociales inférieures, qui ont constitué sa clientèle originelle : la petite bourgeoisie fournit ainsi les principaux cadres du nouveau régime, tandis que de multiples institutions sociales (corporations) s'efforcent d'intégrer le prolétariat à la société fasciste. ces dispositions contradictoires ne peuvent se concilier que dans le cadre d'un grand dessein national. aussi, par ses contradictions mêmes, le fascisme est acculé à la guerre.
+le quatrième fascisme ou full fascism s'efforce de remplacer l'ordre bourgeois et libéral par un ordre nouveau. ce remplacement présuppose la mise en place d'un pouvoir totalitaire (l'état-ss) et le conditionnement généralisé des individus.
+considéré sous l'angle de ces deux pluralités, le fascisme devient un concept politique générique, qui, au-delà du régime de mussolini caractérise le nazisme de hitler, la ligue de cuza de codreanu, la heimwehr autrichienne, le buf d'oswald mosley, le ppf de jacques doriot… il semblerait même que l'on puisse parler, après 1929, d'une internationale fasciste. en 1932, mussolini affirme ainsi dans un discours tenu à milan : « dans dix ans, l'europe sera fasciste ou fascisée ». un peu plus tôt, l'un des caciques du régime, asvero gravelli, allait jusqu'à déclarer dans sa revue antieuropa : « le fascisme est le fossoyeur de la vieille europe. voici que surgissent les forces de l'internationale fasciste ». c'est dans cet esprit que mussolini créa les caur (comitati d'azione per l'universalità di roma) en 1933, afin de fédérer les mouvements qui se réclament du fascisme italien. cette initiative resta lettre morte : foncièrement nationalistes, les fascismes ne sauraient cohabiter. ce n'est que par l'expansionnisme de quelques états fascistes, que le fascisme put s'imposer internationalement.
+à la fin de la seconde guerre mondiale, les mouvements fascistes cessent de constituer une alternative politique viable. aussi bien leur compromission dans des crimes contre l'humanité que « l'avènement d'un système capitaliste infiniment plus internationalisé que par le passé » hypothèque définitivement leur avenir idéologique. bien que « l'époque du fascisme » soit close, ces mouvements continuent, marginalement, d'exister.
+
+
+== organisation du pouvoir ==
+
+
+=== régimes politiques selon la légitimité ===
+pour s'exercer sans rencontrer d'opposition, le pouvoir politique s'est toujours attaché à justifier de sa légitimité. celle-ci peut reposer sur :
+la tradition et l'hérédité, cas des régimes traditionnels, des monarchies et de systèmes aristocratiques ;
+la volonté divine, cas des théocraties mais aussi de la monarchie de droit divin ;
+l'expression du droit des peuples et des individus (souveraineté populaire) ; c'est le cas des démocraties mais aussi de régimes autoritaires mais se réclamant de la volonté populaire (certains régimes fascistes) ;
+le mérite et la qualité des dirigeants. c'est la théorie induite par les régimes gouvernés par les « sages » (cas de certains pouvoirs locaux ou tribaux), d'oligarchie bourgeois (suffrage censitaire) ou techniciens ;
+le souci d'efficacité de l'action politique, officiellement pour le bien du peuple même si celui-ci n'est — temporairement ou de façon permanente — pas jugé apte à exercer le pouvoir. ce sont les régimes inspirés du positivisme, les technocraties ;
+le hasard (stochocratie).
+historiquement, il semble que dans un certain nombre de premières civilisations, le pouvoir politique n'apparaît pas distinct du pouvoir religieux (voir par exemple la politique dans l'égypte antique). la confusion du pouvoir politique et religieux, ou la soumission du pouvoir politique au religieux, ou la très grande proximité des deux, s'appelle théocratie.
+
+
+=== autres typologies de régimes politiques ===
+la politique consiste d'abord en l'organisation du pouvoir dans la société. on distingue entre plusieurs systèmes de prise de décision.
+on distingue traditionnellement entre monarchies et républiques, une distinction institutionnelle finalement jugée peu pertinente de nos jours compte tenu du fait de la diversité des types de monarchie (de la monarchie parlementaire scandinave ou britannique à la théocratie saoudienne) et de types de républiques.
+les distinctions actuelles reposent plus sur le degré de démocratie, la démocraticité, caractérisant le régime. on distingue ainsi les régimes démocratiques, autoritaires, ou totalitaires.
+
+
+=== pouvoirs politiques ===
+le pouvoir politique est constitué d'au moins deux fonctions distinctes :
+un pouvoir exécutif, qui prend des décisions et, une fois celles-ci adoptées, les applique et les fait appliquer au travers d'une administration ;
+un pouvoir législatif (une ou des assemblées), assurant la représentativité du peuple ou du moins de l'élite, qui accepte ou non les décisions de l'exécutif et peut parfois en proposer lui-même.
+à cela s'ajoutent des pouvoirs non directement « politiques » mais qui participent au système politique :
+le pouvoir judiciaire, chargé de juger ;
+le pouvoir médiatique, est souvent qualifié de quatrième pouvoir compte tenu de sa capacité supposée ou réelle à influencer l'opinion publique.
+dans la pensée politique démocratique occidentale (née en grande-bretagne puis formalisée par le philosophe français montesquieu), qui sert actuellement, au moins sur le papier, de modèle au niveau international, les pouvoirs doivent être séparés. dans les démocraties on distingue ainsi entre :
+le régime présidentiel ;
+le régime parlementaire ou d'assemblée ;
+des formes mixtes.
+
+
+=== pouvoirs territoriaux ===
+les modes d'organisation territoriale constituent un autre aspect de l'organisation du pouvoir. à cet égard, on distingue :
+l'état unitaire qui pratique la centralisation du pouvoir ;
+les états unitaires pratiquant une dose plus ou moins importante de décentralisation du pouvoir ;
+les états fédéraux, pratiquant le fédéralisme, conférant un pouvoir important aux divisions territoriales (appelées état, land, région, province, etc.).
+classiquement, les états comprennent deux grands types de subdivisions territoriales :
+de larges entités régionales (au sens français) correspondant souvent à des entités historiques bien déterminées, ayant parfois connu au cours de leur histoire des périodes d'indépendance ou d'autonomie (telles, en europe, la bretagne, l'écosse, la catalogne, la bavière, etc.) ;
+les municipalités ou villages, constituant historiquement la cellule de base de la vie locale.
+entre les deux, existent parfois des échelons politique et/ou administratifs tels, en france, le département et les cantons.
+au-dessus du cadre national, existent des structures politiques plus ou moins souples « régionales » (telle l'union européenne) et mondiales (telle l'organisation des nations unies).
+
+
+== politiké : art et pratique ==
+
+
+=== vie politique ===
+les modalités d'accession au pouvoir sont, comme l'organisation du pouvoir, déterminées par les institutions et sont une part du régime politique. cependant, elles dépassent également la question de l'organisation du pouvoir pour les raisons suivantes :
+l'accession au pouvoir dépend également de la vie politique, c'est-à-dire notamment, dans les sociétés contemporaines, de la vie des partis politiques ; d'où également la question des relations entre le pouvoir et ses oppositions ;
+la question de l'accession au pouvoir dépasse également celle de son organisation puisque l'accession peut se produire par une forme qui n'a pas été prévue par les institutions. ce sont toutes les formes de prises de pouvoir violentes : coup d'état et révolution.
+
+
+==== mode d'accession au pouvoir ====
+
+les différents modes d'accession au pouvoir dépendent de la légitimité du régime en place (lire supra) ainsi que du type de régime (supra). sur le papier, le système de l'élection, fondé sur le présupposé théorique de la démocratie, s'est imposé au xxe siècle comme le système standard international de désignation des dirigeants. il existe des exceptions avec en particulier des monarchies (arabie saoudite, sultanat de brunei, etc.).
+au sein du système démocratique, on distingue notamment entre :
+démocratie directe ou démocratie indirecte avec mandat impératif ou représentatif (délégation de pouvoir) ;
+différentes de mise en œuvre, à travers divers types de système électoral.
+
+
+==== modes d'action politique ====
+dans les régimes démocratiques, le mode normal d'accession au pouvoir est la participation aux élections.
+d'autres modes d'expression non violents existent également (manifestations, grèves, non-violence, désobéissance civile, conflit non-violent, boycott, campagnes de presse, cybermouvements, etc.).
+le domaine de la politique recouvre cependant également des modes d'actions politique violents : coup d'état, révoltes, révolution. certains actes violents sont considérés comme du terrorisme par ceux contre lesquels ils sont destinés et des actes de résistance par ceux qui le pratiquent.
+
+
+==== partis politiques ====
+des factions politiques opposées ont toujours existé au sein de tous les régimes, souvent plus fondés sur le soutien à une personnalité du régime (souvent un prince ou un grand seigneur au sein des monarchies). à partir de la révolution française au moins (mais bien plus tôt en angleterre avec les tories et whigs), s'est mis en place un modèle fondé sur des partis politiques ou mouvements politiques théoriquement plus soudés par des idées politiques plus que par le soutien à une personnalité.
+les systèmes politiques multipartistes se sont répandus à travers le monde, introduisant des notions politiques nouvelles :
+l'alternance politique pacifique à la tête du gouvernement entre partis ;
+la distinction entre une majorité et une opposition ;
+la distinction entre deux principaux camps politiques : la droite et la gauche, ou, de manière caricaturale, les conservateurs et les réformateurs, etc.
+les mouvements politiques peuvent être associés dans leur action avec des mouvements sociaux, des associations, etc. l'article 4 de la constitution de 1958 régit l'organisation des partis politiques en france.
+
+
+==== rôle politique des médias ====
+les médias ont toujours joué un rôle important dans la vie politique, constituant un relais de la vie politique envers le public. l'influence des médias a conduit à appeler la presse le « quatrième pouvoir ». le pouvoir politique a suivi les évolutions technologiques, utilisant la presse, la radio (les « causeries au coin du feu » de franklin delano roosevelt), le cinéma (les films de propagande des régimes totalitaires), la télévision puis internet et le marketing direct.
+en france, l'utilisation de médias touchant directement le grand public, hormis la presse, était considérée au début du xxe siècle avec suspicion par les milieux républicains pour qui le lien direct de la tête de l'exécutif avec le peuple relevait de la tradition bonapartiste. l'utilisation de la radio tout d'abord (l'appel du 18 juin du général de gaulle) puis de la télévision par le général de gaulle a brisé ces tabous.
+le développement des médias a conduit à une modification des comportements des hommes politiques, une tendance appelée peoplelisation au début des années 2000. il s'agit de montrer une autre image (non institutionnelle et plus intime) de l'homme politique et de mettre en scène sa vie privée afin de créer une image favorable et un lien de proximité avec l'électeur potentiel. en france, on peut tracer ses prémices dans les années 1970 lorsque valéry giscard d'estaing mit sa femme en scène et se fit filmer en train de jouer de l'accordéon.
+
+
+=== exercice du pouvoir ===
+la politique menée par un gouvernement recouvre l'ensemble de ses décisions prises à l'échelon politique ou à l'échelon administratif. cette politique « générale » se subdivise en politiques sectorielles dont les principales sont la politique sociale, la politique économique, la politique étrangère, etc. un concept qui peut être affiné (politique du logement, politique culturelle, politique agricole, etc.). l'action politique s'exerce concrètement à travers l'émission de règles (de niveau politique ou administratif) appliquées ou contrôlées par une administration.
+
+
+=== représentations ===
+la présence des femmes en politique a augmenté lentement mais sûrement entre 2000 et 2009. d'après un rapport des nations unies[réf. nécessaire], la proportion de sièges qu'elles occupent dans les parlements nationaux est passée de 17 à 23 % pour les régions développées et de 11 à 17 % pour celles en développement.
+
+
+== notes et références ==
+
+
+== annexes ==
+
+
+=== bibliographie ===
+philippe nemo, histoire des idées politiques dans l'antiquité et au moyen âge, puf quadrige,‎ 2007
+samuel noah kramer, l'histoire commence à sumer, arthaud,‎ 1986
+francis joannès, dictionnaire de la civilisation mésopotamienne, robert laffont,‎ 2001
+philippe raynaud, dictionnaire de philosophie politique, puf,‎ 2006
+pierre milza, les fascismes, seuil,‎ 2001
+guillaume bernard, jean-pierre deschodt, michel verpeaux, dir., dictionnaire de la politique et de l'administration, puf,‎ 2011
+jean-pierre vernant, les origines de la pensée grecque, paris, presses universitaires de france, coll. « quadrige »,‎ 2007, 10e éd. (1re éd. 1962) (isbn 978-2-13-054565-1).
+léo strauss, pensées sur machiavel, payot,‎ 1982.
+
+
+=== articles connexes ===
+
+
+==== articles généraux ====
+
+
+==== sciences autour de la politique ====
+
+
+==== différents types de politiques ====
+
+
+==== organisations para-politiques ====
+
+
+==== politique internationale et diplomatie ====
+
+ portail de la politique
+ portail de la sociologie
+ portail du droit
