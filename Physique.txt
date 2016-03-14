@@ -1,0 +1,375 @@
+la physique est la science qui tente de comprendre, de modéliser, voire d'expliquer les phénomènes naturels de l'univers. elle correspond à l'étude du monde qui nous entoure sous toutes ses formes, des lois de sa variation et de son évolution.
+la modélisation des systèmes peut laisser de côté les processus chimiques et biologiques ou les inclure. la physique développe des représentations du monde expérimentalement vérifiables dans un domaine de définition donné. elle produit donc plusieurs lectures du monde, chacune n'étant considérée comme précise que jusqu'à un certain point.
+la physique telle que conceptualisée par isaac newton, considérée comme le modèle absolu et aujourd’hui désignée comme la physique classique, n'arrivait pas à expliquer des phénomènes naturels comme le rayonnement du corps noir (catastrophe ultraviolette) ou les anomalies de l’orbite de la planète mercure, ce qui posait un réel problème aux physiciens. les tentatives effectuées pour comprendre et modéliser les phénomènes nouveaux auxquels on accédait à la fin du xixe siècle révisèrent en profondeur le modèle newtonien pour donner naissance à deux nouveaux ensembles de théories physiques. certains diront qu'il existe donc trois ensembles de théories physiques établies, chacune valide dans le domaine d’applications qui lui est propre :
+la physique classique (monde des milieux solides, liquides et gazeux), toujours d'actualité, c'est elle qui s’applique, par exemple, à la construction des routes, des ponts et des avions. elle utilise les anciennes notions de temps, d'espace, de matière et d'énergie telles que définies par isaac newton ;
+la physique quantique (monde microscopique des particules et des champs) qui s’applique, par exemple, à la technologie utilisée pour la production des composants électroniques (la diode à effet tunnel par exemple) ou encore aux laser. elle se fonde sur de nouvelles définitions de l'énergie et de la matière mais conserve les anciennes notions de temps et d'espace de la physique classique, ces deux dernières étant contredites par la relativité générale. la physique quantique n'a jamais été prise en défaut à ce jour ;
+la relativité générale (monde macroscopique des planètes, des trous noirs et de la gravité) qui s’applique, par exemple, à la mise au point et au traitement de l'information nécessaire au fonctionnement des systèmes gps. elle se fonde sur de nouvelles définitions du temps et de l'espace mais conserve les anciennes notions d'énergie et de matière de la physique classique, ces deux dernières étant contredites par la physique quantique. la relativité générale n'a jamais été prise en défaut à ce jour.
+d'autres estiment que chaque branche de la physique a son importance à part entière, sans forcément s'inclure dans l'un de ces ensembles. de plus, il se trouve qu'il n'y a pas de situation physique courante où ces deux dernières théories s'appliquent en même temps. la relativité s'applique au monde macroscopique et la physique quantique au monde microscopique. le problème actuel de la recherche en physique fondamentale est donc de tenter d'unifier ces deux dernières théories (voir gravité quantique).
+les divisions anciennes en mécanique, calorique, acoustique, optique, électricité, magnétisme sont complétées ou remplacées par :
+la taille des éléments de structure au centre de la modélisation : particules élémentaires, noyaux atomiques, atomes, molécules, macromolécules ou polymères, grains de matière…
+les caractères des interactions à l'origine des phases ou états de la matière : plasma, fluide supercritique, gaz, liquide, solide.
+la physique classique est fondée sur des théories antérieures à la relativité et aux quanta. elle s'applique lorsque :
+soit la vitesse est très inférieure à la célérité de la lumière dans le vide ;
+soit la discontinuité des niveaux d'énergie est impossible à mettre en évidence.
+la physique est née avec les expériences répétées de galilée qui n'accepte, au-delà des principes et des conventions issus des schémas mathématiques, que des résultats mesurables et reproductibles par l'expérience. la méthode choisie permet de confirmer ou d'infirmer les hypothèses fondées sur une théorie donnée. elle décrit de façon quantitative et modélise les êtres fondamentaux présents dans l'univers, cherche à décrire le mouvement par les forces qui s'y exercent et leurs effets. elle développe des théories en utilisant l'outil des mathématiques pour décrire et prévoir l'évolution de systèmes.
+le mot physique a une longue histoire, il provient de φυσικη, formée sur l'étymon grec φυσις, la nature. la physika ou physica gréco-romaine est étymologiquement ce qui se rapporte à la nature ou précisément le savoir harmonieux et cyclique sur la nature dénommée φυσις. dans un sens général et ancien, la physique désigne la connaissance de la nature qui se perpétue en restant essentiellement la même avec le retour des saisons ou des générations vivantes ; c'est le sens de rené descartes et de ses élèves jacques rohault et régis. elle correspond alors aux sciences naturelles ou encore à la philosophie naturelle. la signification de cette physique ancienne ne convient plus aux actuelles sciences exactes que sont la physique, la chimie et la biologie, cette dernière étant la plus tardive héritière directe des sciences naturelles.
+
+
+== étymologie et évolution du sens ==
+
+c'est vraisemblablement l'ouvrage physica d'aristote (384-322) qui est à l'origine de ce mot.
+le terme « physique » vient du grec η φυσικη (ê physikê) adopté dans le monde gréco-romain, signifiant « connaissance de la nature ». ce nom est obtenu en substantivant l'adjectif φυσικος, -η, -ον qui se traduisait alors par « qui concerne la nature ». la racine de ces termes est φυσις (physis), la nature au sens des grecs anciens.
+le terme ancien est perpétué par la tradition de la philosophie antique. selon platon[réf. nécessaire], la physique est l'une des trois parties de l'enseignement de la philosophie, aux côtés de l'éthique et de la logique. selon son élève aristote, la philosophie se divise en philosophie théorétique, philosophie pratique et philosophie poétique ; la physique est une des trois parties de la philosophie théorétique, aux côtés de la mathématique et de la théologie. aristote écrit un livre sur la physique. ce qui échappe à la triple catégorisation et ne peut être catalogué dans la physique est dévolu à la métaphysique, c'est-à-dire ce qui va au-delà de la physique.
+au xiie siècle, le mot savant physique est attesté en ancien français sous la double forme fusique dès 1130 ou fisique. il a un double sens :
+la médecine se nomme fusique. son praticien, un médecin ou autrefois un apothicaire, est dénommé fisicien dès 1155. en anglais le terme subsiste avec la graphie savante : a physician.
+la fisique est aussi la connaissance des choses de la nature. le praticien ne soigne-t-il pas avec les dons de la nature, les herbes et les plantes, les substances minérales, animales ou végétales ?
+il n'apparaît en tant qu'adjectif qu'à la fin du quattrocento ou xve siècle. loys garbin le cite dans son vocabulaire latin-français publié à genève en 1487, où il désigne « ce qui se rapporte à la nature » et le substantif s'affirme dorénavant science des choses naturelles. l'adjectif reste d'emploi rare avant le xviie siècle. le mot physique désigne alors les « connaissances concernant les causes naturelles » et, à l'instar de la force promue par hypothèse cause du mouvement, son étude apporte l'expression « philosophie naturelle » selon un corpus universitaire gardé par isaac newton, auteur des principes mathématiques de philosophie naturelle. au xviiie siècle, la physique désigne clairement en français la science expérimentale.
+des chaires de philosophie naturelle sont établies dans certaines universités, notamment au royaume-uni (oxford, edimbourg, etc.) à paris, on compte par exemple une chaire de philosophie naturelle au collège de clermont, occupée notamment par ignace-gaston pardies. maxwell occupe quelque temps une semblable chaire à edimbourg où l'enseignement reste un fourre-tout indigeste.
+
+
+== histoire : naissance d'une science moderne ==
+le mot physique prend son sens moderne, plus restreint et mieux défini que le sens originel, au début du xviie siècle avec galilée. selon lui, les lois de la nature s'écrivent en langage mathématique. les principes d'inertie et de relativité ainsi que les lois découvertes semblent contredire le sens commun.
+
+l'élève de galilée, torricelli, montre que la science ne se contente pas de calculer des trajectoires balistiques, mais elle peut aussi expliquer des phénomènes singuliers qu'on lui soumet et mettre au point des techniques. les fontainiers de florence ne parvenaient pas à hisser par une seule puissante pompe aspirante l'eau de l'arno à des hauteurs dépassant trente-deux pieds, soit une dizaine de mètres. torricelli, consulté par ses maîtres artisans dépités, constate avec eux le fait troublant, mais en procédant par expérience, il découvre le vide et détermine les capacités maximales d'élévation d'une batterie de pompes.
+à l'université de paris, l'aristotélisme fournit un classement des natures et causes des phénomènes observés, et ordonne la nature de manière rigoureuse dans les cours de philosophie naturelle jusque dans les années 1690, à partir desquelles il est progressivement remplacé par un cartésianisme sophistiqué, notamment grâce à l'ouverture du collège des quatre-nations et les cours d'edme pourchot.
+les pionniers de la modélisation scientifique parmi lesquels le français descartes et nombre d'hydrauliciens et savants expérimentateurs des pays-bas ou d'angleterre contribuent à diffuser les bases de cette physique mathématisée qui atteint son apogée en angleterre avec isaac newton.
+dans la première édition du dictionnaire de l'académie française, datant de 1694, le nom « physique » est désigné comme la « science qui a pour objet la connaissance des choses naturelles, ex: la physique fait partie de la philosophie;la physique est nécessaire à un médecin.». l'adjectif « physique » est défini, en outre, comme signifiant « naturel, ex: l'impossibilité physique s'oppose à l'impossibilité morale ». ce n'est que dans sa sixième édition (1832-1835) que le sens moderne de « physique » apparait, le terme est défini comme la « science qui a pour objet les propriétés accidentelles ou permanentes des corps matériels, lorsqu'on les étudie sans les décomposer chimiquement. ». enfin dans sa huitième édition (1932-1935), la physique est définie comme la « science qui observe et groupe les phénomènes du monde matériel, en vue de dégager les lois qui les régissent.»
+le littré donne des définitions apparemment précises. en tant qu'adjectif, il définit les phénomènes physiques comme « ceux qui ont lieu entre les corps visibles, à des distances appréciables, et qui n'en changent pas les caractères » et les propriétés physiques, comme « qualités naturelles des corps qui sont perceptibles aux sens, telles que l'état solide ou gazeux, la forme, la couleur, l'odeur, la saveur, la densité, etc. ». les sciences physiques sont définies comme « celles qui étudient les caractères naturels des corps, les forces qui agissent sur eux et les phénomènes qui en résultent ». en tant que nom, la physique est définie comme « science du mouvement et des actions réciproques des corps, en tant que ces actions ne sont pas de composition et de décomposition, ce qui est le propre de la chimie ».
+la notion actuelle de science en tant qu'« ensemble ou système de connaissances sur une matière » date seulement du xviiie siècle. avant cette époque, le mot « science » signifiait simplement « la connaissance qu'on a de quelque chose » (science et savoir ont la même étymologie) et la notion de scientifique n'existait pas. à l'inverse, le terme « philosophie » désigne dans son sens ancien « l'étude des principes et des causes, ou le système des notions générales sur l'ensemble des choses. », les sciences naturelles étaient donc le résultat de la philosophie naturelle (voir l'exemple du titre de la revue philosophical transactions).
+l'expression « sciences physiques » désigne actuellement l'ensemble formé par la physique (dans son sens moderne) et la chimie, cette expression prend son sens actuel en france au début du xixe siècle, en même temps que le mot « science » prend le sens d'« ensemble formé par les sciences mathématiques, physiques et naturelles ». auparavant, l’expression « sciences physiques » était un simple synonyme de l'expression « sciences naturelles ».
+
+
+== disciplines ==
+la recherche en physique contemporaine se divise en diverses disciplines qui étudient différents aspects du monde physique.
+
+
+== théories ==
+bien que la physique s'intéresse à une grande variété de systèmes, certaines théories ne peuvent être rattachées qu'à la physique dans son ensemble et non à l'un de ses domaines. chacune est supposée juste, dans un certain domaine de validité ou d'applicabilité. par exemple, la théorie de la mécanique classique décrit fidèlement le mouvement d'un objet, pourvu que
+ses dimensions soient bien plus grandes que celles d'un atome,
+sa vitesse soit bien inférieure à la vitesse de la lumière,
+il ne soit pas trop proche d'une masse importante, et
+celui-ci soit dépourvu de charge.
+les théories anciennes, comme la mécanique newtonienne, ont évolué engendrant des sujets de recherche originaux notamment dans l'étude des phénomènes complexes (exemple : la théorie du chaos). leurs principes fondamentaux constituent la base de toute recherche en physique et tout étudiant en physique, quelle que soit sa spécialité, est censé acquérir les bases de chacune d'entre elles.
+
+
+== méthodes ==
+
+
+=== théorie et expérience ===
+les physiciens observent, mesurent et modélisent le comportement et les interactions de la matière à travers l'espace et le temps de façon à faire émerger des lois générales quantitatives. le temps - défini par la durée, l'intervalle et la construction corrélative d'échelles - et l'espace - ensemble des lieux où s'opère le mouvement et où l'être ou l'amas matériel, c'est-à-dire la particule, la molécule ou le grain, le corps de matière… ou encore l'opérateur se positionnent à un instant donné - sont des faits réels constatés, transformés en entités mathématiques abstraites et physiques mesurables pour être intégrées logiquement dans le schéma scientifique. ce n'est qu'à partir de ces constructions qu'il est possible d'élaborer des notions secondaires à valeurs explicatives. ainsi l'énergie, une description d'états abstraite, un champ de force ou une dimension fractale peuvent caractériser des « phénomènes physiques » variés. la métrologie est ainsi une branche intermédiaire capitale de la physique.
+une théorie ou un modèle - appelé schéma une fois patiemment étayé par de solides expériences et vérifié jusqu'en ses ultimes conséquences logiques est un ensemble conceptuel formalisé mathématiquement, dans lequel des paramètres physiques qu'on suppose indépendants (charge, énergie et temps, par exemple) sont exprimés sous forme de variables (q, e et t) et mesurés avec des unités appropriées (coulomb, joule et seconde). la théorie relie ces variables par une ou plusieurs équations (par exemple, e=mc2). ces relations permettent de prédire de façon quantitative le résultat d'expériences.
+une expérience est un protocole matériel permettant de mesurer certains phénomènes dont la théorie donne une représentation conceptuelle. il est illusoire d'isoler une expérience de la théorie associée. le physicien ne mesure évidemment pas des choses au hasard ; il faut qu'il ait à l'esprit l'univers conceptuel d'une théorie. aristote n'a jamais pensé calculer le temps que met une pierre lâchée pour atteindre le sol, simplement parce que sa conception du monde sublunaire n'envisageait pas une telle quantification. cette expérience a dû attendre galilée pour être faite. un autre exemple d'expérience dictée nettement par un cadre conceptuel théorique est la découverte des quarks dans le cadre de la physique des particules. le physicien des particules gell-mann a remarqué que les particules soumises à la force forte se répartissaient suivant une structure mathématique élégante, mais que trois positions fondamentales (au sens mathématique de la théorie des représentations) de cette structure n'étaient pas réalisées. il postula donc l'existence de particules plus fondamentales (au sens physique) que les protons et les neutrons. des expériences permirent par la suite, en suivant cette théorie, de mettre en évidence leur existence.
+inversement, des expériences fines ou nouvelles ne coïncident pas ou se heurtent avec la théorie. elles peuvent :
+soit remettre en cause la théorie — comme ce fut le cas du problème du corps noir et des représentations de la lumière qui provoquent l'avènement de la mécanique quantique et des relativités restreinte et générale, de façon analogue à l'ébranlement des fondements du vitalisme en chimie ou de l'effondrement de la génération spontanée en biologie —
+ou bien ne pas s'intégrer dans les théories acceptées. l'exemple de la découverte de neptune est éclairant à ce titre. les astronomes pouvaient mesurer la trajectoire d'uranus mais la théorie de newton donnait une trajectoire différente de celle constatée. pour maintenir la théorie, urbain le verrier et, indépendamment, john adams postulèrent l'existence d'une nouvelle planète, et d'après cette hypothèse prédirent sa position. l'astronome allemand johann gottfried galle vérifia en septembre 1846 que les calculs de le verrier et adams étaient bons en observant neptune à l'endroit prédit. il est clair que l'interprétation de la première expérience est tributaire de la théorie, et la seconde n'aurait jamais pu avoir lieu sans cette même théorie et son calcul. un autre exemple est l'existence du neutrino, supposée par pauli pour expliquer le spectre continu de la désintégration bêta, ainsi que l'apparente non-conservation du moment cinétique.
+
+
+=== la recherche ===
+la culture de la recherche en physique présente une différence notable avec celle des autres sciences en ce qui concerne la séparation entre théorie et expérience. depuis le xxe siècle, la majorité des physiciens sont spécialisés soit en physique théorique, soit en physique expérimentale. en revanche, presque tous les théoriciens renommés en chimie ou en biologie sont également des expérimentateurs.
+la simulation numérique occupe une place très importante dans la recherche en physique et ce depuis les débuts de l'informatique. elle permet en effet la résolution approchée de problèmes mathématiques qui ne peuvent pas être traités analytiquement. beaucoup de théoriciens sont aussi des numériciens.
+
+
+== objectif et limites ==
+
+
+=== recherche d'un corpus fini et évolution permanente ===
+
+l'histoire de la physique semble montrer qu'il est illusoire de penser que l'on finira par trouver un corpus fini d'équations qu'on ne pourra jamais contredire par expérience. chaque théorie acceptée à une époque finit par révéler ses limites, et est intégrée dans une théorie plus large. la théorie newtonienne de la gravitation est valide dans des conditions où les vitesses sont petites et que les masses mises en jeu sont faibles, mais lorsque les vitesses approchent la vitesse de la lumière ou que les masses (ou de façon équivalente en relativité, les énergies) deviennent importantes, elle doit céder la place à la relativité générale. par ailleurs, celle-ci est incompatible avec la mécanique quantique lorsque l'échelle d'étude est microscopique et dans des conditions d'énergie très grande (par exemple au moment du big bang ou au voisinage d'une singularité à l'intérieur d'un trou noir).
+la physique théorique trouve donc ses limites dans la mesure où son renouveau permanent vient de l'impossibilité d'atteindre un état de connaissance parfait et sans faille du réel. de nombreux philosophes, dont emmanuel kant, ont mis en garde contre toute croyance que la connaissance humaine des phénomènes peut coïncider avec le réel, s'il existe. la physique ne décrit pas le monde, ses conclusions ne portent pas sur le monde lui-même, mais sur le modèle qu'on déduit des quelques paramètres étudiés. elle est une science exacte en ce que la base des hypothèses et des paramètres considérés conduisent de façon exacte aux conclusions tirées.
+la conception moderne de la physique, en particulier depuis la découverte de la mécanique quantique, ne se donne généralement plus comme objectif ultime de déterminer les causes premières des lois physiques, mais seulement d'en expliquer le comment dans une approche positiviste. on pourra aussi retenir l'idée d'albert einstein sur le travail du physicien : faire de la physique, c'est comme émettre des théories sur le fonctionnement d'une montre sans jamais pouvoir l'ouvrir.
+
+
+=== recherche de la simplification et l'unification des théories ===
+la physique possède une dimension esthétique. en effet, les théoriciens recherchent presque systématiquement à simplifier, unifier et symétriser les théories. cela se fait par la réduction du nombre de constantes fondamentales (la constante g de la gravitation a intégré sous un même univers gravitationnel les mondes sublunaire et supralunaire), par la réunion de cadres conceptuels auparavant distincts (la théorie de maxwell a unifié magnétisme et électricité, l'interaction électrofaible a unifié l'électrodynamique quantique avec l'interaction faible et ainsi de suite jusqu’à la construction du modèle standard de la physique des particules). la recherche des symétries dans la théorie, outre le fait que par le théorème de noether elles produisent spontanément des constantes du mouvement (comme l'énergie se conserve quand les équations du système sont invariantes temporellement), est un vecteur de beauté des équations et de motivation des physiciens et, depuis le xxe siècle, le moteur principal des développements en physique théorique.
+du point de vue expérimental, la simplification est un principe de pragmatisme. en effet la mise au point d'une expérience requiert de maîtriser un grand nombre de paramètres physiques afin de créer des conditions expérimentales précisément fixées. la plupart des situations se présentant spontanément dans la nature sont très confuses et irrégulières. outre des figures exceptionnelles comme l'arc-en-ciel, qui cause un fort étonnement chez le profane, le monde à notre échelle mêle de nombreux principes et théories appartenant à des domaines disjoints du corpus. les concepts de la physique sont longs à acquérir, même par les physiciens. une certaine préparation du dispositif expérimental permet donc la manifestation d'un phénomène aussi épurée que possible. en somme, un arc-en-ciel bien contrasté et net, pour prendre une image poétique. cette exigence expérimentale donne malheureusement un aspect artificiel à la physique, en particulier lors de son enseignement à un jeune public. paradoxalement rien ne semble aussi éloigné du cours de la nature qu'une expérience de physique, seule la simplification y est pourtant recherchée.
+au cours de l'histoire, des théories complexes et peu élégantes d'un point de vue mathématique peuvent être très efficaces et dominer des théories beaucoup plus simples. l'almageste de ptolémée, basé sur une figure géométrique simple, le cercle, comportait un grand nombre de constantes dont dépendait la théorie, tout en ayant permis avec peu d'erreur de comprendre le ciel pendant plus de mille ans. le modèle standard décrivant les particules élémentaires comporte également une trentaine de paramètres arbitraires, et pourtant jamais aucune théorie n'a été vérifiée expérimentalement aussi précisément. toutefois, tout le monde s'accorde chez les physiciens pour penser que cette théorie sera sublimée et intégrée un jour dans une théorie plus simple et plus élégante, comme le système ptoléméen a disparu au profit de la théorie képlérienne, puis newtonienne.
+
+
+== physique, sciences et techniques ==
+
+
+=== la physique et les autres sciences ===
+
+la physique est écrite en termes mathématiques, elle a depuis sa naissance eu des relations de couple intense avec les sciences mathématiques. jusqu'au xxe siècle, les mathématiciens étaient d'ailleurs la plupart du temps physiciens et souvent philosophes naturalistes après la refondation kantienne. de ce fait la physique a très souvent été la source de développements profonds en mathématiques. par exemple, le calcul infinitésimal a été inventé indépendamment par leibniz et newton pour comprendre la dynamique en général, et la gravitation universelle en ce qui concerne le second. le développement en série de fourier, qui est devenu une branche à part entière de l'analyse, a été inventé par joseph fourier pour comprendre la diffusion de la chaleur.
+les sciences physiques sont en relation avec d'autres sciences, en particulier la chimie, science des molécules et des composés chimiques. ils partagent de nombreux domaines, tels que la mécanique quantique, la thermochimie et l'électromagnétisme. ce domaine interdisciplinaire est appelé la chimie physique. toutefois, les phénomènes chimiques sont suffisamment vastes et variés pour que la chimie soit généralement considérée comme une discipline à part entière.
+de nombreux autres domaines interdisciplinaires existent en physique. on peut mentionner par exemple l'astrophysique à la frontière avec l'astronomie, la biophysique qui est à l'interface entre la biologie et la physique statistique entre autres, plus récemment les microtechnologies et les nanotechnologies fortement multidisciplinaires comme les moems.
+
+
+=== la physique et la technique ===
+
+l'histoire de l'humanité montre que la pensée technique s'est développée bien avant les théories physiques, et à plus forte raison mathématisées. la roue et le levier, le travail des matériaux, en particulier la métallurgie, ont pu être réalisés sans ce qu'on appelle la physique. l'effort de rationalité des penseurs grecs puis arabes et, par la suite, le lent perfectionnement des mathématiques du xiie siècle au xvie siècle, ont permis les foudroyantes avancées du xviie siècle. la physique a pu révéler sa profondeur conceptuelle. les théories physiques ont alors souvent permis le perfectionnement d'outils et de machines, ainsi que de leur utilisation.
+il faut attendre surtout le xxe siècle pour que des théories donnent naissance à des techniques qui n'auraient pu voir le jour sans elles. le cas du laser est exemplaire : son invention repose fondamentalement sur la compréhension, par la mécanique quantique, des ondes lumineuses et de la linéarité de leurs équations. on peut évidemment citer la bombe a et la bombe h comme créations techniques dépendant entièrement de la physique de leur époque. le gps ne fonctionne que par l'intégration des relativités restreinte et générale dans les calculs. toute l'électronique en tant que science appliquée et technique ayant profondément modifié le visage de nos sociétés modernes avec la révolution numérique et l'avènement de produits comme le téléviseur, le téléphone portable et les ordinateurs, prend en grande partie ses racines dans la physique, notamment l'électromagnétisme, l'électrostatique ou la physique des semi-conducteurs.
+
+
+== vulgarisation en physique ==
+
+la vulgarisation en physique a pour objectif de présenter le domaine en un langage dénué de termes techniques, non expliqué préalablement, et sans utiliser d'objets mathématiques non-étudiés au préalable. de nombreuses équipes participent ainsi régulièrement à des rencontres entre le grand public et les chercheurs où les différentes problématiques de la physique et leurs derniers résultats sont expliqués. aujourd'hui de nombreux sites internets (wikipedia...) permettent de trouver toutes les informations utiles, du niveau le plus simple jusqu'à celui de l'expertise.
+dans la sphère de l'éducation universitaire richard feynman a permis par ses ouvrages de construire "ex nihilo", une expérience empirique de la physique moderne.
+
+
+== notes et références ==
+
+
+== voir aussi ==
+
+
+=== bibliographie ===
+
+
+==== ouvrages ludo-éducatifs ====
+berkes istvàn, la physique de tous les jours, 3e édition, 1998, 368 pages. (isbn 2 7117 5237 2)
+courty jean-michel, kierlik edmond, 'la physique buissonnière, bibliothèque scientifique, belin pour la science, paris, mars 2010, 160 pages. préface d’étienne guyon. (isbn 978 2 84245 105 9)
+oehmichen j.p., l’électronique rien de plus simple, 17 causeries amusantes expliquant d’une manière simple les bases de l’électronique et ses applications dans l’industrie, 5e édition, éditions radio, paris, 256 pages. (isbn 2 7091 0775 9)
+ray cédric, poizat jean-claude, la physique par les objets quotidiens, bibliothèque scientifique, belin pour les sciences, paris, 2007-2008, 160 pages. (isbn 978 2 7011 4552 5)
+walker jearl, le carnaval de la physique, l’explication des phénomènes physiques en 610 questions et sans formules, bordas (1980), dunod, 1984, 258 pages. traduction par jean-benoît yalnik et michel biezunski, the flying circus of physics with answers, 1977. (isbn 2 04 015683 6)
+
+
+==== initiation et éveil à la physique ====
+colin ronan, toute la science, connaître et comprendre la vie et l’univers, solar, 1994, 240 pages. traduction de science explained, marshall editions, londres, 1993. (isbn 2 263 02158 2)
+jean-pierre lecardonnel et brigitte proust, physique-chimie 2nde, collection galileo, programme 1993, bordas, 1994, 385 pages. (isbn 2 04 019749 4)
+bernard diu, les atomes existent-ils vraiment ?, éditions odile jacob sciences, 1997, 322 pages. (isbn 2 7381 0421 5)
+bernard diu, traité de physique à l’usage des profanes, odile jacob sciences, paris, 2000, 672 pages. (isbn 2 7381 0873 3)
+jean rosmorduc, matière et énergie, collection la science et les hommes, la matière, éditions messidor, la farandole, paris, 1991, 122 pages. (isbn 2 209 064775)
+françoise balibar, michel crozon, emmanuel farge, physique moderne, collection la science et les hommes, la matière, éditions messidor, la farandole, paris, 1991, 122 pages. (isbn 2 209 06479 1)
+hans breuer, atlas de la physique, encyclopédie d’aujourd’hui, la pochothèque, le livre de poche, 1997, 403 pages. traduction du dtv-atlas zur physik, 1987, par claudine morin avec adaptation scientifique de martine meslé-gribenski, philippe morin, michèle sénéchal-couvercelle. (isbn 9782253130161)
+pierre-gilles de gennes, jacques badoz, les objets fragiles, plon, paris, 1994, 274 pages. (isbn 2 259 00311 7)
+stéphane deligeorges (dir.), le monde quantique, éditions du seuil, sciences et avenir, 1984, 234 pages. (isbn 2 02 008908 4)
+paul davies, les forces de la nature, flammarion, 1996, 256 pages. traduction de the forces of nature, cambridge university press, par alain bouquet. (isbn 2 08 081341 2)
+étienne klein, marc lachièse-rey, la quête de l’unité (l’aventure de la physique), le livre de poche, biblio essais, albin michel 1996, 222 pages. (isbn 2 253 94298 7)
+
+
+==== premiers pas scientifiques ====
+p. chaillet, f. helias, physique appliquée, génie mécanique, terminal sti, 2e édition, foucher, paris, 2003, 192 pages. (isbn 2 216 09340 8)
+d. spenlé, r. gourhant, guide du calcul en mécanique, édition 1993/94, hachette technique, 1993, 256 pages. vade-mecum au lycée professionnel. (isbn 2 01 020789 0)
+gérard bourdaud, mathématiques pour la physique, 1er cycle et classes préparatoires, bibliothèque des sciences, diderot éditeur, arts et sciences, paris, 1997, 388 pages. (isbn 2 84134 077 5)
+michel faye, suzanne faye, sébastien aullen, physique pcsi mpst ptst, nathan, 2006, 236 pages. (isbn 2 09 187325 x)
+edmond weislinger, physique mp-pc 1er année, collection études supérieures ou es 42, bordas, 1969, 418 pages.
+j. hervé, physique mp-pc, 2e année, collection enseignement supérieure 1er cycle, masson et cie, 1968, 420 pages.
+pierre lafourcade, lucien lafourcade, formulaire de physique, classe préparatoire 1er cycle universitaire, vuibert, paris, 208 pages. (isbn 2 7117 4153 2)
+j.p. meullenet, b. spenlehauer, mécanique newtonienne du point, rappel de cours, exercices et problèmes corrigés, ellipses, 1981, 288 pages. (isbn 2 7298 0330 0)
+michel bertin, jean-pierre faroux, jacques renault, mécanique 2, mécanique du solide et notions d’hydrodynamique, bordas, paris, 1985, 240 pages. programme 1984 boen. (isbn 2 04 016461 8)
+l. landau, e. lifchitz, mécanique, éditions mir, moscou, 1960. 1er volume du cours de physique russe.
+joseph kane, morton sternheim, physique, collection enseignement de la physique, masson interéditions, paris, 1997, 778 pages. version française par michel delmelle, roger evrard, jean schmitt et jean-pol vigneron, de physics, second edition, john wiley and sons, inc, new-york, 1984. (isbn 2 225 83137 8)
+cours de physique berkeley, collection u, armand colin, paris, 1972 :
+volume i : mécanique par charles kittel, walter d. knight, malvin a. ruderman
+volume ii : électricité et magnétisme par edward m. purcell
+volume iii : ondes par frank s. crawford jr, 604 pages. traduction de waves par pierre léna. (isbn 2-200-21005-1)
+volume iv : physique quantique par eywind h. wichmann
+volume v : physique statistique par frederick reif
+
+valerio scarani, initiation à la physique quantique, la matière et les phénomènes, vuibert, paris, 2003, paris, 118 pages. préface de jean-marc lévy-leblond. (isbn 2 7117 5295 x)
+josé-philippe pérez, optique géométrique, matricielle et ondulatoire, masson, paris, 1984, 356 pages. préface de maurice françon. (isbn 2 225 80181 9)
+david lynch, william livingston, aurores, mirages, éclipses… comprendre les phénomènes optiques de la nature, dunod, paris, 2002, 262 pages. traduction de color and light in nature, cambridge university press, 1995 second edition revised 2001, par bérangère parise et amélie stepnik, (isbn 2 10 006507 6)
+charles kittel, physique de l’état solide, bordas, 5° édition dunod, paris, 1983, 594 pages. traduction de robert meguy et michèle ploumellec, sous la direction de claire dupas. (isbn 2 04 010611 1)
+michael m. abbott, hendrick c. van ness, théorie et applications de la thermodynamique, série schaum, 225 exercices résolus, mac graw-hill, 1987, 342 pages. (isbn 2 7042 1001 2)
+hélène ngô, christian ngô, physique statistique, introduction avec exercices, masson, paris, 1988, 283 pages. (isbn 2 225 81287 x)
+richard p. feynman, robert b. leighton (en) et matthew sands (en), le cours de physique de feynman [détail de l’édition], interéditions, paris, 1979. traduction de the feynman lectures on physics, caltech, 1964.
+tome 1 : mécanique, 2 volumes
+tome 2 : electromagnétisme, en 2 volumes. 1er volume : (isbn 2 7296 0028 0) deuxième volume : (isbn 2 7296 0029 9).
+tome 3 : mécanique quantique.
+
+richard feynman, le mouvement des planètes autour du soleil, collection jardin des sciences, diderot éditeur, arts et sciences, paris, 1997, 162 pages. cours anglais mis en forme et complété par david l. et judith r. goodstein, traduit par marie-agnès treyer. (isbn 2 84134 018 x)
+fabrice drouin, l’astronomie en questions, vuibert, 2001, 202 pages. (isbn 2 7117 5271 2)
+
+
+==== introduction à quelques spécialités ====
+louis boyer, feu et flammes, belin : pour la science, paris, 2006, 190 pages. préface de yves pomeau. (isbn 2 7011 3973 2)
+henri-claude nataf, joël sommeria, la physique et la terre, croisée des sciences, belin-cnrs éditions, 2000, 146 pages. (isbn 2 7011 2370 4)
+bureau des longitudes sous la direction de h lacombe, encyclopédie scientifique de l’univers, seconde édition en quatre volumes, gaulthier-villars, bordas, paris, 1884.
+volume 1 : la terre, les eaux, l’atmosphère, première édition en 1977, 346 pages. (isbn 2 04 015549 x)
+volume 2 : les étoiles, le système solaire, première édition en 1979
+volume 3 : la galaxie, l’univers extragalactique, première édition en 1980
+volume 4 : la physique, première édition en 1981
+
+alessandro boselli, a la découverte des galaxies, ellipses, 2007, 256 pages. (isbn 978 2 7298 3445 6)
+antonin rükl, atlas de la lune, gründ, 1993, 224 pages. adaptation française de l’ouvrage slovaque par martine richebé avec révision de jean-marc becker de la société astronomique de france. (isbn 2 7000 1554 1)
+institut de mécanique céleste et de calcul des éphémérides, observatoire de paris, le manuel des éclipses, edp sciences, les ulis, 2005, 278 pages. (isbn 2 86883 810 3)
+denis savoie, les cadrans solaires, belin : pour la science, paris, octobre 2003, 128 pages. (isbn 2 7011 3338 6)
+richard p. feynman, lumière et matière, une étrange histoire, sciences point/interéditions, 1987, 206 pages. conférence qed, the strange theory of light and matter, traduite par françoise balibar et alain laverne.
+louis gaudart, maurice albet, physique photographique, le temps apprivoisé (lta), paris, 1997, 352 pages. (isbn 2 283 58285 7)
+robert sève, physique de la couleur de l’apparence colorée à la technique colorimétrique, collection physique fondamentale et appliquée, masson, paris, 1996, 334 pages. préface de lucia p. ronchi. (isbn 2 225 85119 0)
+andré guinier, la structure de la matière : du ciel bleu à la matière plastique, hachette-cnrs, paris, 1980.
+andré guinier, rémi julien, la matière à l’état solide, des supraconducteurs aux superalliages, collection liaisons scientifiques dirigée par roland omnès et hubert gié, hachette, paris, 1987, 286 pages. préface de sir neville mott. (isbn 2 01 0125401)
+yves quéré, physique des matériaux, cours et problèmes, école polytechnique x et ellipses, 1988, 464 pages. (isbn 2 7298 8858 6)
+jacob israelaschvili, intermolecular & surface forces, academic press limited, london, 1995, 450 pages. (isbn 0 12 375181 0)
+john t. yates, jr, experimental innovations in surface science : a guide to practical laboratory methods and instruments, aip press/springer, new-york, 1998, 904 pages. (isbn 0 387 98332 5)
+bernard diu, claudine guthmann, danielle lederer, bernard roulet, éléments de physique statistiques, hermann éditeur des sciences et des arts, paris, 1989, 1004 pages. (isbn 2 7056 6065 8)
+vincent fleury, arbres de pierre, la croissance fractale de la matière, nouvelle bibliothèque scientifique, flammarion, 1998, 334 pages.(isbn 2 0821 1238 1)
+jean-louis chermant (coordonnateur), caractérisation des poudres et céramiques, collection formation céramique (forceram), édition hermès, paris, 1992, 268 pages. (isbn 2 86601 307 7)
+jacques duran, sables, poudres et grains, introduction à la physique des milieux granulaires, eyrolles sciences, paris, mars 1997, 254 pages. introduction de pierre-gilles de gennes. (isbn 2 212 05831 4)
+benoît ildefonse, catherine allain, philippe coussot (coordonnateurs), des grands écoulements naturels à la dynamique du tas de sable, introduction aux suspensions en géologie et physique, cemagref éditions, 1re édition, 1997, 254 pages. (isbn 2 85362 485 4)
+rémi deterre, gérard froyer, introduction aux matériaux polymères, lavoisier techniques & documentation, paris, 1997, 216 pages. (isbn 2 7430 0171 2)
+gert strobl, the physics of polymers, concept for understanding their structure and behavior, 2nd edition revised, springer verlag, berlin, 1997, 440 pages. (isbn 3 540 63203 4)
+j. des cloizeaux, g. janninck, les polymères en solutions, les éditions de physique, paris, 1987, 846 pages. (isbn 2868830528)
+jean-françois gouyet, physique et structures fractales, masson, paris, 1992, 234 pages. préface de benoît mandelbrot. (isbn 978-2-225-82777-8)
+annick lesne, méthode de renormalisation : phénomènes critiques, chaos, structures fractales, eyrolles sciences, paris, 1996, 388 pages. préface de pierre collet. (isbn 2 212 05830 6)
+pierre bergé, yves pomeau et monique dubois-gance, des rythmes au chaos, collection opus, éditions odile jacob, paris, 1997, 312 pages. (isbn 2 7381 0524 6)
+l’ordre du chaos, bibliothèque pour la science, diffusion belin, paris, 1992, 208 pages. préface de pierre-gilles de gennes. (isbn 2 9029 1878 x)
+étienne guyon, jean-pierre hulin, luc petit, hydrodynamique physique, collection savoirs actuels, interéditions/ éditions du cnrs, 1991, 506 pages. (isbn 2 222 04025 6)
+r. ouziaux, j. perrier, mécanique des fluides appliquées, dunod université, bordas, paris, 1978, 448 pages. (isbn 2 04 010143 8)
+h.n.v. temperley, d.h. trevena, les liquides et leurs propriétés, traité moléculaire macroscopique avec applications, techniques et documentation, lavoisier, paris, 1980, 242 pages. traduction par j.-cl. lengrand de liquids and theirs properties, a molecular and macroscopic treatise with applications, ellis horword limited, 1978. (isbn 2 85206 057 4)
+claude cohen-tannoudji, bernard diu, franck laloë, mécanique quantique, collection enseignements des sciences 16, hermann, paris, 1973.
+tome i, édition 1977, 900 pages. (isbn 2 7056 5733 9)
+tome 2, 3e édition, 1986, p. 901-1518. (isbn 2 7056 6023 2)
+
+luc valentin, physique subatomique : noyaux et particules, hermann, paris, 1982.
+tome i. approche élémentaire, collection enseignement des sciences 27, 312 pages. (isbn 2-7056-5927-7)
+tome ii développements, collection enseignement des sciences 28, 1982, p. 313-612. (isbn 2-7056-5928-5)
+
+
+==== mesures, industrie, applications ====
+g. prieur, m. nadi, la mesure et l’instrumentation : état de l’art et perspectives, collection mesures physiques, masson, paris, 1995, 726 pages. préface de georges charpak. (isbn 2 225 84991 9)
+georges asch et collaborateurs, les capteurs en instrumentation industrielle, dunod, paris, 1987, 792 pages. (isbn 2 04 016948 2)
+andré marion, acquisition&visualisation des images, eyrolles, paris, 1997, 616 pages. (isbn 2 212 08871 x)
+rené prunet (dir), marc bois, nicolle mollier, muriel parisis, josiane steinmetz, physique instrumentale, mécanique et phénomènes vibratoires, collection le technicien dunod, bordas, paris 1988, 290 pages. (isbn 2 04 018666 2)
+peter hawkes (dir.), électrons et microscopes : vers les nanosciences, collection croisées des sciences, belin/ cnrs éditions, 1995, 160 pages. (isbn 2 271 05365 x)
+jean-louis fauchon, guide des sciences et technologie industrielles, afnor/nathan, paris, 544 pages. (isbn 2 09 177324 7)
+christine merland, jacques perrin, jean-paul trichard, automatique informatique industrielle, collection sciences et techniques industrielles, dunod, paris, 1995, 250 pages. (isbn 2 10 002049 8)
+jean-charles gille, paul decaulne, marc pélegrin, dynamique de la commande linéaire, dunod, 7e édition, 1985, 596 pages. (isbn 2 04 016432 4)
+m. ksouri, p. borne, régulation industrielle, problèmes résolus, collection sciences et technologies, éditions technip, paris, 1997, 243 pages. (isbn 2 7108 0714 9)
+pierre rapin, patrick jacquard, formulaire du froid, 10e édition, dunod, paris, 1996, 482 pages. (isbn 2 10 002693 3)
+henri charlent, traité de plomberie, dunod technique 1981, 4e édition en 1984, 860 pages, (isbn 2 04 018986 6)
+john a. robeson, clayton t. crowe, engineering fluid mechanics, sixth edition, john wiley & sons, inc., new-york, 1997, 734 pages. (isbn 0 471 14735 4)
+jean-pierre nadeau, jean-rodolphe puiggali, séchage, des processus physiques aux procédés industriels, techniques et documentation, lavoisier, paris, 1995, 308 pages. (isbn 2 7430 0018 x)
+j.e. gordon, structures et matériaux, l’explication mécanique des formes, collection l’univers des sciences, pour la science/ belin, paris, 1994, 214 pages. traduction de structures and materials par f. gallet. (isbn 2 9029 1882 8)
+william d. callister jr, materials science and engineering. an introduction, fourth edition, john wiley & sons, inc, new-york, 1997, 852 pages. (isbn 0 471 13459 7)
+p. lacombe, b. baroux, g. beranger, éditeurs scientifiques avec le partenariat du groupe ugine, les aciers inoxydables, éditions de physique, 1991, 1016 pages. (isbn 2 86883 142 7)
+p. robert, matériaux de l’électrotechnique, dunod, édition 1979 revue en 1987, 360 pages. extrait du traité d’électricité, d’électronique et d’électrotechnique sous la direction de jacques neyrinck. (isbn 2 04 016933 4)
+guy seguier, francis notelet, électrotechnique industrielle, 2e édition, lavoisier techniques et documentation, paris, 1996, 484 pages. (isbn 2 85206 979 2)
+b. saint-jean, électrotechnique et machines électriques, éditions eyrolles, paris et lidec, montréal (québec), 1977, 374 pages. (isbn 0 7762 5651 3)
+eric semail, physique du génie électrique, lavoisier techniques et documentation, paris, 1998, 220 pages. (isbn 2 7430 0279 4)
+alain ricaud, photopiles solaires, de la physique de la conversion photovoltaïque aux filières, matériaux et procédés, cahiers de chimie, presses polytechniques et universitaires romandes, lausanne, 1997, 332 pages. (isbn 2 88074 326 5)
+v. sokolov, a. foussov, prospections détaillées des champs de pétrole et de gaz, technique soviétique, édition de moscou, 1983, 360 pages. traduction française de l’ouvrage russe paru aux éditions mir, 1979
+rené turlay, ancien président éditeur au nom de la société française de physique, les déchets nucléaires, un dossier scientifique, les éditions de physique, paris, 1997, 304 pages. (isbn 2 86883 301 2)
+
+
+==== dictionnaires ====
+diu bernard, leclercq bénédicte, la physique mot à mot, odile jacob sciences, paris, 2005, 721 pages. (isbn 2 7381 1578 0)
+mathieu j.p., kastler a., fleury p., dictionnaire de physique, masson, eyrolles, paris, édition 1983 révisée en 1985, 570 pages. (isbn 2 225 80479 6)
+
+
+==== revues et sociétés ====
+ciel et espace, revue de l’association française d’astronomie
+découverte, revue du palais de la découverte
+bulletin de l’union des physiciens
+société de physique de france
+
+
+==== cours en langue anglaise ====
+cromwell benjamin, light and matter series of introductory physics textbooks, fullerton, california, éditions d'auteur 1998-2005 disponibles sur www.lightandmatter.com :
+1. newtonian physics, 282 pages.
+2. conservation laws, 170 pages.
+3. vibrations and waves, 92 pages.
+4. electricity and magnetism, 170 pages.
+5. optics
+6. the modern revolution in physics
+
+cromwell benjamin, simple nature. an introduction to physics for engineering and physical science students, édition d'auteur 1998-2005 disponible sur www.lightandmatter.com et révisée en 2006.
+schiller christoph, motion mountain, the adventure of physics, édition d'auteur 1997-2006 disponible sur www.motionmountain.net
+
+
+==== histoire et ouvrages jalons ====
+baudet jean, penser le monde : une histoire de la physique jusqu’en 1900, paris, vuibert, 2006, 281 pages.
+boudenot jean-claude, comment einstein a changé le monde ?, edp sciences, les ulis, 2005, 188 pages. préface de claude cohen-tannoudji. (isbn 2 86883 763 8)
+boudenot jean-claude, histoire de la physique et des physiciens, de thalès au boson de higgs, ellipses, paris, 2001, 366 pages. préface de louis leprince-ringuet. (isbn 2 7298 7993 5)
+cotton eugénie, les curie et la radioactivité, collection savants du monde entier, pierre seghers éditeur, 1968.
+curie marie, leçons de marie curie, physique élémentaire pour les enfants de nos amis, recueillies par isabelle chavannes en 1907, edp sciences, les ulis, 2003, 126 pages. (isbn 2 86883 635 6)
+dhombes jean, robert jean-bernard, fourier créateur de la physique mathématique, collection un savant, une époque, belin, 1998, 768 pages. (isbn 2 7011 1213 3)
+einstein albert, et infeld léopold, l’évolution des idées en physique, flammarion, paris, 1983, 280 pages.
+eurin marcel, guimiot henri, physique, programme 1957, hachette, 1960, 568 pages.
+galison peter, l’empire du temps, les horloges d’einstein et les cartes de poincaré, éditions robert laffont, gallimard poche, 2005, 480 pages. traduction par bella arman de einstein’s clocks, poincaré’s maps. (isbn 2 07 031924 5)
+garrabos l. et since l., problèmes de sciences physiques avec solutions, 10e édition, vuibert, paris, 1971, 502 pages.
+hurwic anna, pierre curie, champs flammarion, 1995, 302 pages. préface de pierre-gilles de gennes. (isbn 978-2-08-081398-5)
+leprince-ringet louis (dir.), grandes découvertes du xxe siècle, librairie larousse, paris, 1956, 504 pages
+lequeux james, l’univers dévoilé, une histoire de l’astronomie de 1910 à aujourd’hui, edp sciences, les ulis, 2005, 304 pages. (isbn 2 86883 792 1)
+locqueneux robert, une histoire des idées en physique, paris, viubert, 2009, 216 pages.
+locqueneux robert, histoire de la physique, puf, que sais-je ?, 1987, 127 pages.
+locqueneux robert, henri bouasse, réflexion sur les méthodes et l’histoire de la physique, l’harmattan, 2009, 316 pages.
+matricon jean, waysand georges, la guerre du froid, une histoire de la supraconductivité, collection science ouverte, seuil, 1994, 392 pages. (isbn 2 02 021792 9)
+nazé yaël, histoire du télescope, la contemplation de l’univers des premiers instruments aux actuelles machines célestes, vuibert, paris, juillet 2009, 150 pages. (isbn 978 2 7117 2501 4)
+nazé yaël, l’astronomie au féminin, vuibert adapt, paris, 2006, 218 pages. (isbn 2 7117 7163 6)
+perrin jean, les atomes, collection champs, flammarion, 1991, 292 pages. texte de 1913. (isbn 2 08 081225 4)
+rosmorduc jean, une histoire de la physique et de la chimie de thalès à einstein, points sciences, 1985, 258 pages. (isbn 2 02 008990 4)
+rosmorduc jean, rosmorduc vinca, dutour françoise, les révolutions de l’optique et l’œuvre de fresnel, collection inflexions, vuibert-adapt, 2004, 168 pages. préface de michel blay. (isbn 2 7117 5364 6)
+volkringer henri, les étapes de la physique, gauthier villars, 1929, 216 pages.
+notons que la physique d'aristote n'a rien à voir avec la science moderne dénommée la physique. la taxonomie aristotélicienne, d'essence philosophique, a même été le plus farouche adversaire de la science moderne.
+
+
+=== articles connexes ===
+
+
+==== généralités ====
+concepts fondamentaux de la physique
+liste de physiciens
+recherche scientifique
+liste des expériences scientifiques
+
+
+==== disciplines apparentées ====
+de nombreux domaines de recherche combinent la physique avec d'autres disciplines.
+acoustique
+aérodynamique
+astronomie
+biophysique
+chimie physique
+éconophysique
+électronique
+géophysique
+mécanique
+métrologie
+physique numérique
+physique mathématique
+sciences des matériaux
+
+
+==== domaines voisins ====
+biologie
+chimie
+cosmologie
+géologie
+mathématiques
+médecine
+
+
+==== philosophie et religion ====
+épistémologie
+conceptions du monde physique et religion
+
+
+==== histoire ====
+histoire de la physique
+liste de physiciens
+prix nobel de physique
+grandes expériences de la physique
+
+
+==== outils et méthodes ====
+analyse dimensionnelle
+méthodes mathématiques en physique
+métrologie
+méthode expérimentale
+simulation informatique
+expérimentation assistée par ordinateur
+
+
+==== tableaux et banques de données ====
+
+constantes physiques
+conversion des unités
+ordres de grandeur
+système international d'unités
+liste des grands nombres
+liste de problèmes non résolus de la physique
+
+
+=== liens externes ===
+(fr) la catégorie physique de l’annuaire dmoz
+(fr) faq de physique, palais de la découverte
+(fr) cours de physique en pdf.
+(fr) dossiers scientifiques, cea
+(fr) la physique au lycée, cnrs
+(fr) la société française de physique
+(en) condensé de la plupart des aspects de la physique, hyperphysics - georgia state university
+
+ portail de la physique
+ portail des sciences

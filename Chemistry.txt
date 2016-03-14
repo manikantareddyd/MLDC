@@ -3,24 +3,24 @@ chemistry is sometimes called the central science because it bridges other natur
 scholars disagree about the etymology of the word chemistry. the history of chemistry can be traced to alchemy, which had been practiced for several millennia in various parts of the world.
 
 
-== etymologyedit ==
+== etymology ==
 the word chemistry comes from the word alchemy which was an earlier set of practices that encompassed elements of chemistry, metallurgy, philosophy, astrology, astronomy, mysticism and medicine. it is often seen as linked to the quest to turn lead or another common starting material into gold. alchemy, which was practiced around 330, is the study of the composition of waters, movement, growth, embodying, disembodying, drawing the spirits from bodies and bonding the spirits within bodies (zosimos). an alchemist was called a 'chemist' in popular speech, and later the suffix "-ry" was added to this to describe the art of the chemist as "chemistry".
 the word alchemy in turn is derived from the arabic word al-kīmīā (الکیمیاء). in origin, the term is borrowed from the greek χημία or χημεία. this may have egyptian origins since al-kīmīā is derived from the greek χημία, which is in turn derived from the word chemi or kimi, which is the ancient name of egypt in egyptian. alternately, al-kīmīā may derive from χημεία, meaning "cast together".
 
 
-=== definitionedit ===
+=== definition ===
 in retrospect, the definition of chemistry has changed over time, as new discoveries and theories add to the functionality of the science. the term "chymistry", in the view of noted scientist robert boyle in 1661, meant the subject of the material principles of mixed bodies. in 1663 the chemist christopher glaser described "chymistry" as a scientific art, by which one learns to dissolve bodies, and draw from them the different substances on their composition, and how to unite them again, and exalt them to a higher perfection.
 the 1730 definition of the word "chemistry", as used by georg ernst stahl, meant the art of resolving mixed, compound, or aggregate bodies into their principles; and of composing such bodies from those principles. in 1837, jean-baptiste dumas considered the word "chemistry" to refer to the science concerned with the laws and effects of molecular forces. this definition further evolved until, in 1947, it came to mean the science of substances: their structure, their properties, and the reactions that change them into other substances - a characterization accepted by linus pauling. more recently, in 1998, professor raymond chang broadened the definition of "chemistry" to mean the study of matter and the changes it undergoes.
 
 
-== historyedit ==
+== history ==
 
 early civilizations, such as the egyptians babylonians, indians amassed practical knowledge concerning the arts of metallurgy, pottery and dyes, but didn't develop a systematic theory.
 a basic chemical hypothesis first emerged in classical greece with the theory of four elements as propounded definitively by aristotle stating that that fire, air, earth and water were the fundamental elements from which everything is formed as a combination. greek atomism dates back to 440 bc, arising in works by philosophers such as democritus and epicurus. in 50 bc, the roman philosopher lucretius expanded upon the theory in his book de rerum natura (on the nature of things). unlike modern concepts of science, greek atomism was purely philosophical in nature, with little concern for empirical observations and no concern for chemical experiments.
 in the hellenistic world the art of alchemy first proliferated, mingling magic and occultism into the study of natural substances with the ultimate goal of transmuting elements into gold and discovering the elixir of eternal life. alchemy was discovered and practised widely throughout the arab world after the muslim conquests, and from there, diffused into medieval and renaissance europe through latin translations.
 
 
-=== chemistry as scienceedit ===
+=== chemistry as science ===
 under the influence of the new empirical methods propounded by sir francis bacon and others, a group of chemists at oxford, robert boyle, robert hooke and john mayow began to reshape the old alchemical traditions into a scientific discipline. boyle in particular is regarded as the founding father of chemistry due to his most important work, the classic chemistry text the sceptical chymist where the differentiation is made between the claims of alchemy and the empirical scientific discoveries of the new chemistry. he formulated boyle's law, rejected the classical "four elements" and proposed a mechanistic alternative of atoms and chemical reactions that could be subject to rigorous experiment.
 
 the theory of phlogiston (a substance at the root of all combustion) was propounded by the german georg ernst stahl in the early 18th century and was only overturned by the end of the century by the french chemist antoine lavoisier, the chemical analogue of newton in physics; who did more than any other to establish the new science on proper theoretical footing, by elucidating the principle of conservation of mass and developing a new system of chemical nomenclature used to this day.
@@ -32,14 +32,14 @@ british william prout first proposed ordering all the elements by their atomic w
 organic chemistry was developed by justus von liebig and others, following friedrich wöhler's synthesis of urea which proved that living organisms were, in theory, reducible to chemistry. other crucial 19th century advances were; an understanding of valence bonding (edward frankland in 1852) and the application of thermodynamics to chemistry (j. w. gibbs and svante arrhenius in the 1870s).
 
 
-=== chemical structureedit ===
+=== chemical structure ===
 
 at the turn of the twentieth century the theoretical underpinnings of chemistry were finally understood due to a series of remarkable discoveries that succeeded in probing and discovering the very nature of the internal structure of atoms. in 1897, j. j. thomson of cambridge university discovered the electron and soon after the french scientist becquerel as well as the couple pierre and marie curie investigated the phenomenon of radioactivity. in a series of pioneering scattering experiments ernest rutherford at the university of manchester discovered the internal structure of the atom and the existence of the proton, classified and explained the different types of radioactivity and successfully transmuted the first element by bombarding nitrogen with alpha particles.
 his work on atomic structure was improved on by his students, the danish physicist niels bohr and henry moseley. the electronic theory of chemical bonds and molecular orbitals was developed by the american scientists linus pauling and gilbert n. lewis.
 the year 2011 was declared by the united nations as the international year of chemistry. it was an initiative of the international union of pure and applied chemistry, and of the united nations educational, scientific, and cultural organization and involves chemical societies, academics, and institutions worldwide and relied on individual initiatives to organize local and regional activities.
 
 
-== principles of modern chemistryedit ==
+== principles of modern chemistry ==
 
 the current model of atomic structure is the quantum mechanical model. traditional chemistry starts with the study of elementary particles, atoms, molecules, substances, metals, crystals and other aggregates of matter. this matter can be studied in solid, liquid, or gas states, in isolation or in combination. the interactions, reactions and transformations that are studied in chemistry are usually the result of interactions between atoms, leading to rearrangements of the chemical bonds which hold atoms together. such behaviors are studied in a chemistry laboratory.
 the chemistry laboratory stereotypically uses various forms of laboratory glassware. however glassware is not central to chemistry, and a great deal of experimental (as well as applied/industrial) chemistry is done without it.
@@ -47,29 +47,29 @@ a chemical reaction is a transformation of some substances into one or more diff
 energy and entropy considerations are invariably important in almost all chemical studies. chemical substances are classified in terms of their structure, phase, as well as their chemical compositions. they can be analyzed using the tools of chemical analysis, e.g. spectroscopy and chromatography. scientists engaged in chemical research are known as chemists. most chemists specialize in one or more sub-disciplines. several concepts are essential for the study of chemistry; some of them are:
 
 
-=== matteredit ===
+=== matter ===
 
 in chemistry, matter is defined as anything that has rest mass and volume (it takes up space) and is made up of particles. the particles that make up matter have rest mass as well - not all particles have rest mass, such as the photon. matter can be a pure chemical substance or a mixture of substances.
 
 
-==== atomedit ====
+==== atom ====
 
 the atom is the basic unit of chemistry. it consists of a dense core called the atomic nucleus surrounded by a space called the electron cloud. the nucleus is made up of positively charged protons and uncharged neutrons (together called nucleons), while the electron cloud consists of negatively charged electrons which orbit the nucleus. in a neutral atom, the negatively charged electrons balance out the positive charge of the protons. the nucleus is dense; the mass of a nucleon is 1,836 times that of an electron, yet the radius of an atom is about 10,000 times that of its nucleus.
 the atom is also the smallest entity that can be envisaged to retain the chemical properties of the element, such as electronegativity, ionization potential, preferred oxidation state(s), coordination number, and preferred types of bonds to form (e.g., metallic, ionic, covalent).
 
 
-==== elementedit ====
+==== element ====
 
 a chemical element is a pure substance which is composed of a single type of atom, characterized by its particular number of protons in the nuclei of its atoms, known as the atomic number and represented by the symbol z. the mass number is the sum of the number of protons and neutrons in a nucleus. although all the nuclei of all atoms belonging to one element will have the same atomic number, they may not necessarily have the same mass number; atoms of an element which have different mass numbers are known as isotopes. for example, all atoms with 6 protons in their nuclei are atoms of the chemical element carbon, but atoms of carbon may have mass numbers of 12 or 13.
 the standard presentation of the chemical elements is in the periodic table, which orders elements by atomic number. the periodic table is arranged in groups, or columns, and periods, or rows. the periodic table is useful in identifying periodic trends.
 
 
-==== compoundedit ====
+==== compound ====
 
 a compound is a pure chemical substance composed of more than one element. the properties of a compound bear little similarity to those of its elements. the standard nomenclature of compounds is set by the international union of pure and applied chemistry (iupac). organic compounds are named according to the organic nomenclature system. inorganic compounds are named according to the inorganic nomenclature system. in addition the chemical abstracts service has devised a method to index chemical substances. in this scheme each chemical substance is identifiable by a number known as its cas registry number.
 
 
-==== moleculeedit ====
+==== molecule ====
 
 a molecule is the smallest indivisible portion of a pure chemical substance that has its unique set of chemical properties, that is, its potential to undergo a certain set of chemical reactions with other substances. however, this definition only works well for substances that are composed of molecules, which is not true of many substances (see below). molecules are typically a set of atoms bound together by covalent bonds, such that the structure is electrically neutral and all valence electrons are paired with other electrons either in bonds or in lone pairs.
 thus, molecules exist as electrically neutral units, unlike ions. when this rule is broken, giving the "molecule" a charge, the result is sometimes named a molecular ion or a polyatomic ion. however, the discrete and separate nature of the molecular concept usually requires that molecular ions be present only in well-separated form, such as a directed beam in a vacuum in a mass spectrometer. charged polyatomic collections residing in solids (for example, common sulfate or nitrate ions) are generally not considered "molecules" in chemistry.
@@ -79,16 +79,16 @@ however, not all substances or chemical compounds consist of discrete molecules,
 one of the main characteristics of a molecule is its geometry often called its structure. while the structure of diatomic, triatomic or tetra atomic molecules may be trivial, (linear, angular pyramidal etc.) the structure of polyatomic molecules, that are constituted of more than six atoms (of several elements) can be crucial for its chemical nature.
 
 
-==== substance and mixtureedit ====
+==== substance and mixture ====
 a chemical substance is a kind of matter with a definite composition and set of properties. a collection of substances is called a mixture. examples of mixtures are air and alloys.
 
 
-==== mole and amount of substanceedit ====
+==== mole and amount of substance ====
 
 the mole is a unit of measurement that denotes an amount of substance (also called chemical amount). the mole is defined as the number of atoms found in exactly 0.012 kilogram (or 12 grams) of carbon-12, where the carbon-12 atoms are unbound, at rest and in their ground state. the number of entities per mole is known as the avogadro constant, and is determined empirically to be approximately 6.022×1023 mol−1. molar concentration is the amount of a particular substance per volume of solution, and is commonly reported in moldm−3.
 
 
-=== phaseedit ===
+=== phase ===
 
 in addition to the specific chemical properties that distinguish different chemical classifications, chemicals can exist in several phases. for the most part, the chemical classifications are independent of these bulk phase classifications; however, some more exotic phases are incompatible with certain chemical properties. a phase is a set of states of a chemical system that have similar bulk structural properties, over a range of conditions, such as pressure or temperature.
 physical properties, such as density and refractive index tend to fall within values characteristic of the phase. the phase of matter is defined by the phase transition, which is when energy put into or taken out of the system goes into rearranging the structure of the system, instead of changing the bulk conditions.
@@ -97,7 +97,7 @@ the most familiar examples of phases are solids, liquids, and gases. many substa
 less familiar phases include plasmas, bose–einstein condensates and fermionic condensates and the paramagnetic and ferromagnetic phases of magnetic materials. while most familiar phases deal with three-dimensional systems, it is also possible to define analogs in two-dimensional systems, which has received attention for its relevance to systems in biology.
 
 
-=== bondingedit ===
+=== bonding ===
 
 atoms sticking together in molecules or crystals are said to be bonded with one another. a chemical bond may be visualized as the multipole balance between the positive charges in the nuclei and the negative charges oscillating about them. more than simple attraction and repulsion, the energies and distributions characterize the availability of an electron to bond to another atom.
 a chemical bond can be a covalent bond, an ionic bond, a hydrogen bond or just because of van der waals force. each of these kinds of bonds is ascribed to some potential. these potentials create the interactions which hold atoms together in molecules or crystals. in many simple compounds, valence bond theory, the valence shell electron pair repulsion model (vsepr), and the concept of oxidation number can be used to explain molecular structure and composition.
@@ -107,7 +107,7 @@ in a covalent bond, one or more pairs of valence electrons are shared by two ato
 similarly, theories from classical physics can be used to predict many ionic structures. with more complicated compounds, such as metal complexes, valence bond theory is less applicable and alternative approaches, such as the molecular orbital theory, are generally used. see diagram on electronic orbitals.
 
 
-=== energyedit ===
+=== energy ===
 
 in the context of chemistry, energy is an attribute of a substance as a consequence of its atomic, molecular or aggregate structure. since a chemical transformation is accompanied by a change in one or more of these kinds of structures, it is invariably accompanied by an increase or decrease of energy of the substances involved. some energy is transferred between the surroundings and the reactants of the reaction in the form of heat or light; thus the products of a reaction may have more or less energy than the reactants.
 a reaction is said to be exergonic if the final state is lower on the energy scale than the initial state; in the case of endergonic reactions the situation is the reverse. a reaction is said to be exothermic if the reaction releases heat to the surroundings; in the case of endothermic reactions, the reaction absorbs heat from the surroundings.
@@ -121,7 +121,7 @@ the existence of characteristic energy levels for different chemical substances 
 the term chemical energy is often used to indicate the potential of a chemical substance to undergo a transformation through a chemical reaction or to transform other chemical substances.
 
 
-=== reactionedit ===
+=== reaction ===
 
 when a chemical substance is transformed as a result of its interaction with another substance or with energy, a chemical reaction is said to have occurred. a chemical reaction is therefore a concept related to the "reaction" of a substance when it comes in close contact with another, whether as a mixture or a solution; exposure to some form of energy, or both. it results in some energy exchange between the constituents of the reaction as well as with the system environment, which may be designed vessels—often laboratory glassware.
 chemical reactions can result in the formation or dissociation of molecules, that is, molecules breaking apart to form two or more smaller molecules, or rearrangement of atoms within or across molecules. chemical reactions usually involve the making or breaking of chemical bonds. oxidation, reduction, dissociation, acid-base neutralization and molecular rearrangement are some of the commonly used kinds of chemical reactions.
@@ -130,40 +130,40 @@ the sequence of steps in which the reorganization of chemical bonds may be takin
 according to the iupac gold book, a chemical reaction is "a process that results in the interconversion of chemical species." accordingly, a chemical reaction may be an elementary reaction or a stepwise reaction. an additional caveat is made, in that this definition includes cases where the interconversion of conformers is experimentally observable. such detectable chemical reactions normally involve sets of molecular entities as indicated by this definition, but it is often conceptually convenient to use the term also for changes involving single molecular entities (i.e. 'microscopic chemical events').
 
 
-=== ions and saltsedit ===
+=== ions and salts ===
 
 an ion is a charged species, an atom or a molecule, that has lost or gained one or more electrons. when an atom loses an electron and thus has more protons than electrons, the atom is a positively charged ion or cation. when an atom gains an electron and thus has more electrons than protons, the atom is a negatively charged ion or anion. cations and anions can form a crystalline lattice of neutral salts, such as the na+ and cl− ions forming sodium chloride, or nacl. examples of polyatomic ions that do not split up during acid-base reactions are hydroxide (oh−) and phosphate (po43−).
 plasma is composed of gaseous matter that has been completely ionized, usually through high temperature.
 
 
-=== acidity and basicityedit ===
+=== acidity and basicity ===
 
 a substance can often be classified as an acid or a base. there are several different theories which explain acid-base behavior. the simplest is arrhenius theory, which states than an acid is a substance that produces hydronium ions when it is dissolved in water, and a base is one that produces hydroxide ions when dissolved in water. according to brønsted–lowry acid–base theory, acids are substances that donate a positive hydrogen ion to another substance in a chemical reaction; by extension, a base is the substance which receives that hydrogen ion.
 a third common theory is lewis acid-base theory, which is based on the formation of new chemical bonds. lewis theory explains that an acid is a substance which is capable of accepting a pair of electrons from another substance during the process of bond formation, while a base is a substance which can provide a pair of electrons to form a new bond. according to this theory, the crucial things being exchanged are charges. there are several other ways in which a substance may be classified as an acid or a base, as is evident in the history of this concept.
 acid strength is commonly measured by two methods. one measurement, based on the arrhenius definition of acidity, is ph, which is a measurement of the hydronium ion concentration in a solution, as expressed on a negative logarithmic scale. thus, solutions that have a low ph have a high hydronium ion concentration, and can be said to be more acidic. the other measurement, based on the brønsted–lowry definition, is the acid dissociation constant (ka), which measures the relative ability of a substance to act as an acid under the brønsted–lowry definition of an acid. that is, substances with a higher ka are more likely to donate hydrogen ions in chemical reactions than those with lower ka values.
 
 
-=== redoxedit ===
+=== redox ===
 
 redox (reduction-oxidation) reactions include all chemical reactions in which atoms have their oxidation state changed by either gaining electrons (reduction) or losing electrons (oxidation). substances that have the ability to oxidize other substances are said to be oxidative and are known as oxidizing agents, oxidants or oxidizers. an oxidant removes electrons from another substance. similarly, substances that have the ability to reduce other substances are said to be reductive and are known as reducing agents, reductants, or reducers.
 a reductant transfers electrons to another substance, and is thus oxidized itself. and because it "donates" electrons it is also called an electron donor. oxidation and reduction properly refer to a change in oxidation number—the actual transfer of electrons may never occur. thus, oxidation is better defined as an increase in oxidation number, and reduction as a decrease in oxidation number.
 
 
-=== equilibriumedit ===
+=== equilibrium ===
 
 although the concept of equilibrium is widely used across sciences, in the context of chemistry, it arises whenever a number of different states of the chemical composition are possible, as for example, in a mixture of several chemical compounds that can react with one another, or when a substance can be present in more than one kind of phase.
 a system of chemical substances at equilibrium, even though having an unchanging composition, is most often not static; molecules of the substances continue to react with one another thus giving rise to a dynamic equilibrium. thus the concept describes the state in which the parameters such as chemical composition remain unchanged over time.
 
 
-=== chemical lawsedit ===
+=== chemical laws ===
 
 chemical reactions are governed by certain laws, which have become fundamental concepts in chemistry. some of them are:
 
 
-== practiceedit ==
+== practice ==
 
 
-=== subdisciplinesedit ===
+=== subdisciplines ===
 chemistry is typically divided into several major sub-disciplines. there are also several main cross-disciplinary and more specialized fields of chemistry.
 analytical chemistry is the analysis of material samples to gain an understanding of their chemical composition and structure. analytical chemistry incorporates standardized experimental methods in chemistry. these methods may be used in all subdisciplines of chemistry, excluding purely theoretical chemistry.
 biochemistry is the study of the chemicals, chemical reactions and chemical interactions that take place in living organisms. biochemistry and organic chemistry are closely related, as in medicinal chemistry or neurochemistry. biochemistry is also associated with molecular biology and genetics.
@@ -178,15 +178,15 @@ other disciplines within chemistry are traditionally grouped by the type of matt
 other fields include agrochemistry, astrochemistry (and cosmochemistry), atmospheric chemistry, chemical engineering, chemical biology, chemo-informatics, electrochemistry, environmental chemistry, femtochemistry, flavor chemistry, flow chemistry, geochemistry, green chemistry, histochemistry, history of chemistry, hydrogenation chemistry, immunochemistry, marine chemistry, materials science, mathematical chemistry, mechanochemistry, medicinal chemistry, molecular biology, molecular mechanics, nanotechnology, natural product chemistry, oenology, organometallic chemistry, petrochemistry, pharmacology, photochemistry, physical organic chemistry, phytochemistry, polymer chemistry, radiochemistry, solid-state chemistry, sonochemistry, supramolecular chemistry, surface chemistry, synthetic chemistry, thermochemistry, and many others.
 
 
-=== chemical industryedit ===
+=== chemical industry ===
 
 the chemical industry represents an important economic activity worldwide. the global top 50 chemical producers in 2013 had sales of us$980.5 billion with a profit margin of 10.3%.
 
 
-=== professional societiesedit ===
+=== professional societies ===
 
 
-== see alsoedit ==
+== see also ==
 
 outline of chemistry
 glossary of chemistry terms
@@ -201,27 +201,27 @@ periodic systems of small molecules
 philosophy of chemistry
 
 
-== referencesedit ==
+== references ==
 
 
-== bibliographyedit ==
-atkins, peter; de paula, julio (2009) [1992]. elements of physical chemistry (5th ed.). new york: oxford university press. isbn 978-0-19-922672-6. 
-burrows, andrew; holman, john; parsons, andrew; pilling, gwen; price, gareth (2009). chemistry3. italy: oxford university press. isbn 978-0-19-927789-6. 
-housecroft, catherine e.; sharpe, alan g. (2008) [2001]. inorganic chemistry (3rd ed.). harlow, essex: pearson education. isbn 978-0-13-175553-6. 
+== bibliography ==
+atkins, peter; de paula, julio (2009) [1992]. elements of physical chemistry (5th ed.). new york: oxford university press. isbn 978-0-19-922672-6.
+burrows, andrew; holman, john; parsons, andrew; pilling, gwen; price, gareth (2009). chemistry3. italy: oxford university press. isbn 978-0-19-927789-6.
+housecroft, catherine e.; sharpe, alan g. (2008) [2001]. inorganic chemistry (3rd ed.). harlow, essex: pearson education. isbn 978-0-13-175553-6.
 
 
-== further readingedit ==
+== further reading ==
 popular reading
 atkins, p.w. galileo's finger (oxford university press) isbn 0-19-860941-8
 atkins, p.w. atkins' molecules (cambridge university press) isbn 0-521-82397-8
 kean, sam. the disappearing spoon - and other true tales from the periodic table (black swan) london, 2010 isbn 978-0-552-77750-6
 levi, primo the periodic table (penguin books) [1975] translated from the italian by raymond rosenthal (1984) isbn 978-0-14-139944-7
 stwertka, a. a guide to the elements (oxford university press) isbn 0-19-515027-9
-"dictionary of the history of ideas". 
+"dictionary of the history of ideas".
 introductory undergraduate text books
 atkins, p.w., overton, t., rourke, j., weller, m. and armstrong, f. shriver and atkins inorganic chemistry (4th edition) 2006 (oxford university press) isbn 0-19-926463-5
 chang, raymond. chemistry 6th ed. boston: james m. smith, 1998. isbn 0-07-115221-0.
-clayden, jonathan; greeves, nick; warren, stuart; wothers, peter (2001). organic chemistry (1st ed.). oxford university press. isbn 978-0-19-850346-0. 
+clayden, jonathan; greeves, nick; warren, stuart; wothers, peter (2001). organic chemistry (1st ed.). oxford university press. isbn 978-0-19-850346-0.
 voet and voet biochemistry (wiley) isbn 0-471-58651-x
 advanced undergraduate-level or graduate text books
 atkins, p.w. physical chemistry (oxford university press) isbn 0-19-879285-9

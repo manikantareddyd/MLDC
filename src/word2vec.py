@@ -12,10 +12,10 @@ corpus = {}
 stop = stopwords.words('english')
 lemmatizer=WordNetLemmatizer()
 for topic in topics:
-    page    = wikipedia.page(topic)
-    content = page.content.lower()
-    f=open(topic+'.txt','w')
-    f.write(content.encode('utf8'))
+    #page    = wikipedia.page(topic)
+    #content = page.content.lower()
+    f=open(topic+'.txt','r')
+    content=f.read()#content.encode('utf8'))
     f.close()
     print "Loaded",topic
     rx      = re.compile('\W+')
@@ -24,17 +24,17 @@ for topic in topics:
 
 # wikipedia.set_lang('fr')
 # for topic in ['Autocar','Physique','chimie']:
-#     page    = wikipedia.page(topic)
-#     content = page.content.lower()
-#     # f=open(topic+'.txt','w')
-#     # f.write(content.encode('utf8'))
-#     # f.close()
+#     #page    = wikipedia.page(topic)
+#     #content = page.content.lower()
+#     f=open(topic+'.txt','r')
+#     content=f.read()#content.encode('utf8'))
+#     f.close()
 #     print "Loaded",topic
 #     rx      = re.compile('\W+')
 #     content = rx.sub(' ',content).strip().split()
 #     corpus[topic]=content
-
-
+#
+# topics=topics+['Autocar','Physique','chimie']
 print "created corpus"
 model   = gensim.models.Word2Vec(corpus.values(),min_count=0)
 print "Word Vectors created, vocab size:",len(model.vocab)
@@ -58,6 +58,11 @@ for topic in topics:
     labels = KMModel.predict(model[content])
     labels = np.array(labels)
     for label in labels:
-        vec[label]+=1
-    topicvec[topic]=vec
-    print topic,vec
+        vec[label]+=1#/(1.0*(len(content)))
+    topicvec[topic]=np.array(vec)/np.linalg.norm(vec,2)
+
+    print topic,topicvec[topic]
+
+nnn = np.linalg.norm
+print nnn(topicvec['Physics']-topicvec['Chemistry'])
+print nnn(topicvec['Physics']-topicvec['Naruto'])
