@@ -1,4 +1,4 @@
- # Mulit-Lingual Document Clustering
+# Mulit-Lingual Document Clustering
 
 This is a word frequency scatter across english and french for
 Physics, Chemistry and politcs?
