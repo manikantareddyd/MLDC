@@ -6,7 +6,7 @@ from nltk.stem.snowball import FrenchStemmer
 import math
 class vectorGen:
     def gen(self):
-        topics_en = ['Physics','Chemistry','Politics','Adele','Pakistan_en','India']#,'Leonardo Di Caprio','Academy Awards','India','Naruto','Pakistan','pikachu','pokemon']
+        topics_en = ['Physics','Chemistry','Politics','Adele','Pakistan_en','India','Baboon']#,'Leonardo Di Caprio','Academy Awards','India','Naruto','Pakistan','pikachu','pokemon']
         self.corpus_en = {}
         words_en  = []
         stop_en = stopwords.words('english')
@@ -26,7 +26,9 @@ class vectorGen:
             self.corpus_en[topic] = freqDist_en[topic].keys()
         words_en = list(set(words_en))
         #/(0.001*len(self.corpus_en[topic]))
-        topics_fr = ['Physique','chimie','Politique','Adele_fr','Pakistan_fr','Inde']
+
+
+        topics_fr = ['Physique','chimie','Politique','Adele_fr','Pakistan_fr','Inde','Babouin']
         self.corpus_fr = {}
         words_fr  = []
         stop_fr = stopwords.words('french')
@@ -52,6 +54,8 @@ class vectorGen:
         for word in words_en:
             vec=[]
             for topic in topics_en:
+                if topic == 'Baboon':#== 'India' or topic == 'Adele' or topic=='Pakistan':
+                    pass
                 try:
                     vec.append(freqDist_en[topic][unicode(word)])
                 except:
@@ -62,6 +66,8 @@ class vectorGen:
         for word in words_fr:
             vec=[]
             for topic in topics_fr:
+                if topic=='Babouin':#topic == 'Inde' or topic == 'Adele_fr' or topic=='Pakistan_fr':
+                    pass
                 try:
                     vec.append(freqDist_fr[topic][word])
                 except:
