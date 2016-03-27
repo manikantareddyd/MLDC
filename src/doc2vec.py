@@ -8,21 +8,16 @@ class docVector:
         self.Model = KMeans(k)
         self.Model.fit(self.wv.word_vectors.values())
         self.gen(k)
-
     def gen(self,k):
         topics_en_test = self.wv.topics_en_test
         topics_fr_test = self.wv.topics_fr_test
         self.topicVectors={}
-
-        #This part for English
         for topic in topics_en_test:
             vector = [0 for x in range(k)]
             for word in self.wv.corpus_en[topic]:
                 vector[self.Model.predict([self.wv.word_vectors[word]])[0]]+=1
             vector = [math.exp((1+vector[x])/(1.0+1.0*max(vector))) for x in range(k)]
             self.topicVectors[topic]=np.array(vector)
-
-        #This part for French
         for topic in topics_fr_test:
             vector = [0 for x in range(k)]
             for word in self.wv.corpus_fr[topic]:
