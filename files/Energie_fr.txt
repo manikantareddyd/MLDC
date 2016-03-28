@@ -1,0 +1,184 @@
+l'énergie est définie en physique comme la capacité d'un système à produire un travail, entraînant un mouvement ou produisant par exemple de la lumière, de la chaleur ou de l’électricité. c'est une grandeur physique qui caractérise l'état d'un système et qui est d'une manière globale conservée au cours des transformations. l'énergie s'exprime en joules (dans le système international d'unités) ou souvent en kilowatts-heures (kw·h ou kwh).
+outre l'énergie au sens de la science physique, le terme « énergie » est aussi utilisé dans les domaines technologique, économique et écologique, pour évoquer les ressources énergétiques, leur consommation, leur développement, leur épuisement, leur impact écologique. les principales ressources énergétiques sont les énergies fossiles (le gaz naturel, le charbon, le pétrole), l’énergie hydroélectrique, l’énergie éolienne, l’énergie nucléaire, l’énergie solaire, l'énergie géothermique.
+les activités économiques telles que les productions industrielles, le transport, le chauffage des bâtiments, l'utilisation d'appareils électriques divers, sont consommatrices de beaucoup d'énergie ; l'efficacité énergétique, la dépendance énergétique, la sécurité énergétique et le prix de l’énergie y sont des préoccupations majeures.
+une sensibilisation accrue aux effets du réchauffement climatique a conduit ces dernières années à un débat mondial sur la maîtrise des émissions de gaz à effet de serre et à des actions pour leur réduction. cela conduit à envisager des transformations des modes de consommation énergétique (transition énergétique), pas seulement en raison des contraintes liées à l'épuisement de l'offre, mais aussi à cause des problèmes posés par les déchets, l'extraction des énergies fossiles, ou certains scénarios géopolitiques.
+
+
+== étymologie et définitions ==
+
+l’énergie est un concept qui remonte à l'antiquité.
+le mot français « énergie » vient du latin vulgaire energia, lui-même issu du grec ancien ἐνέργεια / enérgeia. ce terme grec originel signifie « force en action », par opposition à δύναμις / dýnamis signifiant « force en puissance » ; aristote a utilisé ce terme « au sens strict d'opération parfaite », pour désigner la réalité effective en opposition à la réalité possible.
+après avoir exploité sa propre force et celle des animaux, l’homme a appris à exploiter les énergies contenues dans la nature (d’abord les vents, énergie éolienne et les chutes d’eau, énergie hydraulique) et capables de lui fournir une quantité croissante de travail mécanique par l’emploi de machines : machines-outils, chaudières et moteurs. l’énergie est alors fournie par un carburant (liquide ou gazeux, issu d'énergie fossile ou non).
+l’expérience humaine a montré que tout travail requiert une force et produit de la chaleur ; que plus on puise d’énergie par quantité de temps, plus vite on fait un travail, et plus on s’échauffe.
+comme l’énergie est nécessaire à toute entreprise humaine, l’approvisionnement en sources d'énergie utilisables est devenu une des préoccupations majeures des sociétés humaines.
+il faut noter qu'au sens de la physique, il n'y a pas de « sources d'énergie », ni d'« énergies renouvelables », ni de « pertes d'énergie », car l'énergie ne peut ni se créer ni disparaître (premier principe de la thermodynamique, lavoisier, anaxagore…). les questions autour de l'énergie concernent donc sa transformation, son stockage et son transport.
+les transformations de l'énergie peuvent s'opérer de plusieurs façons : l'énergie interne d'un système change de forme (transformation de son énergie potentielle en énergie cinétique par exemple) ou bien un système transmet son énergie à un autre (par exemple, la transformation de l'essence en chaleur puis en énergie cinétique...).
+les questions du stockage et du transport de l'énergie sont très importantes pour les activités humaines, notamment pour compenser le caractère intermittent de la production des énergies renouvelables.
+
+
+== typologies ==
+
+
+=== formes d'énergie en physique mécanique ===
+la physique mécanique, considère deux manifestations pour l’énergie :
+l’énergie cinétique d’une masse en mouvement ;
+l’énergie potentielle des forces d'interaction s’exerçant entre des systèmes.
+lorsque deux systèmes interagissent, ils échangent de l'énergie. au cours de l'interaction, la somme des variations d'énergie dans le premier système est l'opposée de la somme des variations d'énergie dans le second ; l'énergie totale est conservée.
+quand une masse prend de la hauteur son énergie cinétique (ec) se transforme au fur et à mesure en énergie potentielle (ep). lorsqu'elle atteint le sommet de sa trajectoire (la hauteur maximum), son énergie cinétique devient nulle et son énergie potentielle est proportionnelle à la hauteur atteinte (optimum local). en tombant la transformation inverse se produit, lorsque la masse percute le sol son énergie potentielle devient nulle et son énergie cinétique est maximum juste avant l'impact.
+démonstration de la conservation de l'énergie à partir de l'équation de la dynamique de newton :
+
+avec :
+ ; la force en n
+ ; la masse en kg
+ ; l'accélération en  et qui peut aussi s'écrire comme la dérivée de la vitesse ; 
+
+d'où : 
+multiplions chaque membre par dx :
+
+on remarquera que  et 
+
+ ; l'accélération de la pesanteur en 
+
+il vient donc : 
+
+après intégration de chaque membre et en remarquant que l'énergie gravitationnelle (attractive) est négative, on conviendra de désigner l'énergie potentielle «  » par -ep.
+
+à tout moment l'énergie totale est conservée :
+l'énergie totale est la somme de l'énergie cinétique et de l'énergie potentielle : .
+
+
+=== sources d'énergie ===
+
+on qualifie également l’énergie selon la source d’où elle est extraite ou le moyen par lequel elle est acheminée: les énergies fossiles, l’énergie nucléaire, l’énergie de masse, l’énergie solaire, l’énergie électrique, l’énergie chimique, l’énergie thermique, l'énergie d’origine biomassique (biomasse sèche, biomasse humide et biocarburants) ;
+il existe des sources d'énergie qui sont régénérées par des processus naturels dans la mesure où on les exploite sans dépasser les limites de cette capacité de régénération : on les nomme par convention énergies renouvelables.
+
+
+== approche transversale ==
+
+
+=== une grandeur « universelle » ===
+
+si le terme d’énergie s’est précisé dans le cadre des sciences physiques depuis le xviiie, il garde toutefois plusieurs sens différents, fort d’une histoire dont on trouve trace dès l'antiquité,. le terme est utilisé dans de nombreux domaines dont la philosophie, l’économie, la nutrition, la spiritualité, voire l’ésotérisme, où il se rapporte à des notions variées, et à des concepts divergents en fonction des époques, des lieux et des auteurs.
+l'énergie est un concept créé pour quantifier les interactions entre des phénomènes très différents ; c'est un peu une monnaie d'échange commune entre les phénomènes physiques. ces échanges sont contrôlés par les lois et principes de la thermodynamique. l'unité de l'énergie définie par le bureau international des poids et mesures (bipm) dans le système international (si) est le joule.
+lorsqu'un phénomène entraîne un autre phénomène, l'intensité du second dépend de l'intensité du premier. par exemple, les réactions chimiques dans les muscles d'un cycliste lui permettent de provoquer le déplacement du vélo. l'intensité de ce déplacement (c'est-à-dire la vitesse) dépend de l'intensité des réactions chimiques des muscles du cycliste, qui peuvent être quantifiées (la quantité de sucre « brûlée » par la respiration, le métabolisme du muscle).
+prenons un autre exemple. un moteur à explosion fonctionne grâce à une réaction chimique : la combustion qui a lieu à l'intérieur d'un cylindre. la réaction du combustible (l'essence) avec le comburant (l'oxygène de l'air) produit du gaz avec émission de chaleur et de lumière, ce qui se traduit par une augmentation de la température et de la pression dans le cylindre ; la différence de pression entre ce gaz et l'atmosphère de l'autre côté du piston déplace ce dernier, qui va, à travers une transmission mécanique, faire tourner les roues ainsi qu'un alternateur qui va produire de l'électricité. au passage, il y aura des frottements mécaniques qui produiront un échauffement et une usure.
+on a donc un réarrangement des molécules (rupture et recréation de liaisons chimiques) qui provoque une augmentation de la quantité de mouvement des molécules (ce qui se traduit par une augmentation de la température du gaz et donc une augmentation de sa pression). ce dernier provoque le mouvement d'un solide (le piston), qui va entraîner un système de transmission, et pouvoir ainsi d'une part faire tourner un axe, qui peut être par exemple relié aux roues d'une voiture ou bien à un alternateur. l'entraînement de la pièce mobile de cet alternateur va faire tourner un aimant qui, par induction au sein d'une bobine, va provoquer un déplacement d'électrons (courant électrique).
+le concept d'énergie va permettre de calculer l'intensité des différents phénomènes (par exemple la vitesse de la voiture et la quantité d'électricité produite par l'alternateur) en fonction de l'intensité du phénomène initial (la quantité de gaz et la chaleur produite par la réaction chimique de combustion).
+remarques 
+dans les applications grand public, et notamment dans le domaine de la nutrition, on exprime fréquemment l'énergie en calories ; la calorie est en toute rigueur l'énergie qu'il faut fournir pour faire chauffer un gramme d'eau, aux conditions normales de pression et de température, d'un degré celsius, mais les nutritionnistes nomment par simplification « calorie » ce que les physiciens nomment « kilocalorie ».
+en électricité, on utilise le watt-heure (wh), énergie consommée pendant une heure par un appareil ayant une puissance d'un watt, ou encore son multiple le kilowattheure (kwh) qui vaut 1 000 wh. celui-ci n'est pas très éloigné du travail que peut effectuer un cheval en une heure (736 wh par convention) excepté en termes de coût, car il revient en france en 2012 à environ 10 centimes d'euro.
+pour des raisons thermodynamiques (second principe), toute transformation énergétique réelle est irréversible, ce qui veut dire qu'en inversant l'opération (exemple : retransformer en mouvement via un moteur électrique l'énergie produite par la dynamo d'un vélo), on ne retrouve pas la quantité l'énergie consommée au départ. cela est lié aux pertes.
+
+
+=== historique de la notion d'énergie ===
+
+le concept d'énergie est fondamental pour l'étude des phénomènes de transformation (comme la chimie et la métallurgie) et de transmission mécanique, qui sont la base de la révolution industrielle. le concept physique d'énergie s'est donc logiquement affirmé au xixe siècle.
+en 1686, leibniz montre que la quantité m·v2, appelée « force vive », se conserve. en 1788, lagrange montre l'invariance de la somme de deux quantités, que l'on appellera plus tard « énergie cinétique » et « énergie potentielle ».
+au xixe siècle, on parvient par une série d'expériences à mettre en évidence des constats ou lois :
+on constate que la chute d'un poids donné d'une même hauteur produit toujours le même échauffement (calorimétrie) ;
+et que si la vitesse finale n'est pas nulle, la hausse de température est moindre, comme si seulement une partie de la chute était convertie en vitesse et le reste en chaleur ;
+de même un échauffement pourra produire une dilatation, une augmentation de pression, qui elle-même permettra de « produire un travail » par exemple en déplaçant une masse ;
+le total est toujours conservé : ainsi naît le concept scientifique d'énergie, « chose » encore indéterminée mais dont on postule une propriété :
+l'énergie se conserve dans tous les phénomènes, devenant tour à tour, pression, vitesse, hauteur, etc.
+ainsi, grâce à l'énergie, on peut mettre en relation des observations aussi différentes qu'un mouvement, une rotation, une température, la couleur d'un corps ou d'une lumière, une consommation de sucre ou de charbon, une usure, etc.
+il apparaît également que si l'énergie se conserve et se transforme, certaines transformations sont faciles ou réversibles et d'autres non.
+par exemple, il est facile de transformer de la hauteur de chute en échauffement, on peut le faire intégralement, en revanche l'inverse est difficile (il faut des appareils complexes) et une partie de l'« énergie » devra être diffusée et donc perdue. cette observation sera à la base de l'idée d'entropie.
+à partir du concept de conservation de l'énergie (en quantité), on pourra regarder d'un œil différent des systèmes complexes (notamment biologiques et chimiques) qui violent apparemment cette loi et, on parviendra, moyennant de nouveaux progrès scientifiques, à toujours valider le postulat ou principe de conservation de l'énergie.
+l'énergie est un concept essentiel en physique, qui se précise depuis le xixe siècle.
+on retrouve le concept d'énergie dans toutes les branches de la physique :
+en mécanique ;
+en thermodynamique ;
+en électromagnétisme ;
+en mécanique quantique ;
+mais aussi dans d'autres disciplines, en particulier en chimie.
+
+
+== physique ==
+
+en science physique, l'énergie, mesurée en joules, est une mesure de la capacité d'un système à modifier un état, à produire un travail entraînant un mouvement, un rayonnement électromagnétique ou de la chaleur. le travail est ainsi un transfert ordonné d'énergie entre un système et le milieu extérieur, tandis que la chaleur est un transfert désordonné d’énergie entre le système et le milieu extérieur.
+les transformations de l'énergie qui font intervenir l'énergie thermique sont étudiées par la thermodynamique :
+le premier principe affirme que l'énergie se conserve. l'énergie ne peut ni se créer ni se détruire mais uniquement se transformer d'une forme à une autre (principe de lavoisier) ou être échangée d'un système à un autre (principe de carnot) ;
+le second principe impose des limitations au rendement de la transformation de l'énergie thermique en énergie mécanique, électrique ou autre. la conversion d'énergie d'une forme à une autre n'est en général pas complète : une partie de l'énergie présente au départ est dégradée sous forme d'énergie cinétique désordonnée. on nomme rendement le quotient de l'énergie obtenue sous la forme désirée par celle fournie à l'entrée du convertisseur.
+en pratique, on distingue souvent différentes « formes » d'énergie, telles que :
+l'énergie cinétique, associée au mouvement d'un corps ou d'une particule ;
+l'énergie thermique, énergie cinétique d'un ensemble au repos ;
+l'énergie électrique, proportionnelle à la quantité d'électricité ;
+les énergies potentielles : moyennant un petit changement, possible sans travail, un système instable se transforme en un système plus stable, avec conversion de la différence d'énergie entre les deux systèmes (le plus stable ayant une énergie moindre) : énergie potentielle mécanique, énergie potentielle chimique, énergie potentielle gravitationnelle, énergie potentielle électromagnétique, chaleur latente, énergie libre.
+
+
+== biologie ==
+
+
+=== de la thermodynamique à l'écologie ===
+
+comme le reste du monde physique, les êtres vivants sont soumis au deuxième principe de la thermodynamique : l'entropie —le désordre— peut soit demeurer constante soit augmenter, mais ne peut jamais diminuer.
+par rapport à ce principe fondamental, la vie constitue en soi un paradoxe apparent : comment les êtres vivants peuvent-ils se construire, croître et maintenir leur organisation —donc créer et maintenir de l'ordre— sans diminution d'entropie? cette question a été étudiée dès 1944 par le physicien et prix nobel erwin schrödinger, qui a introduit le concept de néguentropie.
+selon ce principe, les êtres vivants fonctionnent comme des systèmes dissipatifs ouverts :
+ils dépendent en permanence d'un flux d'énergie entrant;
+cette énergie est utilisée pour construire des structures ordonnées, ce qui correspond effectivement à une baisse de l'entropie interne;
+en contrepartie, ils rejettent de la chaleur dans leur environnement, ce qui induit donc une hausse de l'entropie externe.
+dans le bilan entropique global, si l'on prend en compte à la fois les êtres vivants et leur environnement, l'entropie augmente toujours, et les lois de la thermodynamique sont respectées.
+à titre d'exemple, un adulte au repos dissipe une chaleur d'environ 70 watts, soit autant qu'une ampoule conventionnelle. l'énergie ainsi dissipée chaque jour correspond à environ 1 400 kilocalories, qui doivent être compensées par un apport énergétique quotidien provenant de la ration alimentaire.
+puisque la vie dépend d'échanges énergétiques permanents, tout écosystème a besoin d'une source d'énergie, et d'organismes capables de capter cette énergie et de l'intégrer dans la chaîne alimentaire (organismes autotrophes). la biosphère terrestre dépend en premier lieu de l'énergie solaire, grâce aux organismes capables de photosynthèse (plantes, phytoplancton, algues, etc.). à un degré moindre, d'autres formes d'énergie peuvent être intégrées en complément, par exemple l'énergie géothermique pour les bactéries thermophiles.
+une fois intégrée dans la chaîne alimentaire, l'énergie est stockée sous forme d'énergie chimique, et circule au sein de réseaux trophiques, passant d'un niveau trophique à l'autre : des autotrophes vers les hétérotrophes, des proies vers les prédateurs, sans oublier le rôle essentiel des décomposeurs.
+l'importance primordiale de l'énergie solaire pour la biosphère est illustrée par les extinctions massives, où un évènement catastrophique empêche le rayonnement solaire d'atteindre le sol (hiver volcanique, hiver d'impact…) : soumises au froid et privées de lumière, les plantes se raréfient, puis les herbivores meurent de faim, et c'est ensuite au tour des carnassiers. on pense que c'est un tel évènement qui a provoqué l'extinction des dinosaures à la fin du crétacé. selon certaines théories, l'espèce humaine aurait échappé de peu à l'extinction il y a 74 000 ans, lors de l'hiver volcanique provoqué par le supervolcan de toba.
+
+
+=== stockage et utilisation de l'énergie par le vivant ===
+dans les cellules, l'énergie peut être présente sous une forme directement utilisable (adénosine tri-phosphate), ou au contraire stockée pour plus tard sous forme de sucres simples ou ramifiés (amidon), de graisse chez les animaux, d'huiles chez les végétaux.
+
+
+== énergie et ésotérisme ==
+la notion d'énergie est assez floue pour avoir donné, dans l'imagerie populaire, la conception d'une sorte de fluide qui passerait d'un objet à l'autre au cours des transformations. dans son ouvrage « l'énergie spirituelle », de 1919, henri bergson affirme que comme il existe une énergie électrique, il existe une énergie spirituelle qui ne peut se réduire à l'énergie physique et biologique.
+le terme « énergie » revient fréquemment dans les discours pseudo-scientifiques du new age, avec les ondes, ou encore dans les « pratiques énergétiques », comme le reiki, dans lesquelles « énergie » serait une substance invisible plus ou moins définie ou d'origine divine. en physique, l'énergie est une grandeur précisément définie, quantifiable et mesurable. ceci n'est pas le cas des « énergies psychokinétique » ou « cosmique » qui ne sont pas vérifiables ni réfutables, leur existence ne pouvant être prouvée, elles ne sont pas reconnues par la méthode scientifique.
+
+
+== énergétique : l'énergie dans les sociétés humaines ==
+les sociétés humaines utilisent une petite partie de l'énergie reçue ou produite sur terre : la consommation mondiale d'énergie représentait, en l'an 2000, à peine 1/10 000e de l'énergie reçue du soleil au niveau du sol.
+si l'énergie est un concept unitaire sur le plan physique, elle prend plusieurs aspects du point de vue des sociétés humaines, en fonction de la manière dont elle est à mise à leur disposition. la crainte d'un épuisement des ressources, ainsi que celle du changement climatique causé par les émissions de gaz à effet de serre, a conduit à définir de nouvelles classifications des sources d'énergie. enfin, la production d'une énergie utile pour les activités humaines a un coût, ce qui donne à l'énergie une valeur économique qui détermine les politiques énergétiques des états.
+l'onu a déclaré 2012 « année internationale de l'énergie durable pour tous », afin de sensibiliser les états à l'importance d'améliorer l'accès durable à l'énergie, l'efficience énergétique et les énergies renouvelables aux niveaux local, régional et international.
+
+
+=== énergies fossiles et renouvelables ===
+dans toutes les sociétés, l'activité humaine consomme de l'énergie qui peut être produite par des sources d'énergies renouvelables ou non renouvelables.
+les sources d'énergies non renouvelables correspondent à des matières premières dont les stocks ne se reconstituent pas à l'échelle d'une vie humaine, principalement le charbon, le gaz naturel, le pétrole et l'uranium. il s'agit d'énergies fossiles, sauf l'uranium qui résulte d'un processus de production différent des combustibles carbonés.
+les énergies renouvelables correspondent à des sources d'énergie de flux ou dont les stocks peuvent se renouveler en quelques années ou quelques dizaines d'années. c'est le cas de l'énergie solaire, de l'énergie éolienne, de l'énergie hydraulique, dont le flux se maintient indépendamment de la consommation qui en est faite (énergie fatale). les énergies issues du bois et plus généralement de la biomasse ne sont pas inépuisables mais sont considérées comme renouvelables si leur usage ne dépasse pas la quantité de biomasse générée chaque année.
+ces différentes énergies proviennent, par transformations successives, de trois sources principales :
+le soleil : cette énergie est utilisée directement (photovoltaïque, solaire thermique) ou indirectement : énergie du vent produit par les différences thermiques dans l'atmosphère, énergie hydroélectrique provenant de l'évaporation (cycle de l'eau), énergie de la biomasse qui dépend de la photosynthèse, énergie des hydrocarbures qui proviennent eux-mêmes d'une biomasse fossile ;
+le sous-sol : énergie nucléaire (uranium) et géothermie profonde ;
+la gravitation : celle de la terre et celle de la lune (énergie marémotrice).
+on peut remarquer que les deux premières de ces sources relèvent de l'énergie nucléaire : fusion dans le cas du soleil, fission dans le cas de l'énergie thermique du sous-sol, produite par la fission d'atomes d'uranium ou de thorium dans le noyau terrestre.
+
+
+=== économie de l'énergie ===
+
+l'économie de l'énergie concerne l'approvisionnement des acteurs économiques en énergie et l'activité de l'ensemble des entreprises qui produisent, commercialisent et distribuent de l’énergie. elle regroupe la production et la consommation d’énergie et on y distingue d'une part l'exploitation des sources d'énergie et d'autre part la production et la distribution. cela comprend donc la production d'électricité, la distribution d'électricité, la production de produits pétroliers et celle de gaz naturel.
+l'économie de l'énergie est fortement liée aux politiques énergétiques menées par les états.
+
+
+== notes et références ==
+
+
+== voir aussi ==
+
+
+=== bibliographie ===
+jean-paul deléage, daniel hémery, jean-claude debeir, les servitudes de la puissance : une histoire de l'énergie, flammarion, 1992
+(en) vaclav smil, energy in world history, westview press, 1994
+
+
+=== articles connexes ===
+ordre de grandeur (énergie)
+formes d'énergie : énergie cinétique, énergie potentielle, énergie électromagnétique et énergie mécanique
+énergies selon leurs sources ou leurs vecteurs :
+
+conversion de l'énergie : graphe de liaisons, énergie primaire, énergie finale
+exergie et récolte d'énergie
+
+
+=== liens externes ===
+émergence du concept d’énergie, revue du palais de la découverte, no 384 2013, mayrargue arnaud, maître de conférences université paris 12 (upec), iufm ; cnrs, laboratoire sphere.
+
+ portail de l’énergie
+ portail de l’électricité et de l’électronique
+ portail de la physique

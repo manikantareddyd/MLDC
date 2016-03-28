@@ -12,11 +12,11 @@ class wordVecGen:
         # Initializations...
         print "Initializing..."
         self.corpus_en = {}
-        self.topics_en = ['Physics','Chemistry','Politics','Adele','Pakistan_en','India','Baboon','pokemon_en','pokemon_en_test']
-        self.topics_en_test = ['pokemon_en_test']
+        self.topics_en = ['Physics','Chemistry','Politics','Adele','Pakistan_en','India','Baboon','pokemon_en','pokemon_en_test','Politics_test']
+        self.topics_en_test = ['pokemon_en_test','Politics_test']
         self.corpus_fr = {}
-        self.topics_fr = ['Physique','chimie','Politique','Adele_fr','Pakistan_fr','Inde','Babouin','pokemon_fr','pokemon_fr_test']
-        self.topics_fr_test = ['pokemon_fr_test']
+        self.topics_fr = ['Physique','chimie','Politique','Adele_fr','Pakistan_fr','Inde','Babouin','pokemon_fr','pokemon_fr_test','Politique_test']
+        self.topics_fr_test = ['pokemon_fr_test','Politique_test']
         self.word_vectors = {}
         self.word_vectors_en = {}
         self.word_vectors_fr = {}
@@ -63,7 +63,9 @@ class wordVecGen:
             self.corpus_en[topic] = freqDist_en[topic].keys()
 
         # Converting the list of words into a set of words so that duplicates are removed
+        print "Number words in English: "+str(len(words_en))
         words_en = list(set(words_en))
+        print "Number words in English as set: "+str(len(words_en))
 
         print "Generating vectors for english words"
         for word in words_en:
@@ -112,7 +114,9 @@ class wordVecGen:
             self.corpus_fr[topic] = freqDist_fr[topic].keys()
 
         # Converting the list of words into a set of words so that duplicates are removed
-        words_fr = list(set(words_fr))
+        print "Number words in French: "+str(len(words_fr))
+        words_en = list(set(words_fr))
+        print "Number words in French as set: "+str(len(words_fr))
 
         print "Generating vectors for french words"
         for word in words_fr:

@@ -1,0 +1,401 @@
+wikipédia (wikipedia en anglais) ( en français) est un projet d'encyclopédie universelle, multilingue (291 langues mi-2015), sous licence cc-by-sa 3.0, créée par jimmy wales et larry sanger le 15 janvier 2001 en wiki sous le nom de domaine wikipedia.org.
+l'encyclopédie ainsi que son environnement est hébergée sur internet grâce aux serveurs financés par la wikimedia foundation, organisation à but non lucratif américaine, dépositaire de la marque wikipédia.
+l'encyclopédie est en libre accès, en lecture comme en écriture, c'est-à-dire que n'importe qui, accédant au site, peut en modifier la quasi-totalité des articles. si l'on regarde son impact, on constate que wikipédia est le septième site le plus fréquenté au monde, et constitue le plus grand et le plus populaire des ouvrages de références générales d'internet. ainsi, en février 2014, il y avait mondialement presque 500 millions de visiteurs chaque mois et en mai 2014, 22 millions de comptes pour les éditeurs, dont plus de 73 000 sont considérés comme actifs.
+jimmy wales ainsi que larry sanger ont lancé wikipédia le 15 janvier 2001. bien que son contenu ait alors été principalement en anglais, il est rapidement devenu multilingue, grâce en partie au lancement des versions internationales de wikipédia. toutes ces versions sont semblables les unes aux autres, mais il existe des différences notamment dans le contenu et les techniques d'édition. le wikipédia anglais n'est maintenant qu'un parmi près de trois cents autres wikipédias, il reste néanmoins le wikipédia le plus complet avec plus de 5 millions d'articles.
+
+
+== historique ==
+
+en mars 2000, jimmy wales met en ligne sur le web nupedia, une encyclopédie libre. il bénéficie pour cela du soutien de la société bomis, dont il est l'actionnaire majoritaire. larry sanger est engagé dans cette société au titre de rédacteur en chef. nupedia fonctionnant avec un comité scientifique, la progression du nombre d'articles est très lente. le 2 janvier 2001, larry sanger a une conversation avec le programmeur ben kovitz, qui lui explique le concept du wiki. en raison de la frustration occasionnée par la lenteur de la progression de nupedia, larry sanger propose à jimmy wales la création d'un wiki sous licence publique générale gnu afin d'accroître la vitesse de développement des articles, ce qui donne lieu au lancement formel de wikipédia le 15 janvier 2001,. le terme « wikipédia » est étymologiquement issu de la fusion de deux termes : wiki, type de site web collaboratif (d'après un mot hawaïen qui signifie « rapide »), se référant au fait que l'encyclopédie a toujours vocation à s'améliorer rapidement et à être constamment active de par son mode de fonctionnement, et -pédia, dérivé du mot grec παιδεία, paideia, « instruction », « éducation ». ce nouveau projet devait servir à fournir du contenu textuel selon une méthode plus souple, permettant ensuite éventuellement d'alimenter nupedia, après un passage par le filtre d'un comité d'experts.
+
+la version française de wikipédia est officiellement créée le 23 mars 2001. elle est la première version de wikipédia dans une langue autre que l'anglais, suivie par les versions en allemand et en catalan. à partir de ce moment, larry sanger travaille parallèlement sur nupedia et wikipédia. il participe à l'élaboration de la plupart des règles de fonctionnement de cette dernière. en février 2002, la rétribution de son travail pour nupedia et wikipédia est supprimée du budget alloué par bomis ; en conséquence, il démissionne officiellement le 1er mars 2002 de ses fonctions sur les deux projets. en 2003, la progression de nupedia stagne, alors que wikipédia se développe très rapidement. le 26 septembre 2003, nupedia est définitivement fermée et son contenu intégré à wikipédia, qui poursuit son expansion. selon larry sanger, nupedia a échoué à cause d'une chaîne éditoriale trop lourde et de la difficulté à trouver des rédacteurs bénévoles.
+le 20 juin 2003, la wikimedia foundation est créée pour financer le soutien technique de wikipédia.
+jimmy wales intervient fin 2005 sur l'article « wikipedia » de wikipédia en anglais, pour retirer l'information selon laquelle larry sanger en était cofondateur, puisque sanger a toujours été un salarié. cet événement donne lieu à de nombreux articles dans la presse anglophone, ainsi qu'à des images humoristiques sur le sujet.
+lors du 5e symposium international sur le journalisme en ligne, jonathan dee, du new york times, et andrew lih mentionnent l'importance de wikipédia, non seulement comme une encyclopédie de référence mais aussi comme une ressource d'actualités très fréquemment mise à jour. l'attention a cependant été attirée à de nombreuses reprises sur des problèmes éditoriaux internes à l'encyclopédie. lorsque le magazine time a reconnu « vous » (you) comme personnalité de l'année 2006, en reconnaissant l'accélération de la collaboration en ligne et l'interaction de millions d'utilisateurs dans le monde, il a cité wikipédia comme l'un des trois exemples de services web 2.0, avec youtube et myspace.
+
+
+== autres formes de diffusion ==
+la recherche de moyens techniques et économiques permettant de rendre accessible les informations de wikipédia par d'autres voies que le web, est liée au projet d'une diffusion la plus large possible des connaissances. depuis son lancement officiel, où elle est en grande partie modifiable par la plupart de ses lecteurs. plusieurs autres moyens de consulter l'encyclopédie ont ensuite vu le jour, tels que des sites web miroirs, des applications pour smartphone ou un appareil électronique dédié. les mêmes principes fondateurs de rédaction sont partagés par les différentes versions linguistiques, mais les pratiques d'écriture sont convenues indépendamment par les internautes pour chacune d'elles. le site wikipedia.org est devenu en quelques années l'un des plus consultés au monde. les serveurs hébergeant le site sont financés par une fondation américaine, la wikimedia foundation.
+
+
+=== distribution papier et cd/dvd ===
+
+le projet de distribution sur papier était destiné en particulier aux personnes n'ayant pas les moyens de se raccorder à internet. la réalisation d'une version de wikipédia en anglais sur papier, cd-rom ou dvd a été proposée en août 2003 par jimmy wales. actuellement, il est possible de commander une sélection d'articles wikipédia appelée « livres » imprimée et reliée ; wikimédia perçoit 10 % sur les ventes brutes des ouvrages.
+la version allemande de wikipédia est vendue sur cd-rom depuis le deuxième semestre 2004 : le nombre de 10 000 cd-rom vendus a été franchi en avril 2005. une diffusion sous forme de dvd est également assurée depuis le printemps 2005. en avril 2007, une compilation d'environ 2 000 articles de la version anglaise est éditée sur cd-rom par la société française linterweb ; la dernière version de ce projet a été éditée en 2008. à la même époque, le projet moulinwiki, initié par iesc-geekcorps-mali, proposa une version intégrale incluant tous les articles, sans les images, réunis sur une image disque de 554 mo. la diffusion d'un dvd d'une sélection d'articles wikipédia en français a fait l'objet d'un projet équivalent au projet anglophone, mais il n'a pas abouti ; il est désormais abandonné.
+
+
+=== consultation de wikipédia hors connexion ===
+
+kiwix est un des principaux logiciels libres actuellement déployés pour consulter wikipédia à partir d'un ordinateur personnel sous windows, mac os, gnu/linux ou android en mode hors connexion. il permet de lire un fichier téléchargeable au format zim contenant par exemple wikipédia en français, textes et illustrations. pour cette dernière langue, un espace de 6 go est nécessaire pour la dernière version sans images de février 2014, et de 24 go, pour la dernière version avec images de novembre 2013 (pour télécharger wikipédia en français, rendez-vous sur la page wikipédia hors-connexion). partenariat entre les associations framasoft et wikimedia france, la framakey wikipédia, sortie en octobre 2012, propose, grâce à kiwix, la consultation de l'ensemble de l'encyclopédie francophone sur une clé usb.
+le projet afripédia utilise ce logiciel. il s'est donné pour mission de mettre en place des ordinateurs plug équipés de bornes wi-fi et d'une copie locale de wikipédia dans certains campus universitaires d'afrique dont la liaison internet dispose d'un débit insuffisant pour permettre de consulter wikipédia en ligne.
+en janvier 2013, d'autres logiciels offrent cette possibilité de lecture de wikipédia en mode hors connexion, mais aucun ne permet d'accéder aux illustrations des articles, contrairement à kiwix ; leur base de données est donc bien moins lourde. certains offrent en outre la possibilité d'être utilisables sur des plateformes non prises en charge par kiwix, comme ios.
+
+
+=== consultation sur des assistants personnels ===
+
+l'accès officiel à wikipédia se charge automatiquement sur les plateformes iphone, android, webos, opera mini, netfront (sony ericsson, playstation) ou wii. contrairement aux éditeurs anonymes, les utilisateurs inscrits peuvent éditer les articles, consulter leur liste de suivi, ajouter et enlever des articles de cette liste, etc. un bouton situé en bas de toutes les pages permet de basculer de la version bureau à la version mobile et réciproquement.
+il existe également des logiciels qui permettent de transformer le contenu de wikipédia sous forme de fichiers consultables sur des assistants personnels, comme webaroo avec plucker. l'appareil électronique wikireader permet également la consultation hors-ligne de wikipédia (en 2012, cet appareil n'est plus commercialisé en france).
+wikipédia peut aussi être consultée par le biais de l'application android officielle, disponible sur l'android market ou encore l'application iphone officielle, disponible sur l'appstore.
+
+
+== nature ==
+
+
+=== objectifs du projet ===
+wikipédia a pour slogan : « le projet d'encyclopédie librement distribuable que chacun peut améliorer ». ce projet est décrit par son cofondateur jimmy wales comme « un effort pour créer et distribuer une encyclopédie libre de la meilleure qualité possible à chaque personne sur la planète dans sa propre langue ». ainsi, jimmy wales proposa comme objectif que wikipédia puisse atteindre un niveau de qualité au moins équivalent à celui de l'encyclopædia britannica.
+en revanche, wikipédia n'a pas pour but de présenter des informations inédites, elle ne vise donc qu'à exposer des connaissances déjà établies et reconnues.
+
+
+=== caractéristiques ===
+
+« wikipédia » est un mot-valise conçu à partir de « wiki », un système de gestion de contenu de site web qui permet d'écrire facilement dans les pages consultées, et de « pédia », qui provient du mot « encyclopédie », présent dans de nombreuses langues, comme l'anglais et certaines graphies latines. les contributeurs francophones, ainsi que ceux de certaines autres versions linguistiques, utilisent un « é » aussi bien dans le nom dactylographié que dans le logo, la plupart des autres communautés s'en tenant à l'écriture « wikipedia ».
+wikipédia est réalisée collaborativement sur internet. le système wiki de wikipédia permet la création et la modification immédiates des pages par tous les visiteurs, même sans inscription. wikipédia fut la première encyclopédie généraliste à ouvrir, grâce à ce système, l'édition de ses articles à tous les internautes. aucun article n'est considéré comme achevé, et wikipédia se présente comme un projet en amélioration continue. la constante surveillance des modifications est également ouverte à tous à travers le système wiki. il n'y a aucun système hiérarchique de validation ; aussi l'encyclopédie est-elle l'objet de nombreuses incompréhensions et critiques quant à la qualité et à la fiabilité de son contenu, et l'objet d'études sur sa fiabilité en anglais, la langue la plus développée.
+
+le projet se veut universel, en traitant tous les domaines de la connaissance, y compris la culture populaire, multilingue et gratuit dans sa version en ligne, afin de favoriser l'accès du plus grand nombre à la connaissance.
+wikipédia est disponible sous licence libre, ce qui signifie que chacun est libre de la recopier, de la modifier, et de la redistribuer gratuitement et onéreusement. cette notion de contenu libre découle de celle de logiciel libre, formulée avant wikipédia par la free software foundation. jusqu'en 2009, le contenu textuel de wikipédia était publié sous la licence de documentation libre gnu (gfdl). à partir de 2009, il est principalement publié sous licence creative commons paternité-partage des conditions initiales à l'identique 3.0 (cc by-sa 3.0), la gfdl devenant une licence secondaire disponible sous certaines conditions. les modifications apportées par les utilisateurs sont publiées sous les deux licences, et l'import de contenu uniquement sous licence creative commons by-sa 3.0 est autorisé, mais il entraîne l'impossibilité de réutiliser globalement les pages concernées sous licence gfdl. les autres médias (images, sons, vidéos, etc.) sont disponibles sous diverses licences.
+toutes langues confondues, des centaines de sites web reprennent tout ou partie du contenu de wikipédia. chaque site qui héberge une copie de wikipédia a sa propre politique éditoriale ; dans wikipedia, les contributeurs ont développé de nombreuses règles et recommandations pour viser la qualité.
+le contenu encyclopédique se veut respectueux de la « neutralité de point de vue », définie par jimmy wales comme le fait de « décrire le débat plutôt que d'y participer ». toute contribution à un article de wikipédia doit s'efforcer à ne jamais prendre parti dans une discussion argumentée. la neutralité de point de vue consiste à présenter objectivement les idées et les faits rapportés par des sources extérieures vérifiables et notoires, indépendamment des préjugés des rédacteurs des articles. sur wikipédia, les règles d'écriture visent à convenir aux personnes rationnelles, même si celles-ci ne sont pas toujours du même avis. la politique de neutralité de wikipédia stipule que les articles doivent évoquer toutes les facettes d'une question controversée, et ne pas déclarer ni insinuer que l'un ou l'autre des points de vue est a priori le bon. la neutralité de point de vue n'implique pas cependant une représentation égalitaire de toutes les opinions, wikipédia accordant plus de place aux opinions les plus largement acceptées.
+
+
+=== filiations culturelles ===
+
+par ses objectifs et son fonctionnement, le projet wikipédia s'inscrit dans une série de filiations culturelles :
+le concept du copyleft, inventé par don hopkins et popularisé par richard stallman de la free software foundation, par lequel un auteur autorise tout utilisateur à copier, modifier et distribuer son œuvre, mais aux mêmes conditions d'utilisation, y compris dans les versions modifiées ou étendues (voir notamment wikipédia:droit d'auteur et histoire du logiciel libre) ;
+la pratique du travail collaboratif sur internet, développé notamment chez les informaticiens par les adeptes du logiciel libre ;
+le laissez-faire comme modèle d'organisation, qui implique un égal droit de participation pour tous, sans égard pour l'âge, la compétence, le sexe ou l'origine, en même temps qu'un minimum de règles, qui peuvent d'ailleurs être ignorées si elles nuisent au travail.
+en revanche, wikipédia est assez éloignée de l'encyclopédie ou dictionnaire raisonné des sciences, des arts et des métiers par sa volonté de présenter des informations neutres, alors que l'ouvrage conçu par denis diderot et jean le rond d'alembert se caractérisait au contraire par son fort engagement contre l'obscurantisme. l'historien du livre roger chartier souligne cependant que wikipédia « repose sur les contributions multiples d'une sorte de société de gens de lettres invisibles » tout en observant que « diderot n'aurait sûrement pas accepté la simple juxtaposition des articles, sans arbre des connaissances ni ordre raisonné, qui [la] caractérise ».
+
+
+=== projets frères ===
+le succès de wikipédia a poussé la communauté à développer d'autres sites en reprenant ses mécanismes de fonctionnement : wiktionary, un dictionnaire et thésaurus créé le 12 décembre 2002 ; wikiquote, un recueil de citations (27 juin 2003) ; wikibooks, un annuaire des livres électroniques destinés aux étudiants (10 juillet 2003) ; wikisource, un recueil de textes dans le domaine public (23 novembre 2003) ; wikinews, un site d'informations (décembre 2004) ; wikispecies, un répertoire du vivant (2004) ; wikiversity, une communauté pédagogique créée en 2006 ; et wikivoyage, un guide touristique en ligne (octobre 2012). créé en 2001, meta-wiki est un wiki utilisé pour coordonner tous ces projets, et servir à la communication entre les communautés linguistiques de wikipédia, celles des projets frères, et la wikimedia foundation.
+à ceux-ci vient s'ajouter en particulier wikimedia commons, une bibliothèque multimédia proposant uniquement un contenu libre, publié soit sous licence libre, soit dans le domaine public aux états-unis, dans le pays d'origine de l'œuvre, et dans celui du contributeur l'ajoutant au site. cette banque de données regroupe la majeure partie des schémas, photos, vidéos et sons libres qui servent à illustrer les articles de wikipédia dans ses différentes versions linguistiques. créée le 7 septembre 2004, wikimedia commons dispose de plus de trente millions de fichiers début 2016.
+wikimedia commons collabore avec des médiathèques afin de diffuser plus largement leurs fonds d'images libres, à travers wikipédia notamment. en décembre 2008, les archives fédérales du bundestag allemand ont ainsi téléchargé 80 000 images vers ce site, puis en avril la bibliothèque du land de saxe fait un don de 250 000 images, et, en novembre 2009, le musée ethnographique d'amsterdam tropenmuseum a téléchargé 35 000 images concernant l'indonésie. ces images, dont beaucoup ont une valeur historique, servent ensuite d'illustrations à des articles de wikipédia, des sites web et des journaux en ligne. ce type de collaboration offre à ces bibliothèques et musées une plus grande diffusion de leur fonds d'images, et une révision de ces fonds par les internautes qui signalent les erreurs comme des descriptions incorrectes ou des confusions entre auteurs homonymes, et permettent la correction des autorités, les biographies succinctes identifiant les auteurs dans une collection d'archives.
+
+
+== contenu ==
+
+
+=== organisation et fonctionnement ===
+
+wikipédia est organisée afin de regrouper les articles rédigés dans la même langue, qui forment la version de wikipédia dans cette langue.
+les pages de wikipédia sont regroupées dans différents espaces de noms, tels que « principal », « discussion », « aide » ou encore « utilisateur ». l'espace « principal » contient les articles encyclopédiques, et à chacun d'eux est rattachée une page de discussion permettant aux rédacteurs et lecteurs de discuter de la rédaction de l'article. les pages peuvent être rangées dans une ou plusieurs catégories, et ces catégories peuvent être organisées selon une hiérarchisation arborescente et thématique (par exemple « pays d'europe », puis « italie », puis « ville d'italie »).
+elles sont en outre reliées les unes aux autres par des hyperliens internes mettant un mot d'un article en bleu, et un clic de souris sur ce mot permet au lecteur de se déplacer vers l'article correspondant au concept abordé. des hyperliens permettent également de naviguer entre les différentes versions linguistiques de wikipédia, ou de conduire vers ses projets frères, par exemple pour fournir une définition d'un mot sur le wiktionnaire ou une galerie d'images sur wikimedia commons. un clic de souris sur les illustrations de wikipédia conduit à une page de description du fichier multimédia indiquant notamment le nom de l'auteur et la licence sous laquelle il est publié.
+des hyperliens externes permettent aux lecteurs de consulter des sources d'information en ligne lorsqu'une référence soutenant une information dans un article est présente sur le web. les articles proposent aussi souvent des liens externes vers de la documentation en ligne permettant d'approfondir le sujet. ces liens sont classés en no follow (« ne pas suivre ») pour les robots d'indexation des moteurs de recherche, afin de décourager l'insertion de liens dans un but publicitaire.
+sur chaque page, un onglet permet d'accéder à son code source au format wiki, permettant sa modification. en plus de la page de discussion attachée à un article, un historique permet de lister les auteurs et de consulter les modifications successives de l'article par ses rédacteurs.
+les modifications de chaque page sont identifiées par l'adresse ip du rédacteur ou par son pseudonyme s'il s'est préalablement identifié. les différentes communautés linguistiques de rédacteurs de wikipédia élaborent des règles, des conventions et des principes guidant la rédaction des articles qui leur sont propres. une part significative du site est constituée par d'autres pages que les articles, ces pages permettent aux utilisateurs de communiquer et de collaborer autour de la rédaction des articles.
+
+
+=== couverture thématique ===
+
+des analyses statistiques, menées par des chercheurs de l'université carnegie-mellon et du palo alto research center, étudient l'état de la couverture thématique de wikipédia en anglais en janvier 2008.
+
+la répartition montre une nette prédominance des articles culturels. les pourcentages qui suivent sont ceux de janvier 2008, les variations entre parenthèses représentent leur évolution depuis juillet 2006. dans l'intervalle, le nombre de pages et de catégories a plus que doublé :
+culture et arts : 30 % (+ 210 %)
+biographies et personnes : 15 % (+ 97 %)
+géographie et lieux : 14 % (+ 52 %)
+société et sciences sociales : 12 % (+ 83 %)
+histoire et événements : 11 % (+ 143 %)
+sciences naturelles et physiques : 9 % (+ 213 %)
+technologie et sciences appliquées : 4 % (- 6 %)
+religions et systèmes de croyances : 2 % (+ 38 %)
+santé : 2 % (+ 42 %)
+mathématiques et logique : 1 % (+ 146 %)
+philosophie et pensée : 1 % (+ 160 %)
+
+
+=== images ===
+la wikimedia foundation permet aux différentes versions linguistiques de wikipédia d'héberger directement du contenu multimédia. elle incite néanmoins les différentes communautés à déplacer le contenu libre vers une plate-forme multimédia commune à l'ensemble des 285 versions linguistiques de wikipédia : wikimedia commons. cependant, les images dont le statut vis-à-vis du droit d'auteur varie selon les pays n'y sont pas acceptées. chaque version linguistique est incitée à se doter de critères spécifiques et d'une doctrine réglementant l'hébergement de contenu non libre, comme des illustrations protégées par le droit d'auteur mais publiées grâce à des exceptions présentes dans certaines législations. par exemple, wikipédia en anglais a adopté le principe américain du fair use (« usage raisonnable », en français), contrairement à wikipédia en français.
+
+
+== versions linguistiques ==
+il existe 291 éditions de wikipédia localisées par langue au 19 janvier 2015. à la même date, le nombre total d'articles de l'ensemble des éditions de wikipédia est 38 229 930.
+une page actualisée régulièrement est disponible : liste des wikipédias
+certaines éditions de wikipédia, telles que les éditions en cebuo et en waray-waray, ont un nombre d'articles très élevé malgré un nombre limité d'utilisateurs, en raison de l'utilisation d'un logiciel ou robot pour générer des articles. il existe également un classement qualitatif fondé sur l'existence et la taille des articles d'une liste arbitraire d'environ 1 000 articles que toute édition de wikipédia devrait avoir.
+le projet wikipédia ne se limite pas aux langues vivantes comptant un très grand nombre de locuteurs, officielles ou attachées à un pays. en effet, des versions de l’encyclopédie wikipédia sont rédigées dans les langues corse, occitane, bretonne, picarde, basque, catalane, latine, en espéranto, en anglais simplifié.
+sept versions linguistiques de l'encyclopédie recourent à l'orthographe et à la typographie « wikipédia » (avec l'accent aigu) pour désigner l'encyclopédie :
+trois langues romanes : français, portugais et picard ;
+deux langues malayo-polynésiennes : soundanais et tétoum ;
+une langue ouralienne : hongrois ;
+une langue slave : slovaque.
+les trois éditions de wikipédia les plus consultées mi‑2010 sont, d'après le site d'alexa internet, la version en anglais avec 54 % du trafic, la version en japonais avec 10,3 % du trafic et la version en allemand avec 8,1 % du trafic.
+
+
+== rédaction ==
+
+
+=== rédacteurs ===
+
+tout lecteur de wikipédia est un rédacteur ou correcteur potentiel. fin 2008, un sondage est effectué par la wikimedia foundation et unu-merit. environ 130 000 lecteurs et contributeurs de wikipédia y ont répondu, principalement en langues anglaise, allemande et espagnole. la moyenne d'âge des sondés est environ 26 ans. une fois les résultats lissés, environ 65 % d'entre eux se déclaraient seulement lecteurs, et 35 % contributeurs. parmi les contributeurs, 48 % d'entre eux avaient fait des études supérieures, et 20 % obtenu un master ou plus. ces contributeurs passent en moyenne 4,3 heures par semaine sur wikipédia, et leurs motivations principales sont de partager le savoir et de corriger les erreurs. certains comptes utilisateurs sont utilisés par des logiciels, dits « robots » ou « bots », programmés pour assurer la maintenance des articles, par exemple pour corriger des erreurs communes d'orthographe ou de mise en forme, lutter contre les vandalismes ou encore, dans certaines éditions de wikipédia, créer de nombreux nouveaux articles,.
+les rédacteurs se répartissent généralement par communauté linguistique concentrée sur la rédaction de la version de wikipédia correspondante, mais interviennent aussi souvent ponctuellement sur les versions de wikipédia en d'autres langues, ou les projets frères de la wikimedia foundation. depuis 2008, les comptes enregistrés peuvent être unifiés : un seul compte sert ainsi à identifier l'utilisateur sur tous les projets de la wikimedia foundation.
+parmi les contributeurs, il y a toujours eu plus d'hommes que de femmes. une étude récente (2010) basée sur une enquête auprès des contributeurs et contributrices et des travaux antérieurs sur le genre, l'expérience de l'internet et les compétences à contribuer, laisse penser que ceci est dû en partie au fait que les hommes ont de manière générale plus développé certaines des compétences utiles dans l'internet pour contribuer à ce type de projet.
+un contributeur est classé « actif » tant qu'il fait au moins cinq modifications par mois. depuis 2007, le nombre de contributeurs actifs sur l'ensemble des versions linguistiques de wikipédia a presque été divisé par deux.
+un rédacteur peut être identifié par son adresse ip, ou par son pseudonyme s'il l'a enregistré sur le site.
+au sein de wikipédia, les comptes utilisateurs disposent de différents statuts techniques gérés par le logiciel mediawiki et contrôlant les actions qui leur sont permises. les critères pour acquérir un statut et la façon de se servir des capacités fournies sont fixés indépendamment par chaque communauté. parmi ces statuts, les principaux sont :
+les utilisateurs anonymes identifiés par leur adresse ip peuvent uniquement créer et modifier les articles, et intervenir sur les pages de discussions (avec des restrictions sur la création d'articles sur certaines versions linguistiques) ;
+les utilisateurs enregistrés peuvent faire de même, mais en plus renommer une page et copier des fichiers d'illustration (images, vidéos…). en fonctions de certains critères choisis par chaque communauté — généralement un seuil minimal sur le nombre de contributions réalisées par le compte utilisateur — ils peuvent aussi voter lors des différentes consultations, comme les élections d'administrateurs ou d'arbitres ;
+les administrateurs sont élus par la communauté qui leur confère ce statut. leur rôle est essentiellement technique, et correspond à des outils dont l'usage nécessite l'approbation de la communauté : supprimer une page, supprimer des versions intermédiaires d'une page (dite « purge d'historique »), mettre en place différents niveaux de blocage filtrant l'édition de pages ayant des problèmes, et bloquer un utilisateur au comportement problématique. ils ne peuvent juger du contenu d'un article, mais peuvent intervenir pour limiter l'édition d'une page lorsqu'elle est le terrain d'un conflit entre utilisateurs ;
+les bureaucrates sont élus par la communauté, et peuvent renommer un compte utilisateur. ils examinent aussi les résultats d'une candidature au rôle d'administrateur ou de bureaucrate, et la valident en effectuant le changement de statut du compte utilisateur concerné s'il a obtenu l'approbation de la communauté ;
+les arbitres sont élus par la communauté qui leur confère ce statut. ils forment le comité d'arbitrage qui étudie les conflits entre utilisateurs et peuvent décider de sanctions, notamment des blocages en édition ou des restrictions plus spécifiques. ils ne peuvent juger du contenu d'un article, leur rôle se limite à évaluer les conflits entre personnes, et leur comportement sur wikipédia.
+
+
+==== statistiques mensuelles ====
+
+la wikimedia foundation fournit des statistiques mensuelles sur son site. on trouve notamment la somme des nombres de contributeurs ayant fait au moins 100 modifications pour l'ensemble des éditions :
+en 2006 : entre 6 999 et 10 369 ;
+en 2007 : entre 10 482 et 11 710 ;
+en 2008 : entre 10 470 et 11 696 ;
+en 2009 : entre 10 440 et 11 470.
+on trouve également la somme des nombres de contributeurs ayant fait au moins 5 modifications pour l'ensemble des éditions :
+en 2006 : entre 46 492 et 82 463 ;
+en 2007 : entre 83 065 et 94 534 ;
+en 2008 : entre 83 360 et 93 045 ;
+en 2009 : entre 84 131 et 90 590.
+on trouve également le nombre de pages vues pour l'ensemble des éditions :
+en 2008 : entre 9 148 millions et 10 617 millions ;
+en 2009 : entre 10 054 millions et 11 635 millions.
+
+
+=== contrôle des modifications des articles ===
+les modifications apportées aux articles font l'objet de plusieurs niveaux de surveillance a posteriori, qui permettent de corriger les erreurs les plus évidentes. selon le figaro, le cofondateur de wikipédia, jimmy wales, affirme ainsi qu'« en général, la correction d'une erreur ou d'une information fallacieuse a lieu en quelques heures, voire en quelques minutes ». une étude de l'université du minnesota affirme que, jusqu'en 2006, sur deux millions de modifications problématiques, 42 % ont été réparées dans un temps qui rend peu probable leur lecture par un visiteur, alors qu'environ 11 % des vandalismes détectés persistaient après avoir été vus cent fois. de la même manière, la grande majorité des vandalismes détectés avaient été corrigés après 15 révisions au plus.
+à un premier niveau, tous les changements sont accessibles en temps réel sur une page récapitulant les « modifications récentes ». ce flux est scruté en permanence par des volontaires, ainsi que par quelques automates. les vandalismes les plus évidents (écrasements de pages entières, messages d'insulte, graffiti) sont généralement détectés à ce stade, et corrigés dans les minutes qui suivent par un retour à la version précédente. ce premier niveau de contrôle porte essentiellement sur la forme. les surveillants volontaires peuvent également corriger des problèmes évidents d'orthographe ou de style, et éventuellement effectuer un contrôle de cohérence rapide sur un ajout particulièrement suspect. en 2006, 60 % des « vandalismes » étaient détectés facilement par des humains (modifications dénuées de sens, offensantes ou encore suppressions massives), mais certaines catégories de modifications semblaient plus délicates à repérer : désinformation, suppression partielle, spam et autres.
+le deuxième niveau de contrôle consiste, pour un rédacteur inscrit, à examiner sur sa « liste de suivi » (liste des pages qu'il a marquées pour les surveiller) les modifications apportées récemment. cet examen permet de détecter et corriger assez rapidement les principaux problèmes de fond : erreurs manifestes, ajouts hors sujet, ou manque d'objectivité ou de neutralité dans la formulation. les coauteurs de l'article peuvent ainsi contrôler de manière plus approfondie les ajouts suspects, si nécessaire en s'appuyant sur des sources de référence.
+quand ces deux premiers niveaux de contrôle conduisent à des corrections, le correcteur volontaire peut examiner ensuite l'ensemble des ajouts effectués par le même contributeur, ce qui peut lui permettre de rattraper des modifications ayant échappé aux deux premiers niveaux de contrôle. quand il apparaît qu'un contributeur « à problème » a trop souvent une contribution négative sur wikipédia, il peut se faire interdire d'écriture sur toute l'encyclopédie : « les administrateurs, élus parmi les contributeurs, ont le pouvoir de supprimer ou de protéger des pages, de bloquer ou d'exclure un contributeur à la suite d'une décision du comité d'arbitrage, lui aussi composé de membres choisis par la communauté ».
+
+les erreurs qui échappent à ces premiers niveaux de contrôle sont des erreurs peu évidentes, ou qui portent sur des articles marginaux, de faible avancement, et peu surveillés. ces erreurs peuvent rester des mois voire des années dans l'article, et restent d'autant plus longtemps que l'article est peu lu et peu édité. elles peuvent être corrigées spontanément par un lecteur. de plus, à la faveur d'une nouvelle modification, l'article repasse par les contrôles précédents, et les correcteurs volontaires peuvent décider à cette occasion de le relire en intégralité pour corriger d'éventuelles erreurs anciennes.
+le dernier niveau de contrôle, collectif, est formé par les projets d'amélioration d'articles rattachés à un thème donné, organisé autour d'un « portail ». dans ce cadre, les articles sont relus, complétés et corrigés, par des volontaires passionnés par ce thème. les articles qui bénéficient de ces relectures sont initialement corrigés, et continuent généralement à être suivis par l'équipe du « portail ».[réf. nécessaire]
+chaque communauté établit aussi des procédures pour labelliser les articles en fonctions de critères spécifiques, ce processus conduit par exemple à deux catégories d'articles : « bon article » (« good article » sur wikipédia en anglais) et « article de qualité » (« featured article » sur wikipédia en anglais).
+d'autres procédures sont développées et testées par les différentes communautés de langue, comme le projet wikitrust, des filtres automatiques contrôlant le texte proposé à la publication, ou des versions de travail nécessitant une relecture avant d'être incorporés à la version publiée (flagged revision)[réf. souhaitée].
+
+
+=== conflits d'édition ===
+
+l'étude menée par des chercheurs de l'université carnegie-mellon et du palo alto research center s'intéresse également à la contribution des différents thèmes de l'encyclopédie aux conflits, en décomptant le nombre d'annulations de modification, ramené à la taille de la catégorie correspondant au thème. les pourcentages qui suivent sont ceux de janvier 2008.
+culture et arts : 2 %
+biographies et personnes : 14 %
+géographie et lieux : 2 %
+société et sciences sociales : 7 %
+histoire et événements : 6 %
+sciences naturelles et physiques : 7 %
+technologie et sciences appliquées : 1 %
+religions et systèmes de croyances : 28 %
+santé : 0 %
+mathématiques et logique : 1 %
+philosophie et pensée : 28 %
+les annulations de modification sont plus nombreuses dans certains articles, dont l'ensemble ou une partie du contenu se trouve particulièrement controversé. une étude montre que ces articles diffèrent selon les langues de l'encyclopédie.
+dans l'encyclopédie wikipédia en français, les dix articles les plus controversés selon le critère des annulations, étaient à fin mars 2010, les suivants :
+ségolène royal
+objet volant non identifié
+témoins de jéhovah
+jésus
+sigmund freud
+attentats du 11 septembre 2001
+affaire mohammed al-durah
+islamophobie
+dieu (christianisme)
+débat sur l'énergie nucléaire
+
+
+== critiques ==
+
+le statut de wikipédia en tant que source de référence est un sujet de controverses, en particulier à cause de son système de rédaction ouvert à tous. l'audience grandissante de wikipédia a conduit un grand nombre de personnes à formuler des avis critiques sur la fiabilité des informations présentées dans cette encyclopédie. ces critiques étant récurrentes, une page spéciale de wikipédia est consacrée aux réponses de participants à wikipédia aux objections les plus fréquentes.
+les principales critiques portent sur :
+l'anonymat des contributeurs ;
+l'absence de filtrage des éditeurs et de comité de validation ;
+les problèmes posés par la neutralité de point de vue ;
+la vulnérabilité face aux sabotages, « vandalismes » dans le jargon de wikipédia ;
+la communauté des contributeurs.
+les critiques de wikipédia l'accusent d'incohérences, de partialité systémique et d'une forme d'anti-élitisme, et d'avoir une politique favorisant trop le consensus dans son processus éditorial. la fiabilité et la précision de wikipédia sont aussi des questions débattues. d'autres critiques portent essentiellement sur sa sensibilité au vandalisme et à l'ajout de fausses informations, bien que des travaux aient suggéré que le vandalisme est généralement de courte durée,.
+d'autres critiques se révèlent plutôt positives. ainsi, en juin 2009, le philosophe français bernard stiegler estime que wikipédia, « passage obligé pour tout utilisateur d'internet », est un « exemple frappant d'économie de la contribution » et que l'encyclopédie « a conçu un système d'intelligence collective en réseau ».
+des études ont été menées sur la qualité du contenu proposée par wikipédia, et des comparaisons effectuées avec d'autres encyclopédies. ces évaluations fournissent généralement des conclusions positives pour wikipédia, mais ces résultats font aussi l'objet de critiques.
+le traitement inégalitaire des hommes et des femmes tant en nombre d'articles qu'en qualité et neutralité du contenu, avec une présentation des femmes plus péjorative, fait l'objet d'analyses convergentes,,,. toutefois, les études ne concluent pas sur le fait de savoir si ce biais provient des contributeurs eux-mêmes, ou des sources qui leur sont disponibles.
+
+
+== aspects techniques ==
+
+
+=== logiciel ===
+
+wikipédia et ses projets parallèles sont des wikis libres. le premier wiki est créé en 1995 par ward cunningham, qui l'appelle wikiwikiweb. un wiki est un site web dynamique, dont les visiteurs autorisés peuvent modifier les pages qu'ils lisent avec leur navigateur web. sur wikipédia, par exemple, la syntaxe utilisée pour modifier une page est beaucoup plus simple que celle du hypertext markup language, et elle est censée permettre un apprentissage rapide.
+le fonctionnement de wikipédia est assuré par le logiciel libre mediawiki, une plate-forme wiki adaptée à wikipédia, écrite en php et utilisant une base de donnée mysql. mediawiki est sous licence gnu gpl et est en 2010 utilisé par tous les projets wikimedia ainsi que par de nombreux autres sites wikis. à l'origine, wikipédia utilisait le logiciel usemodwiki, développé par clifford adams en perl, et requérant l'usage de la camelcase pour la création de liens entre les articles. à partir de janvier 2002, la version en anglais de wikipédia utilise un logiciel développé par magnus manske, écrit en php — les versions dans les autres langues étant restées sous le logiciel usemodwiki. à partir de l'été 2002, tous les sites sont progressivement migrés vers mediawiki.
+les informations contenues dans wikipédia, toutes langues confondues, sont conservées dans une base de données et peuvent être téléchargées.
+
+
+=== serveurs ===
+
+le succès croissant de wikipédia nécessite l'emploi d'un grand nombre de serveurs informatiques qui fonctionnent tous avec un système d'exploitation gnu/linux (principalement ubuntu). ces installations sont présentes à tampa en floride, à amsterdam aux pays-bas, et dans le site sud-coréen d'hébergement de yahoo! qui accueille 23 serveurs[quand ?] de la wikimedia foundation.
+les serveurs sont organisés en trois couches :
+des machines munies de caches squid, attendent les demandes de pages et d'images ;
+des machines munies de serveurs apache préparent les pages à la demande, en fonction des données présentes dans la base de données ;
+une base de données maître et des bases de données esclaves stockent les données ; jusqu'en décembre 2012, elles fonctionnent avec mysql. depuis début 2013, la fondation a basculé sur la scission mariadb.
+plusieurs sites web, comme ganglia, permettent de consulter diverses informations sur le fonctionnement des serveurs, notamment la charge des processeurs, la mémoire occupée…
+une description précise de l'architecture des serveurs est difficile, car elle change très fréquemment en raison des améliorations régulièrement apportées pour répondre au très fort trafic engendré par la consultation de wikipédia. cet aspect de wikipédia est géré par le personnel technique de la wikimedia foundation.
+
+
+== wikimedia foundation et associations locales ==
+la wikimedia foundation possède les différentes marques (wikipedia, wikimedia…), les serveurs, les sites web, et agit comme hébergeur web.
+des associations nationales, ayant pour but de promouvoir wikipédia et le libre partage des connaissances, existent dans plusieurs pays. elles reprennent généralement l'intitulé « wikimedia » (wikimédia belgique, wikimédia france, wikimédia suisse, etc.). ces associations sont reconnues comme associations locales par la wikimedia foundation, mais n'y sont pas juridiquement liées, et n'ont aucune responsabilité sur le contenu de wikipédia. elles sont généralement désignées comme le chapter (chapitre) pour un pays donné. des associations de ce type sont présentes en angleterre, en allemagne, en argentine, en australie, en autriche, en france, à hong kong, en israël, en italie, aux pays-bas, en pologne, en république tchèque, en russie, en serbie, en suède, en suisse et à taïwan.
+les différentes communautés linguistiques et la wikimedia foundation s'accordent pour publier wikipédia et ses projets frères sans recourir à un financement publicitaire[réf. nécessaire]. soutenue uniquement par des dons des lecteurs, de mécènes et de fondations, la wikimedia foundation emploie une trentaine de personnes (en septembre 2014, 213 noms constituent l'équipe wikimédia), principalement des techniciens gérant les serveurs hébergeant les différents sites. pour l'année fiscale 2007-2008, elle a reçu 6,4 millions de dollars us de dons, et son budget est annuellement examiné par le comité d'audit kpmg [réf. souhaitée].
+
+
+== influence ==
+
+
+=== positionnement ===
+d'après le site alexa, wikipédia fait partie en 2012 des dix sites les plus visités du world wide web. la même année, le nombre d'articles a dépassé les 22 millions, dont plus de 4 millions dans wikipédia en anglais, plus de 1 400 000 dans wikipédia en allemand et plus de 1 300 000 dans wikipédia en français. dans un communiqué de presse du 10 novembre 2009, wikimedia foundation annonce recevoir plus de 320 millions de visiteurs par mois pour wikipédia et ses projets frères, d'après comscore media metrix.
+de nombreux projets d'encyclopédie existent — ou ont déjà existé — sur internet. certains, tels que la stanford encyclopedia of philosophy ou la défunte nupedia, ont adopté une politique éditoriale traditionnelle, avec par exemple un seul auteur par article. la forte fréquentation de wikipédia, combinée aux critiques sur son principe de fonctionnement, ont également poussé au développement de projets concurrents. citizendium est par exemple une encyclopédie en ligne en anglais dirigée par larry sanger et publiée sous licence libre. elle se distingue notamment par l'obligation pour les rédacteurs d'indiquer leur nom et de préciser leurs diplômes. le 5 décembre 2009, citizendium propose 12 790 articles, dont 121 ont été approuvés par son système de sélection. à titre de comparaison et à la même date, wikipédia en anglais propose 3 116 306 articles, dont 2 710 sont présentés comme articles de qualité (featured articles).
+l'exemple de wikipédia a aussi suscité la création de projets plus spécialisés, comme l'encyclopédie thématique memory alpha, dédiée à l'univers de star trek, ou le site parodique désencyclopédie. également inspirée de wikipédia, wikimini et vikidia offrent un dessein pédagogique à ces nouveaux wikis en proposant aux enfants et adolescents de construire leur propre encyclopédie en ligne. d'autres, tels que susning et l'enciclopedia libre, sont des wikis dans lesquels les articles sont écrits par divers collaborateurs sans processus formel de révision. conservapedia est une encyclopédie collaborative en ligne en anglais, conservatrice et créationniste, construite en réaction à la neutralité de point de vue de wikipédia en anglais, jugée trop « gauchiste » » et « liberal » (au sens américain du terme). le projet wikipédia a aussi influencé la création d'une encyclopédie d'extrême droite qui se dit « encyclopédie alternative », metapedia, créée le 26 octobre 2006 en suédois, puis son pendant slave, wikislavia. metapedia existe en suédois, en anglais, en hongrois, en espagnol, en français, en slovaque, en portugais, en tchèque, en roumain, en allemand, en estonien, en norvégien, en croate, en danois, en néerlandais et en grec. wikislavia existe en russe, en une langue appelé « sibérien », en tchakavien (croate), en kaïkavien (croate), en russe latinisé, en « don-cosaque », en panslavon, en moldave[quoi ?] [réf. nécessaire] et en ukrainien.
+influencées par le positionnement de wikipédia sur internet, les éditions larousse ont ouvert en mai 2008 leur encyclopédie en ligne à un accès public et gratuit, et développé un espace dédié à des articles rédigés par les internautes. l'encyclopædia universalis propose aussi une version consultable en ligne, sur un modèle payant par abonnement et reposant sur l'érudition de ses auteurs assumant un parti pris éclairé dans la rédaction des articles. en octobre 2009, un comparatif du magazine clubic, portant sur six encyclopédies en ligne francophones, concluait à la prédominance de wikipédia dans l'exhaustivité et l'actualisation de ses informations, et d'universalis dans la pertinence. l'encyclopédie larousse était perçue comme un compromis viable, mais cumulant aussi les défauts des deux autres modèles.
+en chine, le moteur de recherche baidu a ouvert l'encyclopédie en ligne baidu baike le 20 avril 2006. le contenu, 1,7 million d'articles en juillet 2009, est rédigé par les internautes sinophones qui cèdent leurs droits d'auteur à baidu. hudong est une autre encyclopédie en ligne en chinois : reposant sur une technologie wiki, elle contient, en septembre 2009, 3,23 millions d'articles placés sous copyright. des systèmes de contrôle assurent sur ces deux sites que des informations jugées inappropriées par le gouvernement de la république populaire de chine ne sont pas publiées. à titre de comparaison, wikipédia en chinois contient 270 000 articles en septembre 2009, et son site web a été fréquemment bloqué en république populaire de chine, notamment parce qu'elle présentait des articles sur des sujets sensibles comme les manifestations de la place tian'anmen, le falun gong, ou le dalaï-lama.[réf. nécessaire]
+
+
+=== volumétrie ===
+depuis sa création, le contenu de l'encyclopédie wikipédia n’a cessé de grandir, en quantité, dans des proportions difficilement imaginables à ses débuts. au départ comparable aux autres encyclopédies existantes, elle les a rapidement dépassées en taille et en couverture.
+ainsi, fin 2009, wikipédia contenait déjà 28,5  millions d'articles, auxquels il convenait d'ajouter les documents de la médiathèque wikimédia commons, contenant 5,6 millions de fichiers. ces documents étaient chaque mois consultés par 346 millions de visiteurs uniques.
+le dessin 2d ci-dessous illustre cette volumétrie.
+
+en 2015, une image 3d de la même volumétrie 2009, basée sur une étude menée par jacopo farina et ses collègues, a été réalisée à l'aide du logiciel minecraft.
+
+
+=== récompenses ===
+
+wikipédia a reçu deux prix en mai 2004. le premier était un golden nica pour les communautés numériques, qui fut remis par ars electronica avec la somme de 10 000 € et une invitation à se présenter au pae cyberarts festival en autriche, plus tard dans l'année. le deuxième était un webby award dans la catégorie « communauté », remis par l'international academy of digital arts and sciences, basée à new york. wikipédia a également été proposée pour un webby award dans la catégorie « meilleures pratiques ». en septembre 2004, la version japonaise de wikipédia a reçu le web creation award de la part de l'association des publicitaires japonais. cette récompense, normalement donnée à des personnes réelles pour de grandes contributions sur le web en japonais, fut acceptée par un contributeur de longue date du projet wikipedia en japonais.
+le 26 janvier 2007, « wikipédia » a aussi été nommée quatrième meilleure marque par les lecteurs de brandchannel, recevant 15 % des voix en réponse à la question « quelle marque a le plus d'impact sur nos vies en 2006 ? ». en septembre 2008, wikipédia a reçu le prix quadriga 2008, également attribué à boris tadić, eckart höfling et peter gabriel. le prix a été décerné à jimmy wales par david weinberger (en). en 2009, les webby awards classent la création de wikipédia en 2001 comme l'un des « moments les plus importants de la vie du web ces dix dernières années ».
+en 2015, wikipédia reçoit le prix érasme doté de 150 000 euros « pour son apport particulier à la diffusion des connaissances. »
+wikipédia reçoit le prix princesse des asturies de la coopération internationale en juin 2015,.
+
+
+=== influence culturelle ===
+
+
+==== influence sociale ====
+selon comscore, wikipédia a acquis une influence mondiale. selon comscore et alexa internet, wikipédia figure en 2007 et 2008 parmi les dix sites les plus visités dans le monde entier. parmi ces dix premiers, wikipédia est l'un des deux sites à but non lucratif avec celui de la fondation mozilla.
+la croissance de wikipédia a été favorisée par son classement dans les résultats d'une recherche sur google, environ 50 % du trafic des moteurs de recherche vers wikipédia provenant de google, dont une grande partie est liée à la recherche universitaire.
+en avril 2007, le pew internet and american life project a constaté que le tiers des internautes américains consultaient wikipédia. en octobre 2006, le site a été estimé à une valeur de marché hypothétique de 580 millions de dollars us s'il y avait des publicités.
+en juillet 2007, wikipédia a fait l'objet d'un documentaire de 30 minutes sur la bbc radio 4, qui affirmait que « wikipédia » était devenu un terme connu par tout le monde, au même titre que « google », « facebook » et « youtube ». le cinéaste néerlandais ijsbrand van veelen a créé un documentaire télévisé de 45 minutes en avril 2008, the truth according to wikipedia.
+dans les pays pauvres, là ou le livre est rare, l'abonnement internet hors de prix, wikipédia est massivement utilisé par les étudiants, ainsi que comme produit d'appel par les opérateurs.
+
+
+==== monde des connaissances et recherches ====
+
+wikipédia et le travail collaboratif qui la produit sont rapidement devenus un objet d'études de la part de chercheurs dont une partie s'est réunie dans un réseau dit wikimedia research network ou travaille avec la wikimedia foundation ou les associations locales.
+le contenu de wikipédia est utilisé sur des sites webs, dans des devoirs scolaires, dans des études universitaires, des livres, des conférences et des affaires judiciaires. de nombreux sites internet, comme les blogs, les sites officiels ou journalistiques, peuvent proposer des liens complémentaires vers des articles de wikipédia pour approfondir un sujet. le contenu figurant sur wikipédia a également été cité comme une source de référence dans certains rapports de l'intelligence community.
+le contenu de wikipédia sert de références dans plusieurs articles de la littérature médicale professionnelle. cette tendance, bien que minoritaire, semble en 2014 en augmentation depuis 2010. la plupart des citations appuie une définition ou une description. cette situation n'est pas limitée aux journaux à faible facteur d'impact.
+le suivi des consultations des articles de wikipédia aux états-unis pourrait refléter la situation épidémique américaine de maladies telles que la grippe.
+certaines réutilisations ont été jugées inappropriées. aux états-unis, deux jugements ont été cassés en appel parce qu'un des partis avait présenté du contenu de l'encyclopédie wikipédia pour soutenir une information : le contenu des articles a été jugé trop volatil pour servir de référence, sans prévaloir de l'exactitude ou non de l'information présentée,,. wikipédia est aussi utilisée comme source pour des articles de presse, provoquant des polémiques lorsqu'une information erronée et non supportée par une note de référence indiquant sa source, est reprise sans vérification par les journalistes,. plusieurs journalistes ont été licenciés pour plagiat de wikipédia,,.
+
+
+==== médias et politique ====
+wikipédia est devenue un sujet d'actualité, de débat et de satire dans de nombreux pays. certaines sources médiatiques font sa satire en insistant sur le manque de fiabilité de wikipédia, comme le journal satirique the onion. d'autres critiquent le fait que tout le monde peut modifier wikipédia, comme dans un épisode de the office, où michael scott déclare que « wikipédia est la meilleure chose de tous les temps. n'importe qui dans le monde peut écrire n'importe quoi sur n'importe quel sujet. » des émissions radiophoniques ou télévisées, comme le the colbert report, ont plusieurs fois incité les téléspectateurs à modifier les pages de wikipédia, parfois pour y inclure des informations volontairement erronées ou fantaisistes. inversement, l'illustration protestataire wikipédien de xkcd s'amuse de l'obsession des wikipédiens à fournir des sources à toutes les affirmations et dénonce la démagogie des politiques : dans une foule assistant à un discours politique, un individu brandit une pancarte mettant en doute l'assertion de l'homme politique et demandant une référence.
+la politique de wikipédia de diffuser du contenu libre, y compris pour nombre de ses illustrations, a eu une petite influence en italie sur le débat parlementaire relatif aux libertés et à la protection du droit d'auteur. le 28 septembre 2007, l'homme politique italien franco grillini a soulevé une question parlementaire adressée à la ministre des ressources culturelles et des activités, sur la nécessité d'introduire dans la législation italienne la liberté de panorama telle qu'elle existe dans d'autres pays européens. il a affirmé que l'absence de cette liberté forçait wikipédia, « le septième site le plus consulté », à interdire toutes les images de bâtiments modernes et d'art moderne italien, et a déclaré que c'était très handicapant pour les recettes touristiques.
+le 16 septembre 2007, the washington post a déclaré que wikipédia était devenue un point central de la campagne électorale de 2008 des états-unis, en précisant : « tapez un nom de candidat sur google et l'un des premiers résultats est une page de wikipédia, ce qui rend ces entrées peut-être aussi importantes que les publicités pour définir un candidat. ces entrées présidentielles sont déjà modifiées, disséquées et débattues de nombreuses fois chaque jour. » un article d'octobre 2007 de l'agence reuters indiquait qu'avoir un article sur wikipédia commençait à prouver la notoriété d'une personne.
+
+
+==== surveillance ====
+
+le 10 mars 2015, l'union américaine de défense des libertés (aclu) a déposé une plainte au nom d'amnesty international usa, de human rights watch (hrw) et de sept autres organisations non-gouvernementales, médiatiques et juridiques, dont la fondation wikimedia, à l'encontre de la nsa, l'accusant d'avoir « dépassé l'autorité que le congrès lui confère ».
+la plainte argue que les droits constitutionnels des plaignants sont violés, en particulier le premier amendement qui protège la liberté de parole et de la presse, et le quatrième amendement qui interdit « les fouilles ou saisies sans raison ». lila tretikov, directrice de la fondation wikimedia, déclare alors « wikipedia est fondé sur la liberté d'expression, d'enquête et d'information. en violant la vie privée de nos usagers, la nsa menace la liberté intellectuelle qui est centrale pour la capacité à créer et à comprendre des connaissances ».
+le 12 juin 2015, la wikimedia foundation annonce l'utilisation du protocole de communication https pour tout le trafic wikimedia, dans l'optique de contrer la surveillance de masse exercée par la nsa, qui profite en particulier des insuffisances du protocole de communication http en matière de sécurité,.
+« aujourd'hui, nous sommes heureux d'annoncer que nous sommes en train de mettre en œuvre le protocole https pour chiffrer tout le trafic wikimedia. nous allons aussi utiliser le mécanisme http strict transport security (hsts) afin de se prémunir contre les efforts visant à casser le trafic https pour intercepter ensuite le trafic » annonce la fondation, via son blog, qui poursuit, en dénonçant la surveillance de l'internet : « dans un monde où la surveillance de masse est devenue une menace sérieuse pour la liberté intellectuelle, les connexions sécurisées sont devenues essentielles pour protéger les utilisateurs tout autour du monde. ». l'utilisation du protocole https s'étendra donc à wikipédia et ses projets frères, afin de garantir un maximum de sécurité aux utilisateurs.
+
+
+=== wikipédia dans l'enseignement ===
+
+le développement du numérique a amené des changements et initiatives dans le monde de l’enseignement, notamment avec l’émergence de démarches collaboratives. certains enseignants, comme lionel barbe de l'université paris ouest nanterre la défense, proposent à leurs étudiants des ateliers collaboratifs, notamment sur wikiversité. cette plate-forme permet de guider les étudiants dans leurs travaux et leurs contributions sur des pages wikipédia selon des sujets choisis. une démarche universitaire qui intéresse de plus en plus le monde de l’enseignement notamment dans des cours qui mobilisent l’utilisation d’outils propres aux tic (technologies de l'information et de la communication). le rapport du conseil national du numérique, bâtir une école créative et juste dans un monde numérique, propose une réflexion sur la manière d’inclure la culture numérique dans la vie de tous les citoyens dans leur formation ou leur apprentissage. wikipédia y est cité en tant que modèle « socio-technique » où les individus peuvent échanger les uns et les autres à travers un système de partage de connaissances. les pouvoirs publics commencent à soutenir ce modèle d’enseignement : des partenariats tels que celui avec le ministère de la culture donnent lieu à une institutionnalisation progressive de wikipédia.
+d'autres initiatives sont aussi menées afin de développer une culture collaborative dans l'enseignement. le wikipedia education program permet à de nombreux étudiants dans des universités américaines et canadiennes d'y contribuer dans un cadre précis.
+dans la continuité du modèle participatif du web 2.0, l’enseignement tend à développer du lien plus que du savoir pur, avec un professeur devenu davantage “passeur” qui encourage les élèves à acquérir eux-mêmes une base de savoirs. on passe alors à une diffusion de la connaissance horizontale plutôt que verticale, laissant aux étudiants l’occasion d’être proactifs.
+alexandre moatti parle du numérique comme d’un nouveau mode de communication, dans lequel wikipédia offre un terrain de recherche adéquat pour passer d’un concept à un autre, d’une langue à une autre. il y a acceptation et intégration de wikipedia qui s’en retrouve de plus en plus favorisé.[pas clair]
+les possibilités collaboratives intégrées dans le domaine de l’enseignement n’ont pas toutes encore été explorées. la continuité de ces nouveaux modes d’enseignement permettront d’apporter un nouveau recul concernant l’implication d’un système collaboratif tel wikipédia.
+
+
+== financement et impact économique du projet ==
+
+
+=== financement ===
+wikipédia est financée par les dons d'internautes consultant l'encyclopédie. wikipedia organise une collecte de fonds annuelle, annoncée par des bandeaux présents sur chaque page sous forme d'« appels » de jimmy wales ou de divers contributeurs. bien que les fonds reçus soient chaque année plus élevés que l'année précédente, ils ne suffisent pas forcément à équilibrer le budget de la wikimedia foundation, qui héberge wikipédia[réf. nécessaire]. l'argent nécessaire au budget est comblé par les dons de diverses institutions ou entreprises et ceux reçus par des particuliers le reste de l'année. contrairement à un grand nombre de sites, wikipedia refuse d'afficher de la publicité pour financer son fonctionnement.
+
+
+=== impact économique ===
+selon certaines méthodes d'évaluation en 2013, le coût de remplacement de wikipedia pourrait être estimé à 6,6 milliards de dollars avec 630 millions de $ de frais de mise à jour par an ; et le bénéfice de wikipedia pour l’utilisateur serait estimé à des centaines de milliards de dollars.
+
+
+== notes et références ==
+
+
+=== notes ===
+
+
+=== références ===
+
+wikipédia : découvrir, utiliser, contribuer, guillaume paumier, florence devouard, 2009 (voir dans la bibliographie)
+ chapitre découvrir wikipédia page explorer l'histoire
+ chapitre découvrir wikipédia, page présentation et contexte
+ chapitre découvrir wikipédia page structures associatives
+
+
+== voir aussi ==
+
+
+=== bibliographie ===
+
+
+==== monographies ====
+(it) (en) valentina paruzzi, produrre sapere in rete in modo cooperativo - il caso wikipedia, mémoire de premier cycle universitaire « corso di laurea », milan, université catholique du sacré-cœur, année 2003-2004. (traduction anglaise.)
+guy delsaut, utiliser wikipédia comme source d'information fiable, klog,‎ 2016
+jérôme delacroix, les wikis : espaces de l'intelligence collective, paris, m2 édition,‎ 2005, 202 p. (isbn 2-9520514-4-5), « wikipédia »
+(de) christian schlieker, wissen auf wikipedia : explorative untersuchung von wissen in kollektiven hypertexten, mémoire « diplomarbeit », brême, université de brême, 2005, [pdf] texte intégral en ligne.
+laure endrizi, l'édition de référence libre et collaborative : le cas de wikipédia, institut national de recherche pédagogique (france), cellule de veille scientifique et technologique, avril 2006, texte intégral en ligne.
+sébastien blondeel, wikipédia : comprendre et participer, paris, eyrolles, coll. « connectez-moi »,‎ 28 avril 2006, 160 p. (isbn 2-212-11941-0).
+pierre gourdain, florence o'kelly, béatrice roman-amat, delphine soulas et tassilo von droste zu hülshoff, la révolution wikipédia : les encyclopédies vont-elles mourir ?, mille et une nuits,‎ 7 novembre 2007.
+(en) john broughton, wikipedia, the missing manual, pogue press (o'reilly),‎ 25 janvier 2008 (isbn 978-0-596-51516-4).
+marc foglia, wikipédia média de la connaissance démocratique ? quand le citoyen lambda devient encyclopédiste, limoges, fyp,‎ 18 avril 2008 (isbn 978-2-916571-06-5).
+
+florence devouard et guillaume paumier, wikipédia : découvrir, utiliser, contribuer, grenoble, pug, coll. « les outils malins »,‎ 2009, 79 p. (isbn 978-2-7061-1495-3).
+(en) dariusz jemielniak, common knowledge ? : an ethnography of wikipedia, stanford university press,‎ 2014 (isbn 978-0-8047-8944-8).
+
+lionel scheepmans, culture fr.wikipedia, mémoire de fin de master en anthropologie publié sur wikiversité en 2011.
+sous la direction de lionel barbe, louise merzeau et valérie schafer, wikipedia, objet scientifique non identifié, presses universitaires de paris ouest, collection : intelligences numériques, 2015, 213 p. (isbn 978-2-84016-205-6)
+
+
+==== articles ====
+(fr) beaude, boris (2004). l'encyclopédie collective. espacestemps.net, mensuelles, 11 mars 2004.
+(en) fernanda b. viégas, martin wattenberg, jesse kriss & frank van ham, talk before you type: coordination in wikipedia, in proceedings of the 40th hawaiian international conference of systems sciences, big island, hawaii, janvier 2007, [pdf] texte intégral en ligne.
+(fr) fernandez, marc (2007). wikipédia, le rêve de diderot ? philosophie magazine numéro 9, mai 2007.
+(fr) firer-blaess, sylvain (2007). wikipedia : présentation et histoire (18 juillet 2007).
+(fr) firer-blaess, sylvain (2007). wikipedia : entre communauté et réseau (25 juillet 2007), wikipedia, modèle pour une société hyperpanoptique (1er août 2007), wikipédia : hiérarchie et démocratie (11 octobre 2007), www.homo-numericus.net, articles tirés d'un mémoire de fin d'étude : wikipédia : le refus du pouvoir de l'institut d'études politiques de lyon, wikipedia : exemple pour une future démocratie électronique?
+(fr) foglia, marc, & huynh, chang wa (2006). wikipedia : perspectives, encyclopédie de l'agora, north hatley (québec), l'agora recherches et communications, 20 mai 2006.
+(fr) foglia, marc. « faut-il avoir peur de wikipédia ? » in etvdes, no 4104, avril 2009, p. 463–472.
+(en) konieczny, piotr (2007). « wikis and wikipedia as a teaching tool », international journal of instructional technology and distance learning.
+(en) konieczny, piotr (2009). wikipedia: community or social movement ? interface — a journal for and about social movements. article. volume 1 (2) : 212 - 232 (novembre 2009).
+(en) leskovec, jure, huttenlocher, daniel, kleinberg, jon. [pdf] governance in social media: a case study of the wikipedia promotion process.
+mathieu o'neil, « wikipédia ou la fin de l'expertise ? », le monde diplomatique,‎ avril 2009 (lire en ligne).
+(fr) rosenzweig, roy (2006) l'histoire peut-elle être " open-source" ? les historiens et wikipedia, traduction de can history be open source? wikipedia and the future of the past, journal of american history, vol. 93, numéro 1 (juin 2006), p. 117–46.
+(en) sanger, larry (2005) the early history of nupedia and wikipedia : a memoir, in chris dibona, mark stone & danese cooper (dir.) open sources 2.0 : the continuing evolution, o'reilly media 2005, (isbn 978-0-596-00802-4), texte intégral en ligne sur slashdot : première partie, 18 avril 2005, deuxième partie, 19 avril 2005.
+(en) spek, sander, postma, eric, h. van den herik, jaap (2006). wikipedia: organisation from a bottom-up approach, computer science, abstract, cs.dl/0611068, 15 novembre 2006, résumé et texte intégral en ligne.
+(en) schroer, joachim & hertel, guido (2007). voluntary engagement in an open web-based encyclopedia : wikipedians, and why they do it, université de wuerzburg, 8 janvier 2007, texte intégral en ligne.
+(fr) vandendorpe, christian (2008). le phénomène wikipédia : une utopie en marche, le débat, no 148, janvier-février 2008, p. 17–30.
+
+
+=== articles connexes ===
+
+wikipédia:à propos
+encyclopédies en ligne
+dbpedia
+travail collaboratif
+livres groupe
+culture fr.wikipedia
+monument à wikipédia
+wikiwand
+
+
+=== liens externes ===
+(mul) page d'accueil multilingue des principales wikipédia
+présentation pour la presse de wikipédia
+revue de presse sur la wikipédia en français
+(en) let's get video on wikipedia [vidéo]
+inside wikipédia #1 : wikilove ! - camille gévaudan, écrans, libération, 21 juillet 2008
+rémi bachelet, « wikipédia : outil d'élaboration/gestion des connaissances », école centrale de lille (consulté le 12 mars 2013)
+"le phénomène social wikipédia (fr/en)" (études bibliographiques ; 74 références en français et 413 références en anglais - 29 août 2015)
+
+ portail d’internet
+ portail de l’éducation
+ portail de l’informatique

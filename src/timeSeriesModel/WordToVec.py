@@ -12,11 +12,11 @@ class wordVecGen:
         # Initializations...
         print "Initializing..."
         self.corpus_en = {}
-        self.topics_en = ['Physics','Chemistry','Politics','Adele','Pakistan_en','India','Baboon','pokemon_en']
-        self.topics_en_test = ['Baboon','pokemon_en']
+        self.topics_en = ['Physics','Chemistry','Politics','Adele','Pakistan_en','India','Baboon','pokemon_en','pokemon_en_test','Politics_test']
+        self.topics_en_test = ['pokemon_en_test','Politics_test']
         self.corpus_fr = {}
-        self.topics_fr = ['Physique','chimie','Politique','Adele_fr','Pakistan_fr','Inde','Babouin','pokemon_fr']
-        self.topics_fr_test = ['Babouin','pokemon_fr']
+        self.topics_fr = ['Physique','chimie','Politique','Adele_fr','Pakistan_fr','Inde','Babouin','pokemon_fr','pokemon_fr_test','Politique_test']
+        self.topics_fr_test = ['pokemon_fr_test','Politique_test']
         self.word_vectors = {}
         self.word_vectors_en = {}
         self.word_vectors_fr = {}
@@ -49,7 +49,7 @@ class wordVecGen:
             words_in_topic  = [(st_en.stem(unicode(i))) for i in (re.findall("[a-zA-Z]+", content)) if unicode(i) not in stop_en]
 
             # Generate a histogram of words in the current document
-            freqDist_en[topic]={x:words_in_topic.count(x) for x in words_in_topic if words_in_topic.count(x) > 1}
+            freqDist_en[topic]={x:words_in_topic.count(x) for x in words_in_topic if words_in_topic.count(x) > 0}
 
             # Applying a term frequency function... A factor to be experimented on...
             # Current Function: exp(frequency/(1+max(frequencies)))
@@ -63,14 +63,14 @@ class wordVecGen:
             self.corpus_en[topic] = freqDist_en[topic].keys()
 
         # Converting the list of words into a set of words so that duplicates are removed
+        print "Number words in English: "+str(len(words_en))
         words_en = list(set(words_en))
+        print "Number words in English as set: "+str(len(words_en))
 
         print "Generating vectors for english words"
         for word in words_en:
             vec=[]
             for topic in topics_en:
-                if topic in self.topics_en_test:
-                    pass
                 try:
                     vec.append(freqDist_en[topic][unicode(word)])
                 except:
@@ -100,7 +100,7 @@ class wordVecGen:
             words_in_topic = [(st_fr.stem(unicode(i))) for i in (re.findall("[a-zA-Z]+", content)) if unicode(i) not in stop_fr]
 
             # Generate a histogram of words in the current document
-            freqDist_fr[topic]={x:words_in_topic.count(x) for x in words_in_topic if words_in_topic.count(x) > 1}
+            freqDist_fr[topic]={x:words_in_topic.count(x) for x in words_in_topic if words_in_topic.count(x) > 0}
 
             # Applying a term frequency function... A factor to be experimented on...
             # Current Function: exp(frequency/(1+max(frequencies)))
@@ -114,14 +114,14 @@ class wordVecGen:
             self.corpus_fr[topic] = freqDist_fr[topic].keys()
 
         # Converting the list of words into a set of words so that duplicates are removed
-        words_fr = list(set(words_fr))
+        print "Number words in French: "+str(len(words_fr))
+        words_en = list(set(words_fr))
+        print "Number words in French as set: "+str(len(words_fr))
 
         print "Generating vectors for french words"
         for word in words_fr:
             vec=[]
             for topic in topics_fr:
-                if topic in self.topics_fr_test:
-                    pass
                 try:
                     vec.append(freqDist_fr[topic][word])
                 except:
