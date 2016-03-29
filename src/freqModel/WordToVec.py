@@ -12,11 +12,13 @@ class wordVecGen:
         # Initializations...
         print "Initializing..."
         self.corpus_en = {}
-        self.topics_en = ['Physics','Chemistry','Politics','Adele','Pakistan_en','India','Baboon','pokemon_en','pokemon_en_test','Politics_test']
-        self.topics_en_test = ['pokemon_en_test','Politics_test']
+        self.topics = ['Adele','Baboon','Chemistry','Energy','English_language','French_language','India','Pokemon','Pakistan','Politics','Tennis','The_Beatles','Wikipedia']
+        # self.topics = self.topics[:]
+        self.topics_en_test = ['Pokemon_en_test']
+        self.topics_en = [i+'_en' for i in self.topics]+self.topics_en_test
         self.corpus_fr = {}
-        self.topics_fr = ['Physique','chimie','Politique','Adele_fr','Pakistan_fr','Inde','Babouin','pokemon_fr','pokemon_fr_test','Politique_test']
-        self.topics_fr_test = ['pokemon_fr_test','Politique_test']
+        self.topics_fr_test = ['Pokemon_fr_test']
+        self.topics_fr = [i+'_fr' for i in self.topics]+self.topics_fr_test
         self.word_vectors = {}
         self.word_vectors_en = {}
         self.word_vectors_fr = {}
@@ -46,15 +48,18 @@ class wordVecGen:
             print "Loaded",topic
 
             # This Part now stems every word in the document loaded and copies it into corpus_en.
-            words_in_topic  = [(st_en.stem(unicode(i))) for i in (re.findall("[a-zA-Z]+", content)) if unicode(i) not in stop_en]
+            words_in_topic  = [(st_en.stem(unicode(i))) for i in (re.findall("[a-zA-Z]+", content))]
 
             # Generate a histogram of words in the current document
-            freqDist_en[topic]={x:words_in_topic.count(x) for x in words_in_topic if words_in_topic.count(x) > 0}
+            freqDist_en[topic]={x:words_in_topic.count(x) for x in words_in_topic}
+            for word in freqDist_en[topic].keys()[:]:
+                if word in stop_en:
+                    del freqDist_en[topic][word]
 
             # Applying a term frequency function... A factor to be experimented on...
             # Current Function: exp(frequency/(1+max(frequencies)))
             maxval = max(freqDist_en[topic].values())
-            freqDist_en[topic]={x:math.exp(freqDist_en[topic][x]/(1.0+1.0*maxval)) for x in freqDist_en[topic].keys()}
+            freqDist_en[topic]={x:math.exp(freqDist_en[topic][x]/(1.0*maxval)) for x in freqDist_en[topic].keys()}
 
             # Add all the words in the current document to all words list
             words_en += freqDist_en[topic].keys()
@@ -87,7 +92,7 @@ class wordVecGen:
         topics_fr = self.topics_fr
         words_fr  = []
         stop_fr = stopwords.words('french')
-        stop_fr = [unicode(i) for i in stop_fr ]
+        #stop_fr = [unicode(i) for i in stop_fr ]
         st_fr = FrenchStemmer()
         freqDist_fr={}
         for topic in topics_fr:
@@ -97,15 +102,18 @@ class wordVecGen:
             f.close()
             print "Loaded",topic
             # This Part now stems every word in the document loaded and copies it.
-            words_in_topic = [(st_fr.stem(unicode(i))) for i in (re.findall("[a-zA-Z]+", content)) if unicode(i) not in stop_fr]
+            words_in_topic = [(st_fr.stem(unicode(i))) for i in (re.findall("[a-zA-Z]+", content))]
 
             # Generate a histogram of words in the current document
-            freqDist_fr[topic]={x:words_in_topic.count(x) for x in words_in_topic if words_in_topic.count(x) > 0}
+            freqDist_fr[topic]={x:words_in_topic.count(x) for x in words_in_topic}
+            for word in freqDist_fr[topic].keys()[:]:
+                if word in stop_fr:
+                    del freqDist_fr[topic][word]
 
             # Applying a term frequency function... A factor to be experimented on...
             # Current Function: exp(frequency/(1+max(frequencies)))
             maxval = max(freqDist_fr[topic].values())
-            freqDist_fr[topic]={x:math.exp(freqDist_fr[topic][x]/(1.0+1.0*maxval)) for x in freqDist_fr[topic].keys()}
+            freqDist_fr[topic]={x:math.exp(freqDist_fr[topic][x]/(1.0*maxval)) for x in freqDist_fr[topic].keys()}
 
             # Add all the words in the current document to all words list
             words_fr += freqDist_fr[topic].keys()
@@ -115,7 +123,7 @@ class wordVecGen:
 
         # Converting the list of words into a set of words so that duplicates are removed
         print "Number words in French: "+str(len(words_fr))
-        words_en = list(set(words_fr))
+        words_fr = list(set(words_fr))
         print "Number words in French as set: "+str(len(words_fr))
 
         print "Generating vectors for french words"

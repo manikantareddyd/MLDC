@@ -45,8 +45,8 @@ v=d.topicVectors
 for topic in d.wv.topics_en_test:
     for t in d.wv.topics_fr_test:
         print t,topic,1,n(v[t]-v[topic],1)
-        print t,topic,2,n(v[t]-v[topic],2)
-        print t,topic,"cosine",cosine(v[t],v[topic])
+        # print t,topic,2,n(v[t]-v[topic],2)
+        # print t,topic,"cosine",cosine(v[t],v[topic])
 #
 # f=open('res2.txt','w')
 # for topic in topics_en+topics_fr:
