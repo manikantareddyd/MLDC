@@ -15,9 +15,9 @@ content = page.content.lower()
 f=open('files/'+str(sys.argv[1])+'_en'+'.txt','w')
 f.write(content.encode('utf8'))
 f.close()
-
+languages = ['fr']
 for language, title in links:
-    if language not in ['fr']:
+    if language not in languages:
         continue
     page_title = title.split(u' - ')[0]
     try:

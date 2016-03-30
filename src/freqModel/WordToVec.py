@@ -14,10 +14,10 @@ class wordVecGen:
         self.corpus_en = {}
         self.topics = ['Adele','Baboon','Chemistry','Energy','English_language','French_language','India','Pokemon','Pakistan','Politics','Tennis','The_Beatles','Wikipedia']
         # self.topics = self.topics[:]
-        self.topics_en_test = ['Pokemon_en_test']
+        self.topics_en_test = ['Pokemon_en_test','India_en']
         self.topics_en = [i+'_en' for i in self.topics]+self.topics_en_test
         self.corpus_fr = {}
-        self.topics_fr_test = ['Pokemon_fr_test']
+        self.topics_fr_test = ['Pokemon_fr_test','India_fr']
         self.topics_fr = [i+'_fr' for i in self.topics]+self.topics_fr_test
         self.word_vectors = {}
         self.word_vectors_en = {}
@@ -31,7 +31,6 @@ class wordVecGen:
         self.gen()
 
     def gen(self):
-
         # This Part for English
         print "Working on English"
         topics_en = self.topics_en
