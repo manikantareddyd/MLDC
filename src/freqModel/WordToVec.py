@@ -5,7 +5,7 @@ from nltk.corpus import stopwords
 from nltk.stem.lancaster import LancasterStemmer
 from nltk.stem.snowball import FrenchStemmer
 import math
-
+import threading
 
 class wordVecGen:
     def __init__(self,topics_list,languages,tmp):
@@ -33,32 +33,56 @@ class wordVecGen:
 
         self.words = {}
         self.shortlang = {'en':['english',LancasterStemmer] , 'fr':['french',FrenchStemmer]}
+        self.stop = {}
+        for k in self.languages:
+            self.stop[k] = stopwords.words(self.shortlang[k][0])
         self.freqDist = {}
 
+        threads={}
         # Now lets Generate
         for k in self.languages:
-            self.gen(k)
+            threads[k]=threading.Thread( target=self.gen, args=(k,))
+            print "Working on", k
+            threads[k].start()
+            # self.gen(k)
+        for k in self.languages:
+            threads[k].join()
 
         print "All tasks Done... Exiting Now\n"
 
     def gen(self,k):
+        # threading.Thread.gen(self,k)
         # This Part for English
-        print "Working on", k
+
         self.words[k] = []
-        stop = stopwords.words(self.shortlang[k][0])
+        stop = self.stop[k]
         stop = [unicode(i) for i in stop ]
 
         self.freqDist[k]={}
 
+        threadTopic = {}
         for topic in self.topics[k]:
-            self.load(topic,k,stop)
+            # self.load(topic,k,stop)
+            threadTopic[topic] = threading.Thread(target = self.load, args=(topic,k,stop,))
+            threadTopic[topic].start()
+
+        for topic in self.topics[k]:
+            threadTopic[topic].join()
+            print "Loaded",topic
+
+
 
         self.words[k] = list(set(self.words[k]))
 
+        wordThreads = {}
         for word in self.words[k]:
-            self.vectorGen(k,word)
+            # self.vectorGen(k,word)
+            wordThreads[word] = threading.Thread(target = self.vectorGen, args=(k,word,))
+            wordThreads[word].start()
 
-        print "-"*48,'\n'
+        for word in self.words[k]:
+            wordThreads[word].join()
+
 
     def vectorGen(self,k,word):
         vec=[]
@@ -75,7 +99,6 @@ class wordVecGen:
         f=open('files/'+topic+'.txt','r')
         content=f.read()
         f.close()
-        print "Loaded",topic
 
         # This Part now stems every word in the document loaded and copies it into corpus['en'].
         words_in_topic  = [(self.shortlang[k][1]().stem(unicode(i))) for i in (re.findall("[a-zA-Z]+", content))]
@@ -119,24 +142,48 @@ class Test:
         for i in range(len(self.test_topics['en'])):
             t.add_row([self.test_topics[k][i] for k in self.languages])
         print t
+
         self.words = {}
+
         self.shortlang = {'en':['english',LancasterStemmer] , 'fr':['french',FrenchStemmer]}
-        # Now lets Generate
+        self.stop = {}
         for k in self.languages:
-            self.gen(k)
+            self.stop[k] = stopwords.words(self.shortlang[k][0])
+        # Now lets Generate
+
+        threads = {}
+        for k in self.languages:
+            threads[k]=threading.Thread( target=self.gen, args=(k,))
+            threads[k].start()
+            # self.gen(k)
+        for k in self.languages:
+            threads[k].join()
 
     def gen(self,k):
         self.words[k] = []
-        stop = stopwords.words(self.shortlang[k][0])
+        stop = self.stop[k]
         stop = [unicode(i) for i in stop ]
 
-        for test_topic in self.test_topics[k]:
-            self.load(test_topic,k,stop)
+        threadTopic = {}
+        for topic in self.test_topics[k]:
+            # self.load(topic,k,stop)
+            threadTopic[topic] = threading.Thread(target = self.load, args=(topic,k,stop,))
+            threadTopic[topic].start()
+        for topic in self.test_topics[k]:
+            threadTopic[topic].join()
+            print "Loaded",topic
 
         self.words[k] = list(set(self.words[k]))
 
+        wordThreads = {}
         for word in self.words[k]:
-            self.vectorGen(k,word)
+            # self.vectorGen(k,word)
+            wordThreads[word] = threading.Thread(target = self.vectorGen, args=(k,word,))
+            wordThreads[word].start()
+
+        for word in self.words[k]:
+            wordThreads[word].join()
+
 
     def vectorGen(self,k,word):
         vec=[]
@@ -151,7 +198,7 @@ class Test:
         f=open('files/'+test_topic+'.txt','r')
         content=f.read()
         f.close()
-        print "Loaded",test_topic
+
 
         # This Part now stems every word in the document loaded and copies it into corpus['en'].
         words_in_test_topic  = [(self.shortlang[k][1]().stem(unicode(i))) for i in (re.findall("[a-zA-Z]+", content)) if i not in stop]
