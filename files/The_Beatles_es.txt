@@ -1,0 +1,15 @@
+el sistema de multiprogramación the fue un sistema operativo designado por un equipo liderado por edsger w. dijkstra, descrito en monografías entre 1965 y 1966 y publicado en 1968. dijkstra nunca le dio el nombre "the", sino que esto fue solamente una abreviatura de "technische hogeschool eindhoven", el nombre original de la universidad tecnológica eindhoven, situada en holanda. el sistema operativo the fue principalmente un sistema batch que soportaba multi-tarea, aunque no fue diseñadoo como tal.
+the introdujo las primeras formas de segmentación de memoria por software, liberando a los programadores de tener que direccionar sobre la memoria física. esto se logró utilizando una versión modificada del compilador algol (el único lenguaje de programación soportado por el sistema de dijkstra) para generar llamadas automáticas a las rutinas de sistema, asegurando que la información requerida estuviese en memoria, intercambiándose de ser necesario.
+el sistema tenía 6 estratos::
+5 operador de the
+4 programas del usuario
+3 administración de entrada/salida
+2 comunicación entre el operador y el proceso
+1 administración de la memoria y el tambor magnético
+0 distribución del procesador y multiprogramación
+
+el estrato 0 trabajaba con la distribución del procesador, cambiando entre procesos cuando ocurrían interrupciones o los relojes expiraban. sobre el estrato 0, el sistema constaba de procesos secuenciales, cada uno de los cuales podía programarse sin tener que preocuparse por el hecho de que múltiples procesos estuvieran corriendo en un solo procesador. en otras palabras, el estrato 0 ofrecía la multiprogramación básica de la cpu.
+el estrato 1 realizaba el manejo de memoria. este distribuía espacio para procesos contenidos en la memoria central y en un tambor de 512k palabras que se usaba para contener partes de procesos (páginas) para las cuales no había espacio en la memoria central. sobre el estrato 1, los procesos no tenía que preocuparse de si estaban en la memoria o en el tambor; el software del estrato 1 se hacía cargo de asegurar que las páginas se trajeran a la memoria siempre que se necesitaran.
+el estrato 2 manejaba la comunicación entre cada proceso y la consola de operador.
+el estrato 3 se hacía cargo de manejar los dispositivos de e/s y de separar la información en flujo que entraba y salí de ellos. sobre el estrato 3 cada proceso podía trabajar con dispositivos de e/s abstractos con propiedades agradables, en vez de dispositivos reales con muchas peculiaridades
+el estrato 4 era donde se encontraban los programas de los usuarios. no tenían que preocuparse por el manejo de los procesos, memoria, consola o e/s. el proceso operador del sistema se localizaba en el estrato 5.

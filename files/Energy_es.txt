@@ -1,0 +1,144 @@
+el término energía (del griego ἐνέργεια enérgeia, «actividad», «operación»; de ἐνεργóς energós, «fuerza de acción» o «fuerza de trabajo») tiene diversas acepciones y definiciones, relacionadas con la idea de una capacidad para obrar, transformar o poner en movimiento.
+en física, «energía» se define como la capacidad para realizar un trabajo. en tecnología y economía, «energía» se refiere a un recurso natural (incluyendo a su tecnología asociada) para poder extraerla, transformarla y darle un uso industrial o económico.
+
+
+== el concepto de energía en física ==
+
+
+=== mecánica clásica ===
+
+en física clásica, la ley universal de conservación de la energía —que es el fundamento del primer principio de la termodinámica—, indica que la energía ligada a un sistema aislado permanece constante en el tiempo. eso significa que para multitud de sistemas físicos clásicos la suma de la energía mecánica, la energía calorífica, la energía electromagnética, y otros tipos de energía potencial es un número constante. por ejemplo, la energía cinética se cuantifica en función del movimiento de la materia, la energía potencial según propiedades como el estado de deformación o a la posición de la materia en relación con las fuerzas que actúan sobre ella, la energía térmica según su capacidad calorífica, y la energía química según la composición química.
+
+
+=== mecánica relativista ===
+en teoría de la relatividad el principio de conservación de la energía se cumple, aunque debe redefinirse la medida de la energía para incorporar la energía asociada a la masa, ya que en mecánica relativista, si se considerara la energía definida al modo de la mecánica clásica entonces resultaría una cantidad que no conserva constante. así pues, la teoría de la relatividad especial establece una equivalencia entre masa y energía por la cual todos los cuerpos, por el hecho de estar formados de materia, poseen una energía adicional equivalente a , y si se considera el principio de conservación de la energía esta energía debe ser tomada en cuenta para obtener una ley de conservación (naturalmente en contrapartida la masa no se conserva en relatividad, sino que la única posibilidad para una ley de conservación es contabilizar juntas la energía asociada a la masa y el resto de formas de energía).
+
+
+=== mecánica cuántica ===
+en mecánica cuántica el resultado de la medida de una magnitud en el caso general no da un resultado determinista, por lo que solo puede hablarse del valor de la energía de una medida no de la energía del sistema. el valor de la energía en general es una variable aleatoria, aunque su distribución sí puede ser calculada, si bien no el resultado particular de una medida. en mecánica cuántica el valor esperado de la energía de un estado estacionario se mantiene constante. sin embargo, existen estados que no son propios del hamiltoniano para los cuales la energía esperada del estado fluctúa, por lo que no es constante. la varianza de la energía medida además puede depender del intervalo de tiempo, de acuerdo con el principio de indeterminación de heisenberg.
+
+
+=== expresión matemática ===
+la energía es una propiedad de los sistemas físicos, no es un estado físico real, ni una «sustancia intangible». en mecánica clásica se representa como una magnitud escalar. la energía es una abstracción matemática de una propiedad de los sistemas físicos. por ejemplo, se puede decir que un sistema con energía cinética nula está en reposo. en problemas relativistas la energía de una partícula no puede ser representada por un escalar invariante, sino por la componente temporal de un cuadrivector energía-momento (cuadrimomento), ya que diferentes observadores no miden la misma energía si no se mueven a la misma velocidad con respecto a la partícula. si se consideran distribuciones de materia continuas, la descripción resulta todavía más complicada y la correcta descripción de la cantidad de movimiento y la energía requiere el uso del tensor de energía-impulso.
+se utiliza como una abstracción de los sistemas físicos por la facilidad para trabajar con magnitudes escalares, en comparación con las magnitudes vectoriales como la velocidad o la aceleración. por ejemplo, en mecánica, se puede describir completamente la dinámica de un sistema en función de las energías cinética, potencial, que componen la energía mecánica, que en la mecánica newtoniana tiene la propiedad de conservarse, es decir, ser invariante en el tiempo.
+matemáticamente, la conservación de la energía para un sistema es una consecuencia directa de que las ecuaciones de evolución de ese sistema sean independientes del instante de tiempo considerado, de acuerdo con el teorema de noether.
+
+
+=== energía en diversos tipos de sistemas físicos ===
+la energía también es una magnitud física que se presenta bajo diversas formas, está involucrada en todos los procesos de cambio de estado físico, se transforma y se transmite, depende del sistema de referencia y fijado este se conserva. por lo tanto, todo cuerpo es capaz de poseer energía en función de su movimiento, posición, temperatura, masa, composición química, y otras propiedades. en las diversas disciplinas de la física y la ciencia, se dan varias definiciones de energía, todas coherentes y complementarias entre sí, y todas ellas siempre relacionadas con el concepto de trabajo.
+
+
+==== física clásica ====
+en la mecánica se encuentran:
+energía mecánica, que es la combinación o suma de los siguientes tipos:
+energía cinética: relativa al movimiento.
+energía potencial: la asociada a la posición dentro de un campo de fuerzas conservativo. por ejemplo, está la energía potencial gravitatoria y la energía potencial elástica (o energía de deformación, llamada así debido a las deformaciones elásticas). una onda también es capaz de transmitir energía al desplazarse por un medio elástico.
+
+en electromagnetismo se tiene a la:
+energía electromagnética, que se compone de:
+energía radiante: la energía que poseen las ondas electromagnéticas.
+energía calórica: la cantidad de energía que la unidad de masa de materia puede desprender al producirse una reacción química de oxidación.
+energía potencial eléctrica (véase potencial eléctrico)
+energía eléctrica: resultado de la existencia de una diferencia de potencial entre dos puntos.
+
+en la termodinámica están:
+energía interna, que es la suma de la energía mecánica de las partículas constituyentes de un sistema.
+energía térmica, que es la energía liberada en forma de calor.
+potencial termodinámico, la energía relacionada con las variables de estado.
+
+
+==== física relativista ====
+en la relatividad están:
+energía en reposo, que es la energía debida a la masa según la conocida fórmula de einstein, e=mc2, que establece la equivalencia entre masa y energía.
+energía de desintegración, que es la diferencia de energía en reposo entre las partículas iniciales y finales de una desintegración.
+al redefinir el concepto de masa, también se modifica el de energía cinética (véase relación de energía-momento). dada una partícula material, no puede hablarse de una energía bien definida e idéntica para todos los observadores, de hecho la energía y el momentum lineal son parte del un único cuadrimomentum que es un cuadrivector. la «energía» es la componente temporal de este cuadrimomentum, pero debido a la naturaleza de la relatividad de la misma manera que el intervalo de tiempo o la distancia espacial es relativa al observador, las componentes espaciales (momentum lineal) y temporal (energía) del cuadrimomentum son relativas al observador. para un medio continuo o un campo físico, las dificultades son aún mayores y en general la energía no está asociada a un cuadrimomentum sino al tensor energía-impulso.
+en relatividad general, el «campo» gravitatorio no es propiamente un campo físico ordinario, lo cual lleva a dificultades para atribuir una energía dada a un sistema no aislado, ya que un campo gravitatorio no estacionario no da lugar a una energía potencial bien definida.
+
+
+==== física cuántica ====
+en física cuántica, la energía es una magnitud ligada al operador hamiltoniano. la energía total de un sistema no aislado de hecho puede no estar definida: en un instante dado la medida de la energía puede arrojar diferentes valores con probabilidades definidas. en cambio, para los sistemas aislados en los que el hamiltoniano no depende explícitamente del tiempo, los estados estacionarios sí tienen una energía bien definida. además de la energía asociada a la materia ordinaria o campos de materia, en física cuántica aparece la:
+energía del vacío: un tipo de energía existente en el espacio, incluso en ausencia de materia.
+
+
+==== química ====
+en química aparecen algunas formas específicas no mencionadas anteriormente:
+
+energía de ionización, una forma de energía potencial, es la energía que hace falta para ionizar una molécula o átomo.
+energía de enlace, es la energía potencial almacenada en los enlaces químicos de un compuesto. las reacciones químicas liberan o absorben esta clase de energía, en función de la entalpía y energía calórica.
+
+si estas formas de energía son consecuencia de interacciones biológicas, la energía resultante es bioquímica, pues necesita de las mismas leyes físicas que aplican a la química, pero los procesos por los cuales se obtienen son biológicos, como norma general resultante del metabolismo celular (véase ruta metabólica).
+podemos encontrar ejemplos de energía química en la vida de los seres vivos, es decir, en la vida biológica. dos de los procesos más importantes que necesitan de este tipo de energía es el proceso de fotosíntesis en vegetales y la respiración en los animales. en la fotosíntesis, los vegetales utilizan clorofila para separar el agua y así convertirla después en hidrógeno y oxígeno: el hidrógeno, combinado con el carbono del ambiente, producirá carbohidratos. en la respiración sucede lo contrario: el oxígeno es utilizado para quemar moléculas de carbohidratos.
+
+
+=== energía potencial ===
+
+es la energía que se le puede asociar a un cuerpo o sistema conservativo en virtud de su posición o de su configuración. si en una región del espacio existe un campo de fuerzas conservativo, la energía potencial del campo en el punto (a) se define como el trabajo requerido para mover una masa desde un punto de referencia (nivel de tierra) hasta el punto (a). por definición el nivel de tierra tiene energía potencial nula. algunos tipos de energía potencial que aparecen en diversos contextos de la física son:
+la energía potencial gravitatoria asociada a la posición de un cuerpo en el campo gravitatorio (en el contexto de la mecánica clásica). la energía potencial gravitatoria de un cuerpo de masa m en un campo gravitatorio constante viene dada por:  donde h es la altura del centro de masas respecto al cero convencional de energía potencial.
+la energía potencial electrostática v de un sistema se relaciona con el campo eléctrico mediante la relación:
+
+siendo e el valor del campo eléctrico.
+la energía potencial elástica asociada al campo de tensiones de un cuerpo deformable.
+la energía potencial puede definirse solamente cuando existe un campo de fuerzas que es conservativa, es decir, que cumpla con alguna de las siguientes propiedades:
+el trabajo realizado por la fuerza entre dos puntos es independiente del camino recorrido.
+el trabajo realizado por la fuerza para cualquier camino cerrado es nulo.
+cuando el rotor de f es cero (sobre cualquier dominio simplemente conexo).
+se puede demostrar que todas las propiedades son equivalentes (es decir que cualquiera de ellas implica la otra). en estas condiciones, la energía potencial en un punto arbitrario se define como la diferencia de energía que tiene una partícula en el punto arbitrario y otro punto fijo llamado «potencial cero».
+
+
+=== energía cinética de una masa puntual ===
+la energía cinética es un concepto fundamental de la física que aparece tanto en mecánica clásica, como mecánica relativista y mecánica cuántica. la energía cinética es una magnitud escalar asociada al movimiento de cada una de las partículas del sistema. su expresión varía ligeramente de una teoría física a otra. esta energía se suele designar como k, t o ec.
+el límite clásico de la energía cinética de un cuerpo rígido que se desplaza a una velocidad v viene dada por la expresión:
+
+una propiedad interesante es que esta magnitud es extensiva por lo que la energía de un sistema puede expresarse como «suma» de las energías de partes disjuntas del sistema. así por ejemplo puesto que los cuerpos están formados de partículas, se puede conocer su energía sumando las energías individuales de cada partícula del cuerpo.
+
+
+=== magnitudes relacionadas ===
+la energía se define como la capacidad de realizar un trabajo. energía y trabajo son equivalentes y, por tanto, se expresan en las mismas unidades. el calor es una forma de energía, por lo que también hay una equivalencia entre unidades de energía y de calor. la capacidad de realizar un trabajo en una determinada cantidad de tiempo es la potencia.
+
+
+=== transformación de la energía ===
+para la optimización de recursos y la adaptación a nuestros usos, necesitamos transformar unas formas de energía en otras. todas ellas se pueden transformar en otra cumpliendo los siguientes principios termodinámicos:
+«la energía no se crea ni se destruye; solo se transforma». de este modo, la cantidad de energía inicial es igual a la final.
+«la energía se degrada continuamente hacia una forma de energía de menor calidad (energía térmica)». dicho de otro modo, ninguna transformación se realiza con un 100 % de rendimiento, ya que siempre se producen unas pérdidas de energía térmica no recuperable. el rendimiento de un sistema energético es la relación entre la energía obtenida y la que suministramos al sistema.
+
+
+=== unidades de medida de energía ===
+la unidad de energía definida por el sistema internacional de unidades es el julio, que se define como el trabajo realizado por una fuerza de un newton en un desplazamiento de un metro en la dirección de la fuerza. es decir, equivale a multiplicar un newton por un metro. existen muchas otras unidades de energía, algunas de ellas en desuso.
+
+
+== energía como recurso natural ==
+
+en tecnología y economía, una fuente de energía es un recurso natural, así como la tecnología asociada para explotarla y hacer un uso industrial y económico del mismo. la energía en sí misma nunca es un bien para el consumo final sino un bien intermedio para satisfacer otras necesidades en la producción de bienes y servicios. al ser un bien escaso, la energía ha sido históricamente fuente de conflictos para el control de los recursos energéticos.
+es común clasificar las fuentes de energía según incluyan el uso irreversible o no ciertas materias primas, como combustibles o minerales radioactivos. según este criterio se habla de dos grandes grupos de fuentes de energía explotables tecnológicamente:
+energías renovables:
+
+fuentes de energías no renovables (o nuclear-fósil):
+
+
+== véase también ==
+
+
+== referencias ==
+
+
+=== bibliografía ===
+alonso, marcelo; edward j. finn (1976). física. fondo educativo interamericano. isbn 84-03-20234-2. 
+callen, herbert b. (1985). thermodynamics and an introduction to thermostatistics. john wiley & sons. 
+landau, l. d.; lifshitz, e. m. (1972). mechanics and electrodynamics, vol. 1. franklin book company, inc. isbn 0-08-016739-x. 
+kleppner, d. and kolenkow, r. j., an introduction to mechanics, mcgraw-hill (1973). isbn 0-07-035048-5
+herbert goldstein, charles p. poole, john l. safko, classical mechanics (3rd edition), addison wesley; isbn 0-201-65702-3
+robert martin eisberg, fundamentals of modern physics, john wiley and sons, 1961
+richard feynman (1974). feynman lectures on physics volume 2 (en inglés). addison wesley longman. isbn 0-201-02115-3. 
+reif, federick (1985). fundamentals of statistical and thermal physics. mcgraw-hill. 
+g. j. sussmann & j. wisdom, structure and interpretation of classical mechanics, mit press (2001). isbn 0-262-019455-4
+zemansky, mark w. (1985). calor y termodinámica. madrid: mcgraw-hill. isbn 84-85240-85-5. 
+
+
+=== enlaces externos ===
+ wikimedia commons alberga contenido multimedia sobre energía. commons
+ wikiquote alberga frases célebres de o sobre energía. wikiquote
+ wikcionario tiene definiciones y otra información sobre energía.wikcionario
+wikinoticias
+ artículos en wikinoticias: la comisión europea debate desde hoy el futuro de la política energética europea.
+teoría física sobre energía y trabajo, en la web de la universidad del país vasco.
+apuntes de mecánica clásica.

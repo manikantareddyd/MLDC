@@ -1,0 +1,223 @@
+la química (palabra que podría provenir de los términos griegos χημία o χημεία, quemia y quemeia respectivamente) es la ciencia que estudia tanto la composición, estructura y propiedades de la materia como los cambios que esta experimenta durante las reacciones químicas y su relación con la energía. es definida, en tanto, por linus pauling, como la ciencia que estudia las sustancias, su estructura (tipos y formas de acomodo de los átomos), sus propiedades y las reacciones que las transforman en otras sustancias con referencia al tiempo.
+la química moderna se desarrolló a partir de la alquimia, una práctica protocientífica de carácter filosófico, que combinaba elementos de la química, la metalurgia, la física, la medicina, la biología, entre otras ciencias y artes. esta fase termina al ocurrir la llamada revolución de la química, basada en la ley de conservación de la materia y la teoría de la combustión por oxígeno postuladas por el científico francés antoine lavoisier.
+las disciplinas de la química se agrupan según la clase de materia bajo estudio o el tipo de estudio realizado. entre éstas se tienen la química inorgánica, que estudia la materia inorgánica; la química orgánica, que estudia la materia orgánica; la bioquímica, que estudia las substancias existentes en organismos biológicos; la fisicoquímica que comprende los aspectos energéticos de sistemas químicos a escalas macroscópicas, moleculares y atómicas, o la química analítica, que analiza muestras de materia y trata de entender su composición y estructura.
+
+
+== etimología ==
+la palabra química procede de la palabra «alquimia», un antiguo conjunto de prácticas protocientíficas que abarcaba diversos elementos de la actual ciencia, además de otras disciplinas muy variadas como la metalurgia, la astronomía, la filosofía, el misticismo o la medicina. la alquimia, practicada al menos desde alrededor del año 330, además de buscar la fabricación de oro estudiaba la composición de las aguas, la naturaleza del movimiento, del crecimiento, de la formación de los cuerpos y su descomposición, la conexión espiritual entre los cuerpos y los espíritus. un alquimista solía ser llamado en lenguaje cotidiano «químico», y posteriormente se denominaría química al arte que practicaba.
+a su vez alquimia deriva de la palabra árabe al-kīmīā (الکیمیاء). en origen el término fue un préstamo tomado del griego, de las palabras χημία o χημεία (quemia y quemeia respectivamente).  la primera podría tener origen egipcio. muchos creen que al-kīmīā deriva de χημία, que a su vez deriva de la palabra chemi o kimi, que es el nombre antiguo de egipto en egipcio. la otra alternativa es que al-kīmīā derivara de χημεία, que significa «fusionar».
+
+
+== definición ==
+la definición de química ha cambiado a través del tiempo a medida que nuevos descubrimientos se han añadido a la funcionalidad de esta ciencia. el término «química», a vista del reconocido científico robert boyle, en 1661, se trataba del área que estudiaba los principios de los cuerpos mezclados.
+en 1663, química se definía como un arte científico por el cual se aprende a disolver cuerpos, obtener de ellos las diferentes sustancias de su composición, y como unirlos después para alcanzar un nivel mayor de perfección. esto según el químico christopher glaser.
+la definición de 1730 para la palabra química, usada por georg stahl, era el arte de entender el funcionamiento de las mezclas, compuestos, o cuerpos hasta sus principios básicos; y luego volver a componer esos cuerpos a partir de esos mismos principios.
+en 1837, jean-baptiste dumas, consideró la palabra química para referirse a la ciencia que se preocupaba de las leyes y efectos de las fuerzas moleculares. esta definición luego evolucionaría hasta que, en 1947, se le denominó la ciencia que se preocupaba de las substancias: su estructura, sus propiedades y las reacciones que las transforman en otras substancias (caracterización dada por linus pauling).
+más recientemente, en 1988, la definición de química fue ampliada para ser «el estudio de la materia y los cambios que implica», esto, en palabras del profesor raymond chang.
+
+
+== introducción ==
+la ubicuidad de la química en las ciencias naturales hace que sea considerada una de las ciencias básicas. la química es de gran importancia en muchos campos del conocimiento, como la ciencia de materiales, la biología, la farmacia, la medicina, la geología, la ingeniería y la astronomía, entre otros.
+los procesos naturales estudiados por la química involucran partículas fundamentales (electrones, protones y neutrones), partículas compuestas (núcleos atómicos, átomos y moléculas) o estructuras microscópicas como cristales y superficies.
+desde el punto de vista microscópico, las partículas involucradas en una reacción química pueden considerarse un sistema cerrado que intercambia energía con su entorno. en procesos exotérmicos, el sistema libera energía a su entorno, mientras que un proceso endotérmico solamente puede ocurrir cuando el entorno aporta energía al sistema que reacciona. en la mayor parte de las reacciones químicas hay flujo de energía entre el sistema y su campo de influencia, por lo cual puede extenderse la definición de reacción química e involucrar la energía cinética (calor) como un reactivo o producto.
+aunque hay una gran variedad de ramas de la química, las principales divisiones son:
+bioquímica, constituye un pilar fundamental de la biotecnología, y se ha consolidado como una disciplina esencial para abordar los grandes problemas y enfermedades actuales y del futuro, tales como el cambio climático, la escasez de recursos agroalimentarios ante el aumento de población mundial, el agotamiento de las reservas de combustibles fósiles, la aparición de nuevas formas de alergias, el aumento del cáncer, las enfermedades genéticas, la obesidad, etc.
+fisicoquímica, establece y desarrolla los principios físicos fundamentales detrás de las propiedades y el comportamiento de los sistemas químicos. 
+química analítica, (del griego ἀναλύω) es la rama de la química que tiene como finalidad el estudio de la composición química de un material o muestra, mediante diferentes métodos de laboratorio. se divide en química analítica cuantitativa y química analítica cualitativa.
+química inorgánica, se encarga del estudio integrado de la formación, composición, estructura y reacciones químicas de los elementos y compuestos inorgánicos (por ejemplo, ácido sulfúrico o carbonato cálcico); es decir, los que no poseen enlaces carbono-hidrógeno, porque éstos pertenecen al campo de la química orgánica. dicha separación no es siempre clara, como por ejemplo en la química organometálica que es una superposición de ambas.
+química orgánica o química del carbono, es la rama de la química que estudia una clase numerosa de moléculas que contienen carbono formando enlaces covalentes carbono-carbono o carbono-hidrógeno y otros heteroátomos, también conocidos como compuestos orgánicos. friedrich wöhler yarchibald scott couper son conocidos como los padres de la química orgánica.
+la gran importancia de los sistemas biológicos hace que en la actualidad gran parte del trabajo en química sea de naturaleza bioquímica. entre los problemas más interesantes se encuentran, por ejemplo, el estudio del plegamiento de proteínas y la relación entre secuencia, estructura y función de proteínas.
+si hay una partícula importante y representativa en la química, es el electrón. uno de los mayores logros de la química es haber llegado al entendimiento de la relación entre reactividad química y distribución electrónica de átomos, moléculas o sólidos. los químicos han tomado los principios de la mecánica cuántica y sus soluciones fundamentales para sistemas de pocos electrones y han hecho aproximaciones matemáticas para sistemas más complejos. la idea de orbital atómico y molecular es una forma sistemática en la cual la formación de enlaces es comprensible y es la sofisticación de los modelos iniciales de puntos de lewis. la naturaleza cuántica del electrón hace que la formación de enlaces sea entendible físicamente y no se recurra a creencias como las que los químicos utilizaron antes de la aparición de la mecánica cuántica. aun así, se obtuvo gran entendimiento a partir de la idea de puntos de lewis.
+
+
+== historia ==
+
+las primeras civilizaciones, como los egipcios y los babilónicos, concentraron un conocimiento práctico en lo que concierne a las artes relacionadas con la metalurgia, cerámica y tintes, sin embargo, no desarrollaron teorías complejas sobre sus observaciones.
+hipótesis básicas emergieron de la antigua grecia con la teoría de los cuatro elementos propuesta por aristóteles. esta postulaba que el fuego, aire, tierra y agua, eran los elementos fundamentales por los cuales todo está formado como mezcla. los atomicistas griegos datan del año 440 a.c, en manos de filósofos como demócrito y epicuro. en el año 50 antes de cristo, el filósofo romano lucrecio, expandió la teoría en su libro de rerum natura (en la naturaleza de las cosas) 
+al contrario del concepto moderno de atomicismo, esta teoría primitiva estaba enfocada más en la naturaleza filosófica de la naturaleza, con un interés menor por las observaciones empíricas y sin interés por los experimentos químicos.
+en el mundo helénico, la alquimia en principio proliferó en combinación con la magia y el ocultismo como una forma de estudio de las substancias naturales para transmutarlas en oro y descubrir el elixir de la eterna juventud. la alquimia fue descubierta y practicada ampliamente en el mundo árabe después de la conquista de los musulmanes, y desde ahí, fue difuminándose hacia todo el mundo medieval y la europa renacentista a través de las traducciones latinas.
+
+
+=== química como ciencia ===
+
+bajo la influencia de los nuevos métodos empíricos propuestos por sir francis bacon, robert boyle, robert hooke, john mayow, entre otros, comenzaron a remodelarse las viejas tradiciones acientiíficas en una disciplina científica. boyle, en particular, es considerado como el padre fundador de la química debido a su trabajo más importante, «el químico escéptico» donde se hace la diferenciación entre las pretensiones subjetivas de la alquimia y los descubrimientos científicos empíricos de la nueva química. él formuló la ley de boyle, rechazó los «cuatro elementos» y propuso una alternativa mecánica de los átomos y las reacciones químicas las cuales podrían ser objeto de experimentación rigurosa, demostrándose o siendo rebatidas de manera científica.
+la teoría del flogisto (una substancia que, suponían, producía toda combustión) fue propuesta por el alemán georg ernst stahl en el siglo xviii y solo fue rebatida hacia finales de siglo por el químico francés antoine lavoisier, quien dilucido el principio de conservación de la masa y desarrollo un nuevo sistema de nomenclatura química utilizada para el día de hoy.
+antes del trabajo de lavoisier, sin embargo, se han hecho muchos descubrimientos importantes, particularmente en lo que se refiere a lo relacionado con la naturaleza de "aire", que se descubrió, que se compone de muchos gases diferentes. el químico escocés joseph black (el primer químico experimental) y el holandés j. b. van helmont descubrieron dióxido de carbono, o lo que black llamaba "aire fijo" en 1754; henry cavendish descubre el hidrógeno y dilucida sus propiedades. finalmente, joseph priestley e, independientemente, carl wilhelm scheele aislan oxígeno puro.
+el científico inglés john dalton propone en 1803 la teoría moderna de los átomos en su libro, «la teoría atómica», donde postula que todas las substancias están compuestas de "átomos" indivisibles de la materia y que los diferentes átomos tienen diferentes pesos atómicos.
+el desarrollo de la teoría electroquímica de combinaciones químicas se produjo a principios del siglo xix como el resultado del trabajo de dos científicos en particular, j. j. berzelius y humphry davy, gracias a la invención, no hace mucho, de la pila voltaica por alessandro volta. davy descubrió nueve elementos nuevos, incluyendo los metales alcalinos mediante la extracción de ellos a partir de sus óxidos con corriente eléctrica.
+el británico william prout propuso el ordenar a todos los elementos por su peso atómico, ya que todos los átomos tenían un peso que era un múltiplo exacto del peso atómico del hidrógeno. j. a. r. newlands ideó una primitiva tabla de los elementos, que luego se convirtió en la tabla periódica moderna creada por el alemán julius lothar meyer y el ruso dmitri mendeleev en 1860. los gases inertes, más tarde llamados gases nobles, fueron descubiertos por william ramsay en colaboración con lord rayleigh al final del siglo, llenando por lo tanto la estructura básica de la tabla.
+
+la química orgánica ha sido desarrollada por justus von liebig y otros luego de que friedrich wohler sintetizara urea, demostrando que los organismos vivos eran, en teoría, reducibles a terminología química otros avances cruciales del siglo xix fueron: la comprensión de los enlaces de valencia (edward frankland,1852) y la aplicación de la termodinámica a la química (j. w. gibbs y svante arrhenius, 1870).
+
+
+=== estructura química ===
+llegado el siglo xx los fundamentos teóricos de la química fueron finalmente entendidos debido a una serie de descubrimientos que tuvieron éxito en comprobar la naturaleza de la estructura interna de los átomos. en 1897, j. j. thomson, de la universidad de cambridge, descubrió el electrón y poco después el científico francés becquerel, así como la pareja de pierre y marie curie investigó el fenómeno de la radiactividad. en una serie de experimentos de dispersión, ernest rutherford, en la universidad de mánchester, descubrió la estructura interna del átomo y la existencia del protón, clasificando y explicando los diferentes tipos de radiactividad, y con éxito, transmuta el primer elemento mediante el bombardeo de nitrógeno con partículas alfa.
+el trabajo de rutheford en la estructura atómica fue mejorado por sus estudiantes, niels bohr y henry mosley. la teoría electrónica de los enlaces químicos y orbitales moleculares fue desarrollado por los científicos americanos linus pauling y gilbert n. lewis.
+el año 2011 fue declarado por las naciones unidas como el año internacional de la química. esta iniciativa fue impulsada por la unión internacional de química pura y aplicada, en conjunto con la organización de las naciones unidas para la educación, la ciencia y la cultura. se celebró por medio de las distintas sociedades de químicos, académicos e instituciones de todo el mundo y se basó en iniciativas individuales para organizar actividades locales y regionales.
+
+
+== principios de la química moderna ==
+el actual modelo de la estructura atómica es el modelo mecánico cuántico. la química tradicional comenzó con el estudio de las partículas elementales: átomos, moléculas, sustancias, metales, cristales y otros agregados de la materia. la materia podía ser estudiada en estados líquido, de gas o sólidos, ya sea de manera aislada o en combinación. las interacciones, reacciones y transformaciones que se estudian en química son generalmente el resultado de las interacciones entre átomos, dando lugar a recordenamientos de los enlaces químicos que los mantienen unidos a otros átomos. tales comportamientos son estudiados en un laboratorio de química.
+en el laboratorio de química se suelen utilizar diversos útiles de cristalería. sin embargo, la cristalería no es fundamental en la experimentación química ya que gran cantidad de experimentación científica (así sea en química aplicada o industrial) se realiza sin ella.
+una reacción química es la transformación de algunas sustancias en una o más sustancias diferentes. la base de tal transformación química es la reordenación de los electrones en los enlaces químicos entre los átomos. se puede representar simbólicamente como una ecuación química, que por lo general implica átomos como la partícula central. el número de átomos a la izquierda y la derecha en la ecuación para una transformación química debe ser igual (cuando es desigual, la transformación, por definición, no es química, sino más bien una reacción nuclear o la desintegración radiactiva). el tipo de reacciones químicas que una sustancia puede experimentar y los cambios de energía que pueden acompañarla, son determinados por ciertas reglas básicas, conocidas como leyes químicas.
+las consideraciones energéticas y de entropía son variables importantes en casi todos los estudios químicos. las sustancias químicas se clasifican sobre la base de su estructura, estado y composiciones químicas. estas pueden ser analizadas usando herramientas del análisis químico, como por ejemplo, la espectroscopia y cromatografía. los científicos dedicados a la investigación química se les suele llamar «químicos». la mayoría de los químicos se especializan en una o más áreas subdisciplinas. varios conceptos son esenciales para el estudio de la química, y algunos de ellos son:
+
+
+=== materia ===
+en química, la materia se define como cualquier cosa que tenga masa en reposo, volumen y se componga de partículas. las partículas que componen la materia también poseen masa en reposo, sin embargo, no todas las partículas tienen masa en reposo, un ejemplo es el fotón. la materia puede ser una sustancia química pura o una mezcla de sustancias.
+
+
+=== átomos ===
+el átomo es la unidad básica de la química. se compone de un núcleo denso llamado núcleo atómico, el cual es rodeado por un espacio denominado «nube de electrones». el núcleo se compone de protones cargados positivamente y neutrones sin carga (ambos denominados nucleones). la nube de electrones son electrones que giran alrededor del núcleo cargados negativamente.
+en un átomo neutro, los electrones cargados negativamente equilibran la carga positiva de los protones. el núcleo es denso; la masa de un nucleón es 1836 veces mayor que la de un electrón, sin embargo, el radio de un átomo es aproximadamente 10 000 veces mayor que la de su núcleo 
+el átomo es la entidad más pequeña que se debe considerar para conservar las propiedades químicas del elemento, tales como la electronegatividad, el potencial de ionización, los estados de oxidación preferidos, los números de coordinación y los tipos de enlaces que un átomo prefiere formar (metálicos, iónicos, covalentes, etc).
+
+
+=== elemento ===
+un elemento químico es una sustancia pura que se compone de un solo tipo de átomo, caracterizado por su número particular de protones en los núcleos de sus átomos, número conocido como «número atómico» y que es representados por el símbolo z. el número másico es la suma del número de protones y neutrones en el núcleo. aunque todos los núcleos de todos los átomos que pertenecen a un elemento tengan el mismo número atómico, no necesariamente deben tener el mismo número másico; átomos de un elemento que tienen diferentes números de masa se conocen como isótopos. por ejemplo, todos los átomos con 6 protones en sus núcleos son átomos de carbono, pero los átomos de carbono pueden tener números másicos de 12 o 13.
+la presentación estándar de los elementos químicos está en la tabla periódica, la cual ordena los elementos por número atómico. la tabla periódica se organiza en grupos (también llamados columnas) y períodos (o filas). la tabla periódica es útil para identificar tendencias periódicas.
+
+
+=== compuesto ===
+un compuesto es una sustancia química pura compuesta de más de un elemento. las propiedades de un compuesto tienen poca similitud con las de sus elementos. la nomenclatura estándar de los compuestos es fijado por la unión internacional de química pura y aplicada (iupac). los compuestos orgánicos se nombran según el sistema de nomenclatura orgánica. los compuestos inorgánicos se nombran según el sistema de nomenclatura inorgánica. además, el servicio de resúmenes químicos ha ideado un método para nombrar sustancias químicas. en este esquema cada sustancia química es identificable por un número conocido como número de registro cas.
+
+
+== subdisciplinas de la química ==
+la química cubre un campo de estudios bastante amplio, por lo que en la práctica se estudia cada tema de manera particular. las seis principales y más estudiadas ramas de la química son:
+química inorgánica: síntesis y estudio de las propiedades eléctricas, magnéticas y ópticas de los compuestos formados por átomos que no sean de carbono (aunque con algunas excepciones). trata especialmente los nuevos compuestos con metales de transición, los ácidos y las bases, entre otros compuestos.
+química orgánica: síntesis y estudio de los compuestos que se basan en cadenas de carbono.
+bioquímica: estudia las reacciones químicas en los seres vivos, estudia el organismo y los seres vivos. bioquímica es el estudio de las sustancias químicas, las reacciones químicas y las interacciones químicas que tienen lugar en los organismos vivos . bioquímica y la química orgánica están estrechamente relacionados , como en la química médica o neuroquímica . bioquímica también se asocia con la biología molecular y la genética.
+química física: estudia los fundamentos y bases físicas de los sistemas y procesos químicos. en particular, son de interés para el químico físico los aspectos energéticos y dinámicos de tales sistemas y procesos. entre sus áreas de estudio más importantes se incluyen la termodinámica química, la cinética química, la electroquímica, la mecánica estadística y la espectroscopia. usualmente se la asocia también con la química cuántica y la química teórica.
+química industrial: estudia los métodos de producción de reactivos químicos en cantidades elevadas, de la manera económicamente más beneficiosa. en la actualidad también intenta aunar sus intereses iniciales, con un bajo daño al medio ambiente.
+química analítica: estudia los métodos de detección (identificación) y cuantificación (determinación) de una sustancia en una muestra. se subdivide en cuantitativa y cualitativa.[cita requerida]
+la diferencia entre la química orgánica y la química biológica es que en la química biológica las moléculas de adn tienen una historia y, por ende, en su estructura nos hablan de su historia, del pasado en el que se han constituido, mientras que una molécula orgánica, creada hoy, es solo testigo de su presente, sin pasado y sin evolución histórica.
+además existen múltiples subdisciplinas que, por ser demasiado específicas o bien multidisciplinares, se estudian individualmente:[cita requerida]
+astroquímica es la ciencia que se ocupa del estudio de la composición química de los astros y el material difuso encontrado en el espacio interestelar, normalmente concentrado en grandes nubes moleculares.
+electroquímica  es una rama de la química que estudia la transformación entre la energía eléctrica y la energía química.
+fotoquímica, una subdisciplina de la química, es el estudio de las interacciones entre átomos, moléculas pequeñas, y la luz (o radiación electromagnética).
+magnetoquímica es la rama de la química que se dedica a la síntesis y el estudio de las sustancias de propiedades magnéticas interesantes.
+nanoquímica (relacionada con la nanotecnología).
+petroquímica  es lo perteneciente o relativo a la industria que utiliza el petróleo o el gas natural como materias primas para la obtención de productos químicos.
+geoquímica: estudia todas las transformaciones de los minerales existentes en la tierra.
+química computacional  es una rama de la química que utiliza computadores para ayudar a resolver problemas químicos. utiliza los resultados de la química teórica, incorporados en algún software para calcular las estructuras y las propiedades de moléculas y cuerpos sólidos. mientras sus resultados normalmente complementan la información obtenida en experimentos químicos, pueden, en algunos casos, predecir fenómenos químicos no observados a la fecha.
+química cuántica  es una rama de la química teórica en donde se aplica la mecánica cuántica y la teoría cuántica de campos.
+química macromolecular: estudia la preparación, caracterización, propiedades y aplicaciones de las macromoléculas o polímeros;
+química medioambiental: estudia la influencia de todos los componentes químicos que hay en la tierra, tanto en su forma natural como antropogénica;
+química nuclear o física nuclear es una rama de la física que estudia las propiedades y el comportamiento de los núcleos atómicos.
+química organometálica se encarga del estudio de los compuestos organometálicos, que son aquellos compuestos químicos que poseen un enlace entre un átomo de carbono y un átomo metálico, de su síntesis y de su reactividad.
+química supramolecular es la rama de la química que estudia las interacciones supramoleculares, esto es, entre moléculas.
+química teórica  incluye el uso de la física para explicar o predecir fenómenos químicos. 
+
+
+== los aportes de célebres autores ==
+
+hace aproximadamente 455 años solo se conocían doce elementos. a medida que fueron descubriendo más elementos, los científicos se dieron cuenta de que todos guardaban un orden preciso. cuando los colocaron en una tabla ordenados en filas y columnas, vieron que los elementos de una misma columna tenían propiedades similares. pero también aparecían espacios vacíos en la tabla para los elementos aún desconocidos. estos espacios huecos llevaron al científico ruso dmitri mendeléyve a pronosticar la existencia del germanio, de número atómico 32, así como su color, su peso, su densidad y su punto de fusión. su “predicción sobre otros elementos como - el galio y el escandio - también resultó muy atinada”, señala la obra chemistry, libro de texto de química editado en 1995.
+
+
+== campo de trabajo: el átomo ==
+el origen de la teoría atómica se remonta a la escuela filosófica de los atomistas, en la grecia antigua. los fundamentos empíricos de la teoría atómica, de acuerdo con el método científico, se debe a un conjunto de trabajos hechos por antoine lavoisier, louis proust, jeremias benjamin richter, john dalton, gay-lussac, berzelius y amadeo avogadro entre muchos otros, hacia principios del siglo xix.
+los átomos son la fracción más pequeña de materia estudiados por la química, están constituidos por diferentes partículas, cargadas eléctricamente, los electrones, de carga negativa; los protones, de carga positiva; los neutrones, que, como su nombre indica, son neutros (sin carga); todos ellos aportan masa para contribuir al peso.
+
+
+== conceptos fundamentales ==
+
+
+=== partículas ===
+los átomos son las partes más pequeñas de un elemento (como el carbono, el hierro o el oxígeno). todos los átomos de un mismo elemento tienen la misma estructura electrónica (responsable ésta de la mayor parte de las características químicas), y pueden diferir en la cantidad de neutrones (isótopos). las moléculas son las partes más pequeñas de una sustancia (como el azúcar), y se componen de átomos enlazados entre sí. si tienen carga eléctrica, tanto átomos como moléculas se llaman iones: cationes si son positivos, aniones si son negativos.
+el mol se usa como contador de unidades, como la docena (12) o el millar (1000), y equivale a . se dice que 12 gramos de carbono o un gramo de hidrógeno o 56 gramos de hierro contienen aproximadamente un mol de átomos (la masa molar de un elemento está basada en la masa de un mol de dicho elemento). se dice entonces que el mol es una unidad de cambio. el mol tiene relación directa con el número de avogadro. el número de avogadro fue estimado para el átomo de carbono por el químico y físico italiano carlo amedeo avogadro, conde de quarequa e di cerreto. este valor, expuesto anteriormente, equivale al número de partículas presentes en 1 mol de dicha sustancia:
+1 mol de glucosa equivale a  moléculas de glucosa. 1 mol de uranio equivale a  átomos de uranio.
+dentro de los átomos pueden existir un núcleo atómico y uno o más electrones. los electrones son muy importantes para las propiedades y las reacciones químicas. dentro del núcleo se encuentran los neutrones y los protones. los electrones se encuentran alrededor del núcleo. también se dice que el átomo es la unidad básica de la materia con características propias. está formado por un núcleo, donde se encuentran protones.
+
+
+=== de los átomos a las moléculas ===
+los enlaces son las uniones entre átomos para formar moléculas. siempre que existe una molécula es porque ésta es más estable que los átomos que la forman por separado. a la diferencia de energía entre estos dos estados se le denomina energía de enlace.
+los átomos se combinan en proporciones fijas para generar moléculas concretas. por ejemplo, dos átomos de hidrógeno se combinan con uno de oxígeno para dar una molécula de agua. esta proporción fija se conoce como estequiometría. sin embargo, el mismo número y tipo de átomos puede combinarse de diferente forma dando lugar a sustancias isómeras.
+
+
+=== orbitales ===
+
+para una descripción y comprensión detalladas de las reacciones químicas y de las propiedades físicas de las diferentes sustancias, es muy útil su descripción a través de orbitales, con ayuda de la química cuántica.
+un orbital atómico es una función matemática que describe la disposición de uno o dos electrones en un átomo. un orbital molecular es el análogo en las moléculas.
+en la teoría del orbital molecular la formación del enlace covalente se debe a una combinación matemática de orbitales atómicos (funciones de onda) que forman orbitales moleculares, llamados así por que pertenecen a toda la molécula y no a un átomo individual. así como un orbital atómico (sea híbrido o no) describe una región del espacio que rodea a un átomo donde es probable que se encuentre un electrón, un orbital molecular describe también una región del espacio en una molécula donde es más factible que se hallen los electrones.
+al igual que un orbital atómico, un orbital molecular tiene un tamaño, una forma y una energía específicos. por ejemplo, en la molécula de hidrógeno molecular se combinan dos orbitales atómicos, ocupado cada uno por un electrón. hay dos formas en que puede presentarse la combinación de orbitales: aditiva y substractiva. la combinación aditiva produce la formación de un orbital molecular que tiene menor energía y que presenta una forma casi ovalada, mientras que la combinación substractiva conduce a la formación de un orbital molecular con mayor energía y que genera un nodo entre los núcleos.
+
+
+=== de los orbitales a las sustancias ===
+los orbitales son funciones matemáticas para describir procesos físicos: un orbital únicamente existe en el sentido matemático, como pueden existir una suma, una parábola o una raíz cuadrada. los átomos y las moléculas son también idealizaciones y simplificaciones: un átomo y una molécula solo existen en el vacío, y en sentido estricto una molécula solo se descompone en átomos si se rompen todos sus enlaces.
+en el "mundo real" únicamente existen los materiales y las sustancias. si se confunden los objetos reales con los modelos teóricos que se usan para describirlos, es fácil caer en falacias lógicas.
+
+
+=== disoluciones ===
+
+en agua, y en otros disolventes (como la acetona o el alcohol), es posible disolver sustancias, de forma que quedan disgregadas en las moléculas o en los iones que las componen (las disoluciones son transparentes). cuando se supera cierto límite, llamado solubilidad, la sustancia ya no se disuelve, y queda, bien como precipitado en el fondo del recipiente, bien como suspensión, flotando en pequeñas partículas (las suspensiones son opacas o traslúcidas).
+se denomina concentración a la medida de la cantidad de soluto por unidad de cantidad de disolvente.
+
+
+=== medida de la concentración ===
+
+la concentración de una disolución se puede expresar de diferentes formas, en función de la unidad empleada para determinar las cantidades de soluto y disolvente. las más usuales son:
+g/l (gramos por litro) razón soluto/disolvente o soluto/disolución, dependiendo de la convención
+% p/p (concentración porcentual en peso) razón soluto/disolución
+% v/v (concentración porcentual en volumen) razón soluto/disolución
+m (molaridad) razón soluto/disolución
+n (normalidad) razón soluto/disolución
+m (molalidad) razón soluto/disolvente
+x (fracción molar)
+ppm (partes por millón) razón soluto/disolución
+
+
+=== acidez ===
+
+el ph es una escala logarítmica para describir la acidez de una disolución acuosa. los ácidos, como por ejemplo el zumo de limón y el vinagre, tienen un ph bajo (inferior a 7). las bases, como la sosa o el bicarbonato de sodio, tienen un ph alto (superior a 7).
+el ph se calcula mediante la siguiente ecuación:
+
+donde  es la actividad de iones hidrógeno en la solución, la que en soluciones diluidas es numéricamente igual a la molaridad de iones hidrógeno  que cede el ácido a la solución.
+una solución neutral (agua ultra pura) tiene un ph de 7, lo que implica una concentración de iones hidrógeno de 10-7 m;
+una solución ácida (por ejemplo, de ácido sulfúrico)tiene un ph < 7, es decir, la concentración de iones hidrógeno es mayor que 10-7 m;
+una solución básica (por ejemplo, de hidróxido de potasio) tiene un ph > 7, o sea que la concentración de iones hidrógeno es menor que 10-7 m.
+
+
+=== formulación y nomenclatura ===
+la iupac, un organismo internacional, mantiene unas reglas para la formulación y nomenclatura química. de esta forma, es posible referirse a los compuestos químicos de forma sistemática y sin equívocos.
+mediante el uso de fórmulas químicas es posible también expresar de forma sistemática las reacciones químicas, en forma de ecuación química.
+por ejemplo:
+
+
+== véase también ==
+ portal:química. contenido relacionado con química.
+absorción
+biología
+catalizador
+dinámica molecular
+farmacia
+filosofía de la química
+física
+iupac
+lista de compuestos
+matemáticas
+propiedades periódicas
+química (etimología)
+sustancia química
+tabla periódica de los elementos
+comparación de la química y la física
+
+
+== referencias ==
+
+
+=== bibliografía ===
+atkins, peter; de paula, julio (2009). elements of physical chemistry (en inglés) (quinta edición). nueva york: oxford university press. isbn 978-0-19-922672-6. 
+burrows, andrew; holman, john; burrows, john; parsons, andrew; pilling, gwen; price, gareth (2009). chemistry 3. italia: oxford university press. isbn 978-0-19-927789-6. 
+housecroft, catherine e.; sharpe, alan g. (2008). inorganic chemistry (tercera edición). harlow, essex: pearson education. isbn 978-0-13-175553-6. 
+
+
+== enlaces externos ==
+ wikcionario tiene definiciones y otra información sobre química.wikcionario
+ wikiquote alberga frases célebres de o sobre química. wikiquote
+ wikimedia commons alberga contenido multimedia sobre químicacommons.
+wikilibros
+ wikilibros alberga un libro o manual sobre química.
+ wikinoticias tiene noticias relacionadas con química.wikinoticias
+ wikiversidad alberga proyectos de aprendizaje sobre química.wikiversidad
+instituto catalán de investigación química (iciq)
+libros antiguos de ciencia

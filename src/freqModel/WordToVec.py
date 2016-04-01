@@ -4,6 +4,7 @@ import re
 from nltk.corpus import stopwords
 from nltk.stem.lancaster import LancasterStemmer
 from nltk.stem.snowball import FrenchStemmer
+from nltk.stem import *
 import math
 import threading
 
@@ -32,10 +33,11 @@ class wordVecGen:
         print t
 
         self.words = {}
-        self.shortlang = {'en':['english',LancasterStemmer] , 'fr':['french',FrenchStemmer]}
+        # self.shortlang = {'en':['english',SnowballStemmer("english", ignore_stopwords=True)] , 'fr':['french',SnowballStemmer("french", ignore_stopwords=True)],'es':['spanish',SnowballStemmer("spanish", ignore_stopwords=True)]}
+        self.language = {'en':'english','fr':'french','es':'spanish'}
         self.stop = {}
         for k in self.languages:
-            self.stop[k] = stopwords.words(self.shortlang[k][0])
+            self.stop[k] = stopwords.words(self.language[k])
         self.freqDist = {}
 
         threads={}
@@ -101,7 +103,7 @@ class wordVecGen:
         f.close()
 
         # This Part now stems every word in the document loaded and copies it into corpus['en'].
-        words_in_topic  = [(self.shortlang[k][1]().stem(unicode(i))) for i in (re.findall("[a-zA-Z]+", content))]
+        words_in_topic  = [(SnowballStemmer(self.language[k], ignore_stopwords=True).stem(unicode(i))) for i in (re.findall("[a-zA-Z]+", content))]
 
         # Generate a histogram of words in the current document
         self.freqDist[k][topic]={x:words_in_topic.count(x) for x in words_in_topic}
@@ -113,7 +115,7 @@ class wordVecGen:
         # Current Function: exp(frequency/(1+max(frequencies)))
         maxval = max(self.freqDist[k][topic].values())
         sumval = sum(self.freqDist[k][topic].values())
-        self.freqDist[k][topic]={x:math.log(self.freqDist[k][topic][x]/(1.0+1.0*maxval)) for x in self.freqDist[k][topic].keys()}
+        self.freqDist[k][topic]={x:math.exp(self.freqDist[k][topic][x]/(1.0+1.0*maxval)) for x in self.freqDist[k][topic].keys()}
 
         # Add all the words in the current document to all words list
         self.words[k] += self.freqDist[k][topic].keys()
@@ -125,7 +127,7 @@ class wordVecGen:
 class Test:
     def __init__(self,wordVecGen, test_topics_list):
         self.wordVecGen = wordVecGen
-        self.languages = ['en','fr']
+        self.languages = self.wordVecGen.languages
         self.test_topics_all = test_topics_list
         self.corpus = {}
         self.test_topics = {}
@@ -145,10 +147,11 @@ class Test:
 
         self.words = {}
 
-        self.shortlang = {'en':['english',LancasterStemmer] , 'fr':['french',FrenchStemmer]}
+        # self.shortlang = {'en':['english',LancasterStemmer] , 'fr':['french',FrenchStemmer]}
+        self.language = {'en':'english','fr':'french','es':'spanish'}
         self.stop = {}
         for k in self.languages:
-            self.stop[k] = stopwords.words(self.shortlang[k][0])
+            self.stop[k] = stopwords.words(self.language[k])
         # Now lets Generate
 
         threads = {}
@@ -201,6 +204,6 @@ class Test:
 
 
         # This Part now stems every word in the document loaded and copies it into corpus['en'].
-        words_in_test_topic  = [(self.shortlang[k][1]().stem(unicode(i))) for i in (re.findall("[a-zA-Z]+", content)) if i not in stop]
+        words_in_test_topic  = [(SnowballStemmer(self.language[k], ignore_stopwords=True).stem(unicode(i))) for i in (re.findall("[a-zA-Z]+", content)) if i not in stop]
         self.corpus[k][test_topic] = list(set(words_in_test_topic))
         self.words[k] += self.corpus[k][test_topic]

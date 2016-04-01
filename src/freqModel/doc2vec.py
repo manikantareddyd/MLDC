@@ -43,15 +43,17 @@ class docVector:
         self.topicVectors[topic]=np.array(vector)
 
 
-languages = ['en','fr']
+languages = ['en','fr','es']
 topics_list = ['Adele','Baboon','Chemistry','Energy','pokemon','English_language','French_language','India','Pakistan','Politics','Tennis','The_Beatles','Wikipedia']
-wordVecGen = wordVecGen(topics_list,languages,1)#len(topics_list))
-test_list = ['pokemon','pokemon_test']
+wordVecGen = wordVecGen(topics_list,languages,len(topics_list)/3)
+test_list = ['pokemon','Energy','Tennis']
 d=docVector(wordVecGen,test_list,40)
 n = np.linalg.norm
 v=d.topicVectors
-table=PrettyTable(['en','fr','Cosine','norm1','norm2'])
-for topic in d.Test.test_topics['en']:
-    for t in d.Test.test_topics['fr']:
+table=PrettyTable(['Topic1','Topic2','Cosine','norm1','norm2'])
+for t in [t for t in test_list]:
+    for topic in [t for t in test_list]:
         table.add_row([topic,t,cosine(v[t],v[topic]),n(v[t]-v[topic],1),n(v[t]-v[topic],2)])
+# for topic in d.Test.test_topics['en']:
+#         table.add_row([topic,t,cosine(v[t],v[topic]),n(v[t]-v[topic],1),n(v[t]-v[topic],2)])
 print table

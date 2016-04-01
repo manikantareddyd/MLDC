@@ -1,0 +1,204 @@
+el tenis es un deporte de raqueta que se practica sobre una cancha rectangular (compuesta por distintas superficies las cuales pueden ser cemento, tierra, o césped), delimitada por líneas y dividida por una red. se disputa entre dos jugadores (individuales) o entre dos parejas (dobles). el objetivo del juego es lanzar una pelota golpeándola con la raqueta de modo que bote dentro del campo del rival procurando que este no pueda devolverla.
+
+
+== etimología ==
+la palabra española «tenis» proviene del inglés «tennis» que a su vez tiene su origen en el francés «tenez». cuando el jugador de tenis (llamado «tenista»), ponía la pelota en juego exclamaba «¡tenez!» (‘¡ahí va!’, en francés).
+
+
+== historia ==
+
+las primeras referencias del tenis tienen lugar en francia, nombrado «jeu de paume» (‘juego de palmas’) dado que al principio se golpeaba la pelota con la mano. más tarde se empezaron a utilizar raquetas.
+el tenis original se jugaba en pistas de hierba natural.
+se originó en europa a finales del siglo xviii[cita requerida] y se expandió en un principio por los países angloparlantes, especialmente entre sus clases altas. en la actualidad el tenis se ha universalizado, y es jugado en casi todos los países del mundo. desde 1926, con la creación del primer tour, es un deporte profesional. es además un deporte olímpico desde los juegos olímpicos de atenas 1896.
+
+
+== reglas del juego ==
+el partido de tenis comienza con el saque de uno de los jugadores. este debe golpear la bola de tal forma que bote dentro del cuadro diagonal respecto del lado del que saca. es decir, el jugador siempre debe servir o sacar de forma cruzada.
+el jugador tiene dos oportunidades de saque. si falla la primera, tiene otra oportunidad de meter la bola. si no mete la pelota en esas dos oportunidades el punto es para el otro. en caso de que en el primer saque roce la red y caiga en el cuadrado correspondiente, tiene dos intentos más. eso solo si ocurre en el primer saque. si ocurre en el segundo, el jugador dispondrá únicamente de un saque más.
+cuando el jugador saca y mete la bola de campo a campo, el contrincante deberá golpear la bola después de un bote o antes del bote, pero nunca podrán dejar que la bola bote dos veces. en ese caso el jugador contrario se llevará el punto.
+ganando 4 puntos se consigue un juego y ganando 6 juegos se consigue un set.
+el partido se gana con 2 sets (mejor de 3), ó con 3 sets (mejor de 5), si al llegar al final de un set los jugadores están empatados a puntos se juega un tie break. consiste en llegar a 7 puntos con una diferencia de 2
+
+
+=== medidas de la cancha ===
+
+el tenis se juega en una cancha (llamada «pista» en españa) de forma rectangular, de 23,77 metros (78 pies) de longitud por 8,23 m (27 pies) de anchura. para los partidos de dobles la cancha será de 10,97 m (36 pies) de anchura.
+las líneas que limitan los extremos de la pista se denominan líneas de fondo y las líneas que limitan los costados de la pista se denominan líneas laterales. a cada lado de la red y paralela a ella, se trazan dos líneas entre las líneas laterales a una distancia de 6,40 m a partir de la red.
+estas líneas se llaman líneas de saque o de servicio. a cada lado de la red, el área entre la línea de servicio y la red queda dividida por una línea central de servicio en dos partes iguales llamadas cuadros de servicio. la línea central de servicio se traza paralelamente a las líneas laterales de individuales y equidistante a ellas.
+cada línea de fondo se divide en dos por una marca central de 10 cm de longitud, que se traza dentro de la pista y es paralela a las líneas laterales de individuales. la línea central de servicio y la marca central son de 5 cm de anchura. las otras líneas de la pista son de entre 2,5 y 5 cm de anchura, excepto las líneas de fondo que pueden ser de hasta 10 cm de anchura. todas las medidas de la pista se toman por la parte exterior de las líneas. todas las líneas de la pista tienen que ser del mismo color para que contrasten claramente con el color de la superficie.
+
+
+=== la red ===
+la pista está dividida en su mitad por una red suspendida de una cuerda o un cable metálico cuyos extremos están fijados a la parte superior de dos postes o pasan sobre la parte superior de dos postes a una altura de 1,07 metros. la red está totalmente extendida de manera que llena completamente el espacio entre los dos postes de la red y la malla es de un entramado lo suficientemente pequeño para que no pase la pelota de tenis. la altura en el centro de la red es de 0,914 m, en donde está sostenida mediante una faja. hay una banda cubriendo la cuerda o el cable metálico y la parte superior de la red. la faja y la banda son blancas por todas partes. el diámetro máximo de la cuerda o cable metálico es de 8 mm. la anchura máxima de la faja es de 5 cm. la banda es de entre 5 y 6,35 cm de anchura a cada lado.
+para los partidos de dobles, los centros de los postes de la red están situados a 0,914 metros afuera de cada lado de la línea de dobles. para los partidos de individuales, si se usa una red de individuales, los centros de los postes de la red están a 0,914 m fuera de cada lado de la línea de individuales. si se usa una red de dobles, entonces la red se sostiene a una altura de 1,07 m mediante soportes denominados palos de individuales, cuyos centros están a 0,914 m afuera de cada lado de la línea de individuales.
+los postes de la red no pueden ser de más de 15 centímetros de diámetro. los palos de individuales no pueden ser mayores que un cuadrado de 7,5 cm por lado o 7,5 cm de diámetro. los postes de la red y los palos de individuales no pueden sobresalir más de 2,5 cm por encima de la cuerda de la red.
+
+
+=== puntuación ===
+un partido de tenis está compuesto por parciales (sets en inglés). el primero en ganar un número determinado de parciales es el ganador. cada parcial está integrado por juegos. en cada juego hay un jugador que saca, el cual se va alternando. a su vez, los juegos están compuestos de puntos, que son 15,30,40.
+el primero en ganar 6 juegos con una diferencia mínima de 2 con respecto a su rival es el ganador del set; en caso de que ninguno de los dos jugadores o equipos tenga una ventaja de dos juegos al llegar a seis, gana el set el primero que logre una diferencia de 2 juegos o más. la cuenta de los puntos es bastante particular: cuando un jugador gana su primer punto, su tanteador es 15, cuando gana 2 puntos, 30, y cuando gana 3 puntos, 40. por ejemplo, si el sacador de ese juego lleva ganados 3 puntos y el receptor 1 punto, el marcador es de 40-15. siempre se nombra en primer lugar la puntuación del sacador. cuando ambos jugadores empatan a 40 se dice que hay deuce o «iguales». el primer jugador o equipo que gane un punto después del deuce logra una «ventaja», y, en caso de ganar el siguiente punto, se lleva el juego, de lo contrario se vuelve a estar en deuce hasta que se logre la diferencia de dos puntos.
+el jugador que se lleva el parcial es el que consigue hacer 6 juegos, con una diferencia de 2, o 7 si ha habido un empate a 5 juegos. en caso de que un jugador llegue a 6 juegos, pero con diferencia de 1 (6-5) habrá que seguir hasta que alguno consiga la diferencia apropiada.
+
+
+==== tie break ====
+si el reglamento del torneo establece un tope de juego, o sea si hay un empate entre dos jugadores en un set entonces habría que jugar un juego especial denominado tie-break, «juego decisivo» o «desempate». en el cual el resultado se decide mediante puntos correlativos (uno-cero, dos-cero, tres-cero, etc.) hasta llegar a 7 tantos, con diferencia de 2. si se llega a 7 puntos sin diferencia de 2 (por ejemplo: 7-6), el juego se prolongará hasta que uno de los dos jugadores obtenga dicha diferencia y consiga la victoria. la anotación de un set que se ha decidido en el tie break será 7-6. acompañada abreviadamente por el número de puntos obtenidos por el perdedor del mismo entre paréntesis. p. e. si el jugador perdió el juego decisivo por 7-3 la anotación del set será: 7-6 (3).
+
+
+==== origen del tanteo ====
+la inusual y exclusiva forma de anotar el tanteo en tenis (y otros deportes de raqueta inspirados en él) proviene del sistema sexagesimal. al parecer, antiguamente el tanteo de cada juego se llevaba con un reloj y por cada punto obtenido se movía la aguja un cuarto de vuelta. así con el primer punto la aguja se desplazaba al 15, con el segundo al 30, con el tercero al 45 y con el cuarto se cerraba el círculo y se concluía el juego. con el tiempo y por economía del lenguaje, el parcial "45" se convirtió en "40", dando origen al actual modo de llevar el tanteo: 15, 30, 40 y juego.
+
+
+== técnica ==
+el tenis es un deporte que requiere que los jugadores dominen técnicas como son: golpes, empuñaduras, efectos, posiciones corporales y desplazamientos, además de necesitarse resistencia física para aguantar peloteos largos.
+
+
+=== golpes ===
+durante el partido se utilizan muchos tipos de golpes, cada uno con sus respectivas técnicas; los golpes son: el saque, la derecha (drive), el revés, el globo, la volea, el slice, la dejada y el remate (smash).
+
+
+==== saque ====
+el saque es el golpe más importante del tenis, ya que este da comienzo al punto, y su correcta aplicación puede permitir a la persona que saca quedar en una posición de ventaja tras la devolución o bien lograr un saque ganador o ace (punto ganado sin que el rival impacte la pelota), o que tras el impacto del adversario la pelota no llegue a pasar la red o esta se vaya fuera de los límites de los ejes (en cuyo caso no se denomina ace, sino punto de saque). al tener buen saque, el tenista aprende a acabar mejor los golpes efectuados sin que la bola toque suelo y pudiendo dificultarle al contrincante marcarle un punto después de que le hagan una cortada.
+el segundo saque suele realizarse buscando mayor seguridad en el resultado. para ello suelen hacerse saques liftados, cortados o con kick para provocar la mayor dificultad al rival, ya que esos saques suelen ser peligrosos al cambiar la dirección de la bola o la rapidez después del bote. uno de los cambios de como se hace cada saque es que el cortado, intenta hacer que la bola corra por las cuerdas de un lado al otro de la raqueta en posición vertical, y el liftado es igual pero en forma horizontal.
+entre los mejores sacadores de la denominada era abierta se encuentran los croatas goran ivanicevic e ivo karlovic, los estadounidenses pete sampras, andy roddick y john isner, el neerlandés richard krajicek, y el canadiense milos raonic.
+
+
+==== derecha o drive ====
+el drive o derecha es el golpe básico. consiste en golpear la pelota después del bote, de forma directa, del mismo lado del brazo hábil del jugador. para la mayoría de los jugadores es el arma principal para ganar un punto y el de mayor control.
+para realizar un correcto drive, se debe estar perfilado a la pelota; en el caso de un diestro, el golpe empieza en el lado derecho del cuerpo, continuando a través del mismo hasta impactar la pelota y terminando en la parte izquierda del cuerpo.
+el impacto debe darse en la zona comprendida entre hombro y cadera, y el movimiento se realiza de abajo hacia arriba. una vez que la pelota impacta en la raqueta, el tenista pasa el brazo derecho hacia adelante cerrando el golpe. en el momento que llega la pelota en altura, el tenista toma la decisión de dar un golpe potente o cruzarla a algún lado.
+es el golpe más fácil de aprender, al ser también el más natural.
+
+
+==== volea ====
+la volea o golpe de aire es el golpe que se realiza antes que la pelota rebote en el suelo. es ejecutado normalmente cerca de la red para definir un punto. debido a la mayor cercanía del jugador al contrincante, es un golpe que requiere ser realizado con gran velocidad y reflejo. la raqueta debe encontrarse en todo momento al frente y alto. el golpe se realiza llevando adelante el pie opuesto al lado donde se va a impactar la pelota, simultáneamente con el perfilado del cuerpo, de modo que la raqueta pueda hacer un breve movimiento hacia atrás para impactar la pelota adelante y de arriba hacia abajo, aprovechando la fuerza que la propia pelota trae, en lo posible sin aplicar energía extra y sin flexionar la muñeca. el golpe que se utiliza para llegar a la red en una jugada se denomina approach según la trayectoria del golpe se realizara sin dificultad
+
+
+==== revés ====
+
+el revés es el golpe al lado opuesto al drive. a pesar de ser un golpe de mecánica natural, suele ser uno de los que más cuesta llegar a dominar cuando se empieza en el tenis. es muy importante la posición del cuerpo, que debe ser colocado de perfil, utilizándose como técnica para ello, bajar el hombro para apuntarlo en dirección a la red, mientras el brazo derecho en los diestros e izquierdo en los zurdos, pasa sin ser flexionado por debajo del mentón, para ubicarse atrás antes de retornar para impactar la pelota, siempre delante del cuerpo. es importante, al igual que el drive, que el peso del cuerpo se traslade de atrás hacia adelante en el momento de impactar la pelota.
+décadas atrás, el golpe de revés se enseñaba a impactarlo tomando la raqueta con una sola mano (unos grandes exponentes de esta técnica fueron ivan lendl, gustavo kuerten, ken rosewall, guillermo vilas, gastón gaudio, stefan edberg, pete sampras y boris becker. en la actualidad lo son stanislas wawrinka, roger federer y richard gasquet. hoy en día el revés a dos manos está ganando cada vez más terreno: jugadores como rafael nadal, juan martín del potro, novak djokovic y los ya retirados david nalbandián y andré agassi hacen uso de este golpe. vale la pena recordar a jimmy connors y björn borg cuyos golpes de revés a dos manos inspiraron la popularización que actualmente tiene esta forma de golpeo.
+
+
+==== dejada ====
+la dejada o drop shot (del inglés drop, ‘dejar caer’) es un golpe en el que se le resta potencia a la pelota con la intención de que caiga lo más cerca posible de la red, del lado contrario. se realiza habitualmente de drive, aunque es posible hacerlo también de revés. la preparación del golpe es similar a la preparación del drive (o revés), debiendo realizarse en el último momento, para sorprender al contrincante, que espera un tiro al fondo. al momento del impacto, en lugar de realizarse el swing amplio, la raqueta debe caer de manera perpendicular a la pelota, con un giro de muñeca, para producir el efecto de goteo que hará a la pelota caer y pasar bien la red.
+se utiliza generalmente cuando el tenista rival se encuentra muy por detrás del fleje del fondo de la pista, y no es un golpe que se deba utilizar con mucha regularidad, ya que el objetivo es sorprender al rival.
+resulta vital que el golpe sea bajo y corto, para así evitar que el contrincante llegue a la pelota antes del segundo bote, porque de lo contrario le quedará un fácil golpe cerca de la red. simultáneamente el jugador puede acercarse a la red para prevenir una contradejada.
+
+
+==== contradejada ====
+la contradejada es la respuesta a una dejada, a la que el jugador llega poco antes del segundo rebote. como habitualmente la pelota se encuentra muy baja y cerca de la red, no es posible recurrir a un golpe potente, por lo cual, el jugador solo tiene la opción de realizar un golpe suave sobre el fondo, es decir, una nueva dejada de respuesta, esta vez realizada desde cerca de la red.
+
+
+==== remate o smash ====
+
+el smash o remate es un golpe que es realizado sobre la cabeza con un movimiento similar al saque. generalmente se puede golpear con gran fuerza de manera relativamente segura y es a menudo un tiro definitorio. la mayoría son realizados cerca de la red o a mitad de la pista antes del pique de la pelota. suele ser la respuesta a un globo realizado por el oponente que no tuvo la suficiente altura. también puede realizarse desde la línea de base tras el pique, aunque es menos definitorio. es un golpe alto, realizado de arriba hacia abajo, antes de que la pelota bote, o después de que lo haga, pero únicamente en caso de que este lleve una parábola más vertical que horizontal. para que sea efectivo, es indispensable que sea muy potente y que no dé oportunidad de respuesta al contrario, ya que se trata siempre de un golpe de definición. se realiza cuando la pelota viene muy alta, a la altura del brazo extendido del jugador.
+el golpe se prepara perfilando el cuerpo, llevando la raqueta hacia atrás y colocándola detrás de la nuca, mientras la mano libre apunta a lo alto, hacia la pelota. en el momento del impacto, el pie trasero pasa hacia adelante, al mismo tiempo que la raqueta sale de atrás el cuerpo en un movimiento similar al del saque. al momento de impactar la pelota, la muñeca debe flexionarse hacia abajo, terminando el golpe de manera similar al saque. la pelota tiene que rebotar antes de que el contrario la devuelva.
+
+
+==== globo ====
+
+el globo es un golpe sencillo que se utiliza para pasar la bola por encima del jugador contrario. se ejecuta tanto de drive como de revés. incluso existe (su uso no es tan frecuente) la volea globeada. su ejecución consiste en impactar hacia arriba la pelota (a diferencia de las demás ejecuciones que se hacen hacia adelante); con esto se logra pasar a un jugador que está parado en la zona de la volea o bien hacer un juego defensivo de fondo.
+
+
+==== slice ====
+el slice es un golpe muy efectivo para defender, se toma la raqueta en empuñadura continental y se golpea de forma que el "swing" de la raqueta es transversal conforme a la pelota. esto le da un poco de "backspin" y hace que la bola sea muy baja y profunda.
+
+
+=== efectos sobre la pelota ===
+el desarrollo de la técnica ha llevado a aplicar con diferentes modos de golpe, diferentes efectos sobre la pelota, de tal modo que dichos efectos y las consiguientes variaciones de trayectoria y velocidad dificulten la devolución del rival. los mismos se obtienen con diferentes empuñaduras y formas de impactar la pelota.
+cada uno de los golpes, con sus respectivas trayectorias según el efecto aplicado sobre la pelota y sus respectivos tipos de bote contra la superficie aparecen explicados a continuación.
+
+
+==== golpe liftado ====
+
+el golpe liftado o con top spin (literalmente en inglés ‘efecto desde arriba’) se ejecuta mediante la aplicación de una trayectoria de la raqueta anterior y posterior al golpeo (swing) de abajo hacia arriba. antes del impacto con la pelota, la cabeza de la raqueta está por debajo de la trayectoria de la misma y, tras el impacto, el swing finaliza por encima de esa altura. este golpe impone a la bola un efecto de rotación hacia adelante, que hace que tras el bote, esta salga despedida hacia arriba y hacia adelante, obligando al rival a golpear bien a una altura superior a la normal -muchas veces por encima del hombro-, lo cual le impide ejecutar un golpe agresivo, o bien le obliga a "atacar" la pelota en su trayecto ascendente tras el bote, lo que implica un mayor riesgo de error. este tipo de golpe es el más usado, pues tiene, además, la ventaja para el jugador que lo ejecuta de ofrecerle un "margen de seguridad" más amplio, puesto que la trayectoria que se le impone a la pelota es más elíptica y esta pasa a una mayor altura sobre la red que con el golpeo plano o el cortado.
+el motivo por el cual logramos imprimir una velocidad angular es la fricción que existe (durante un período muy pequeño) entre la pelota y las cuerdas de la raqueta, estas últimas, colisionan casi tangencialmente respecto de la pelota. esto último es lo que produce un momento de la fuerza sobre la pelota, la cual pasa a tener energía cinética de traslación + energía cinética de rotación. dicha velocidad angular supone una fricción aerodinámica de modo que la pelota va empujando (por su parte posterior) constantemente el aire que se le presenta como obstáculo hacia arriba (la fluidodinámica de bernouilli demuestra este suceso), por la 3ª ley de newton (acción-reacción), la pelota recibe la misma respuesta por parte del viento pero de sentido contrario. por esto mismo, la pelota adoptará una trayectoria parabólica mucho más pronunciada que en el caso de una colisión plana con las cuerdas.
+finalmente, la velocidad angular que aún conserve la pelota al colisionar con la superficie, se verá reducida considerablemente por la fricción estática con el suelo, haciendo una fuerza hacia atrás, y de nuevo por la tercera ley de newton, el suelo se la devolverá en sentido pitido contrario
+
+
+==== golpe cortado ====
+
+el cortado (en inglés «slice», ‘cortar en rebanadas’, o «backspin», ‘rotar hacia atrás’), es el efecto inverso al liftado: la pelota adquiere una rotación «hacia atrás» que la lleva a adoptar una trayectoria más baja al botar, obligando al contrario a tener que impactarla más bajo. el efecto se obtiene impactando a la pelota desde arriba y estirando el brazo como si se atravesara la pelota y se la siguiera en su recorrido. esto hace que la bola rote de arriba a abajo vista desde atrás (nótese que esto no cambia el sentido de rotación de la bola si el oponente puso efecto liftado a la suya). debido al efecto magnus, que en este caso imprime una fuerza neta a la bola dirigida hacia arriba, un golpe cortado hace que la pelota parezca «flotar» y viaje más lenta. la menor velocidad de la pelota hace que uno de los usos del cortado sea para tener más tiempo de volver a ponerse en posición o acercarse a la red.
+
+
+==== golpe plano ====
+el golpe plano es aquel que se realiza sin imprimirle ningún efecto a la pelota. en general es muy efectivo cuando se realiza desde una altura mayor a la red, de arriba hacia abajo.
+los golpes que pueden ejecutarse de esta manera son el drive, el revés, el saque y la volea (esta debe ejecutarse de manera plana «siempre», exceptuando las veces que la volea se quiera muy suave, es decir, haciendo un drop shot de volea).
+
+
+== clasificaciones ==
+
+en la actualidad los jugadores están ordenados en un tipo de clasificación llamado "sistema de entradas" (entry ranking), en el cual se suman los puntos obtenidos por los jugadores en las últimas 52 semanas, o sea, aproximadamente un año. por lo tanto, al finalizar cada semana, se le restan a cada jugador los puntos obtenidos en esa misma semana del año anterior, y se le suman los ganados en la semana actual.
+
+
+=== atp ===
+
+la atp (asociación de tenistas profesionales) es el organismo directivo del circuito masculino de tenis profesional a nivel mundial. el circuito tiene 66 torneos en 32 países que reparten entre 20 millones y 0,325 millones de dólares en premios. la atp también organiza los torneos challenger, donde muchos de los jóvenes jugadores ganan sus primeros partidos y torneos. cada año se organizan alrededor de 90 eventos a nivel mundial y sus premios en metálico varían entre 50 000 y 125 000 dólares.
+los puntos se consiguen en función de la categoría del torneo y la posición resultante en él. los torneos más valorados son los cuatro grand slams, seguido de la barclays atp world tour finals y las atp master series. la siguiente tabla resume las puntuaciones otorgadas en 2009:
+
+
+==== clasificación de individuales masculino ====
+el suizo roger federer fue el número uno del mundo desde el 3 de febrero de 2004 hasta el 17 de agosto de 2008, estableciendo un récord de 237 semanas consecutivas al frente del atp ranking. el español rafael nadal, que escoltó al suizo durante 160 semanas desde el 25 de julio de 2005, cuando ocupó el número dos, se convirtió en el número uno del mundo desde el 18 de agosto de 2008 hasta el 5 de julio de 2009, fecha en que roger federer volvió a ocupar el primer lugar tras ganar su sexto wimbledon en 2009.
+rafa nadal recuperó el número uno tras ganar el trofeo de roland garros de 2010 a robin soderling quedando roger federer en el número dos. después del us open 2010, roger federer pasa a ocupar el puesto tres y novak đoković sube hasta el puesto número dos. nadal se mantuvo en el primer lugar hasta wimbledon de 2011 en donde djokovic derrotó en la final a rafa y le arrebató el número uno del ranking mundial. después de ganar la final contra andy murray en wimbledon 2012, federer recupera el número uno después de dos años, superando a pete sampras en semanas como número uno. después de noviembre de 2012, novak đoković vuelve a ocupar el primer lugar hasta finales del año 2013 donde rafael nadal vuelve a ser número uno, posteriormente en julio de 2014 novak đoković recupera el número uno luego de disputarse la final de wimbledon con roger federer quien se queda con el número tres, dejando a rafael nadal en segundo lugar.
+
+
+==== carrera de campeones ====
+desde enero de 2000 existe una clasificación paralela, llamada carrera de campeones (atp champions race), en la cual se suman los puntos conseguidos en los torneos del año en curso, sin contar puntos del año anterior, y se utilizaba para completar la lista de clasificados a la atp world tour finals (los ganadores de los 4 torneos de grand slam se clasifican automáticamente).
+para aquellos tenistas ubicados en el top 30, se suman los puntos obtenidos en los cuatro torneos de grand slam, los nueve torneos de la serie masters y cinco torneos adicionales, incluido la participación en copa davis de aquellos jugadores que participen en el grupo mundial o en los play off. en caso de no haber actuado en algún torneo de grand slam o de la serie masters, el jugador sumaba los puntos obtenidos en algún torneo de la serie internacional.
+la carrera de campeones refleja el desempeño de los jugadores en el año que está en curso. a final de temporada las clasificaciones de ambos ránkings son muy similares especialmente en los primeros puestos, encontrándose algunas diferencias ya que los torneos challenger y future no suman puntos en la carrera de campeones pero si en el ranking atp.
+desde 2009 cambia el nombre para la clasificación de dobles, denominándose atp doubles team rankings.
+
+
+=== wta ===
+
+la wta (asociación femenina de tenis) (en inglés, women's tennis association), es la organización que rige los torneos y el circuito profesional del tenis femenino a nivel mundial. a modo comparativo, la wta es al tenis femenino lo que la atp al tenis masculino. la asociación organiza el calendario y designa las sedes oficiales de los torneos del circuito femenino, también llamado como wta tour.
+en 2005 la asociación femenina de tenis cambió el nombre del wta tour por el de the sony ericsson wta tour debido a un contrato firmado de patrocinio con la firma nipona-sueca de teléfonos móviles y accesorios, sony ericsson.
+
+
+==== clasificación de individuales femenino ====
+martina navratilova resalta por ser una de las mejores tenistas femeninas de la historia, llegando a acumular 128.550 puntos en el sistema de clasificación histórica hasta su retiro en 2006. martina superó las marcas de chris evert y steffi graf quienes compitieron hasta 1989 y 1999 respectivamente. otras tenistas destacadas en el ranking femenino en la historia han sido margaret smith court, billie jean king, helen wills moody, suzanne lenglen, evonne goolagong, martina hingis y mónica seles.
+
+
+== marcas ==
+las principales marcas del tenis son:
+el partido más largo de la historia fue el encuentro disputado en campeonato de wimbledon 2010 entre el francés nicolás mahut y el estadounidense john isner con una duración de 11 horas y 5 minutos. john isner se llevó el partido de tenis más largo de la historia (6-4, 3-6, 7-6, 6-7 y 70-68). isner y mahut siguieron la misma tónica que los dos días anteriores. muy sólidos con su saque, se plantaron del 59-59 hasta el 68-68 sin conceder ningún 'break-point'.
+la marca del saque más rápido masculino la sustenta el australiano samuel groth con una velocidad de 263 km/h, en el challenger de busan 2012. la anterior plusmarca era de ivo karlovic con una velocidad de 251 km/h, en la copa davis 2011. mientras que venus williams mantiene la marca femenina con 130 mph (209 km/h) realizado en zurich en 2008.
+guillermo vilas mantiene la marca masculina de la mayor cantidad de victorias consecutivas. desde 1977 son 46.
+
+helen wills moody (1905-1998) mantiene la marca femenina con 158 victorias consecutivas, obtenidas entre 1927 y 1933.
+la final más larga de un grand slam se dio en el abierto de australia 2012, la cual duró 5 horas con 53 minutos. la final la disputaron el serbio novak djokovic y el español rafael nadal. la victoria fue para el serbio en cinco sets.
+roger federer es el tenista con mayor cantidad de títulos de grand slam ganados en la categoría masculina (17 hasta la fecha), y mayor tiempo como número uno del ranking mundial atp con 302 semanas acumuladas. además ostenta el récord de haber ganado el masters tennis cup (copa de maestros) -actualmente conocido como atp world tour finals- proclamándose campeón en 6 ocasiones. margaret court es la tenista con mayor cantidad de títulos de grand slam ganados en la categoría femenina y en la historia del tenis (24 en total), court actualmente es una tenista inactiva y entre las jugadoras activas serena williams es la tenista con mayor cantidad de títulos de grand slam ganados (21 hasta la fecha).
+rafael nadal es el único tenista de la historia en ganar 9 torneos del mismo grand slam (roland garros 2005-2008, 2010-2014).
+steffi graf es la única tenista en obtener un golden slam en un año, en 1988.
+
+
+== véase también ==
+ portal:tenis. contenido relacionado con tenis.
+federación internacional de tenis
+asociación de tenistas profesionales
+anexo:tenistas con más partidos ganados en la atp
+anexo:ranking atp de tenistas individual masculino
+anexo:récords del atp world tour
+grand slam
+tenis en los juegos olímpicos
+pista de tenis
+frontenis
+tenis de mesa
+tenis playa
+bádminton
+padbol
+pádel
+chaza
+
+
+== referencias ==
+
+
+== enlaces externos ==
+ wikimedia commons alberga contenido multimedia sobre teniscommons.
+ wikinoticias tiene noticias relacionadas con tenis.wikinoticias
+ wikcionario tiene definiciones y otra información sobre tenis.wikcionario
+federación internacional de tenis (en inglés).
+asociación de tenistas profesionales (en inglés).
+asociación de tenistas mujeres profesionales (en inglés).
+reglamento de tenis oficial (actualizado a 2015) (en inglés).
