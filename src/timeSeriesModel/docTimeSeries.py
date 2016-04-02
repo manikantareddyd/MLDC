@@ -2,66 +2,47 @@ from WordToVec import *
 from sklearn.cluster import KMeans
 import math
 import numpy as np
-from hmmlearn import hmm
-class docTimeSeries:
-    def __init__(self,  k):
-        self.wordVecGen = wordVecGen()
-        self.Model      = KMeans(k)
-        self.Model.fit(self.wordVecGen.word_vectors.values())
-        self.hmmModels = {}
-        self.topicSeries = {}
-        self.genSeries()
+from scipy.spatial.distance import *
 
-    def genSeries(self):
+class docSeries:
+    def __init__(self,wordVecGen,k):
+        self.wv = wordVecGen # Generator for Word Vectors
+        # self.Test = Test(wordVecGen, test_list)
+        self.Model = KMeans(k)
+        self.Model.fit(self.wv.word_vectors_all.values())
+        self.languages = self.wv.languages
+        self.topicSeries={}
+        threads = {}
+        for j in self.languages:
+            threads[j]=threading.Thread( target=self.gen, args=(k,j,))
+            print "Sequencing "+j+" docs"
+            threads[j].start()
+            # self.gen(k,j)
+        for j in self.languages:
+            threads[j].join()
+        print "All docs sequenced!"
 
-        #This part for english
-        print "Working on English"
-        stop_en = stopwords.words('english')
-        stop_en = [unicode(i) for i in stop_en ]
-        st_en = LancasterStemmer()
-        for topic in self.wordVecGen.topics_en:
-            f = open('files/'+topic+'.txt','r')
-            content = f.read()
-            f.close()
-            print "Loaded",topic
+    def gen(self,k,j):
+        #This part for English
 
-            # This Part now stems every word in the document loaded and copies it into corpus_en.
-            words_in_topic  = [(st_en.stem(unicode(i))) for i in (re.findall("[a-zA-Z]+", content)) if unicode(i) not in stop_en]
+        threadTopic = {}
+        for topic in self.wv.topics[j]:
+            # self.seriesGen(topic,k,j)
+            threadTopic[topic] =  threading.Thread(target = self.seriesGen, args = (topic,k,j,))
+            threadTopic[topic].start()
 
-            docSeries = []
-            for word in words_in_topic:
-                try:
-                    docSeries.append([self.Model.predict([self.wordVecGen.word_vectors[word]])[0]])
-                except:
-                    pass
-            self.hmmModels[topic] = self.getModel(docSeries)
-            self.topicSeries[topic] = docSeries
+        for topic in self.wv.topics[j]:
+            threadTopic[topic].join()
+            print "Loaded", topic
 
-        #This part is french
-        print "Working on French"
-        stop_fr = stopwords.words('french')
-        stop_fr = [unicode(i) for i in stop_fr ]
-        st_fr = FrenchStemmer()
-        freqDist_fr={}
-        for topic in self.wordVecGen.topics_fr:
-            # Just the Laborious File Loading tasks
-            f=open('files/'+topic+'.txt','r')
-            content=f.read()#content.encode('utf8'))
-            f.close()
-            print "Loaded",topic
+    def seriesGen(self,topic,k,j):
+        series = []
+        [series.append(int(self.Model.predict([self.wv.word_vectors[j][word]])[0])) for word in self.wv.corpus[j][topic]]
 
-            # This Part now stems every word in the document loaded and copies it.
-            words_in_topic = [(st_fr.stem(unicode(i))) for i in (re.findall("[a-zA-Z]+", content)) if unicode(i) not in stop_fr]
+        self.topicSeries[topic]=np.array(series)
 
-            docSeries = []
-            for word in words_in_topic:
-                try:
-                    docSeries.append([self.Model.predict([self.wordVecGen.word_vectors[word]])[0]])
-                except:
-                    pass
-            self.hmmModels[topic] = self.getModel(docSeries)
-            self.topicSeries[topic] = docSeries
-    def getModel(self,series):
-        model = hmm.GaussianHMM(n_components=3, covariance_type="full")
-        model.fit(series)
-        return model
+
+languages = ['en','fr','es'][:2]
+topics_list = ['Adele','Baboon','Chemistry','Energy','pokemon','English_language','French_language','India','Pakistan','Politics','Tennis','The_Beatles','Wikipedia']
+wordVecGen = wordVecGen(topics_list,languages,len(topics_list)/5)
+d=docSeries(wordVecGen,100)
