@@ -72,19 +72,10 @@ class wordVecGen:
             threadTopic[topic].join()
             print "Loaded",topic
 
-
-
         self.words[k] = list(set(self.words[k]))
 
-        wordThreads = {}
         for word in self.words[k]:
-            # self.vectorGen(k,word)
-            wordThreads[word] = threading.Thread(target = self.vectorGen, args=(k,word,))
-            wordThreads[word].start()
-
-        for word in self.words[k]:
-            wordThreads[word].join()
-
+            self.vectorGen(k,word)
 
     def vectorGen(self,k,word):
         vec=[]
@@ -162,6 +153,8 @@ class Test:
         for k in self.languages:
             threads[k].join()
 
+        print "Loaded Topics in Test set\n"
+
     def gen(self,k):
         self.words[k] = []
         stop = self.stop[k]
@@ -180,12 +173,12 @@ class Test:
 
         wordThreads = {}
         for word in self.words[k]:
-            # self.vectorGen(k,word)
-            wordThreads[word] = threading.Thread(target = self.vectorGen, args=(k,word,))
-            wordThreads[word].start()
-
-        for word in self.words[k]:
-            wordThreads[word].join()
+            self.vectorGen(k,word)
+        #     wordThreads[word] = threading.Thread(target = self.vectorGen, args=(k,word,))
+        #     wordThreads[word].start()
+        #
+        # for word in self.words[k]:
+        #     wordThreads[word].join()
 
 
     def vectorGen(self,k,word):
