@@ -118,44 +118,45 @@ class wordVecGen:
 class Test:
     def __init__(self,wordVecGen, test_topics_list):
         if test_topics_list == None:
-            return 0
-        self.wordVecGen = wordVecGen
-        self.languages = self.wordVecGen.languages
-        self.test_topics_all = test_topics_list
-        self.corpus = {}
-        self.test_topics = {}
-        self.word_vectors = {}
-        for k in self.languages:
-            self.test_topics[k] =  [i +'_'+ k for i in self.test_topics_all]
-            self.word_vectors[k] = {}
-            self.corpus[k] = {}
+            self.status = 0
+        else:
+            self.wordVecGen = wordVecGen
+            self.languages = self.wordVecGen.languages
+            self.test_topics_all = test_topics_list
+            self.corpus = {}
+            self.test_topics = {}
+            self.word_vectors = {}
+            for k in self.languages:
+                self.test_topics[k] =  [i +'_'+ k for i in self.test_topics_all]
+                self.word_vectors[k] = {}
+                self.corpus[k] = {}
 
-        self.word_vectors_all = {}
+            self.word_vectors_all = {}
 
-        print "Test Topics Chosen"
-        t = PrettyTable(self.languages)
-        for i in range(len(self.test_topics['en'])):
-            t.add_row([self.test_topics[k][i] for k in self.languages])
-        print t
+            print "Test Topics Chosen"
+            t = PrettyTable(self.languages)
+            for i in range(len(self.test_topics['en'])):
+                t.add_row([self.test_topics[k][i] for k in self.languages])
+            print t
 
-        self.words = {}
+            self.words = {}
 
-        # self.shortlang = {'en':['english',LancasterStemmer] , 'fr':['french',FrenchStemmer]}
-        self.language = {'en':'english','fr':'french','es':'spanish'}
-        self.stop = {}
-        for k in self.languages:
-            self.stop[k] = stopwords.words(self.language[k])
-        # Now lets Generate
+            # self.shortlang = {'en':['english',LancasterStemmer] , 'fr':['french',FrenchStemmer]}
+            self.language = {'en':'english','fr':'french','es':'spanish'}
+            self.stop = {}
+            for k in self.languages:
+                self.stop[k] = stopwords.words(self.language[k])
+            # Now lets Generate
 
-        threads = {}
-        for k in self.languages:
-            threads[k]=threading.Thread( target=self.gen, args=(k,))
-            threads[k].start()
-            # self.gen(k)
-        for k in self.languages:
-            threads[k].join()
+            threads = {}
+            for k in self.languages:
+                threads[k]=threading.Thread( target=self.gen, args=(k,))
+                threads[k].start()
+                # self.gen(k)
+            for k in self.languages:
+                threads[k].join()
 
-        print "Loaded Topics in Test set\n"
+            print "Loaded Topics in Test set\n"
 
     def gen(self,k):
         self.words[k] = []
