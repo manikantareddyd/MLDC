@@ -7,7 +7,7 @@ from nltk.stem.snowball import FrenchStemmer
 from nltk.stem import *
 import math
 import threading
-
+# from multithreading.Threading import threading.Thread
 class wordVecGen:
     def __init__(self,topics_list,languages,tmp):
         # Initializations...
@@ -117,6 +117,8 @@ class wordVecGen:
 
 class Test:
     def __init__(self,wordVecGen, test_topics_list):
+        if test_topics_list == None:
+            return 0
         self.wordVecGen = wordVecGen
         self.languages = self.wordVecGen.languages
         self.test_topics_all = test_topics_list
