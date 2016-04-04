@@ -107,7 +107,7 @@ class wordVecGen:
         # Current Function: exp(frequency/(1+max(frequencies)))
         maxval = max(self.freqDist[k][topic].values())
         sumval = sum(self.freqDist[k][topic].values())
-        self.freqDist[k][topic]={x:math.exp(self.freqDist[k][topic][x]/(1.0+1.0*maxval)) for x in self.freqDist[k][topic].keys()}
+        self.freqDist[k][topic]={x:math.exp(self.freqDist[k][topic][x]/(1.0*sumval)) for x in self.freqDist[k][topic].keys()}
 
         # Add all the words in the current document to all words list
         self.words[k] += self.freqDist[k][topic].keys()
@@ -214,8 +214,8 @@ class Test:
 
         # Applying a term frequency function... A factor to be experimented on...
         # Current Function: exp(frequency/(1+max(frequencies)))
-        maxval = max(self.freqDist[k][test_topic].values())
-        sumval = sum(self.freqDist[k][test_topic].values())
+        # maxval = max(self.freqDist[k][test_topic].values())
+        # sumval = sum(self.freqDist[k][test_topic].values())
         # self.freqDist[k][test_topic]={x:math.exp(self.freqDist[k][test_topic][x]/(1.0+1.0*maxval)) for x in self.freqDist[k][test_topic].keys()}
 
         # Add all the words in the current document to all words list

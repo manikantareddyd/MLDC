@@ -4,15 +4,22 @@ import math
 import numpy as np
 from scipy.spatial.distance import *
 from sklearn.neighbors import NearestNeighbors
+from sklearn.cluster import MeanShift, estimate_bandwidth
 # from multithreading.Threading import threading.Thread
 class docVector:
-    def __init__(self,wordVecGen, topics_list,Test,test_list,k):
+    def __init__(self,wordVecGen,topics_list,Test,test_list,k):
         self.wv = wordVecGen # Generator for Word Vectors
         self.Test = Test
         for j in self.wv.languages:
             self.wv.topics[j]=[topic+'_'+j for topic in topics_list]
+        print "Building Model"
+        # bandwidth = estimate_bandwidth(np.array(self.wv.word_vectors_all.values()))
+        # print "bandwidth:",bandwidth
         self.Model = KMeans(k)
+
         self.Model.fit(self.wv.word_vectors_all.values())
+        print "Model Built"
+        # k = len(self.Model.cluster_centers_)
         self.languages = self.wv.languages
         self.topicVectors={}
         self.topicVectorsTrain={}
@@ -47,8 +54,10 @@ class docVector:
     def vectorGenTrain(self,topic,k,j):
         vector = [0 for x in range(k)]
         for word in self.wv.corpus[j][topic]:
-            vector[self.Model.predict([self.wv.word_vectors[j][word]])[0]]+=1.0*self.wv.freqDist[j][topic][word]
-        vector = [math.exp((1+vector[x])/(1.0+1.0*max(vector))) for x in range(k)]
+            label = self.Model.predict([self.wv.word_vectors[j][word]])[0]
+            if label != -1:
+                vector[label]+=1.0*self.wv.freqDist[j][topic][word]
+        vector = [math.exp((1+vector[x])/(1.0*sum(vector))) for x in range(k)]
         self.topicVectorsTrain[topic]=np.array(vector)
 
     def genTest(self,k,j):
@@ -65,6 +74,8 @@ class docVector:
     def vectorGenTest(self,topic,k,j):
         vector = [0 for x in range(k)]
         for word in self.Test.corpus[j][topic]:
-            vector[self.Model.predict([self.Test.word_vectors[j][word]])[0]]+=1.0*self.Test.freqDist[j][topic][word]
-        vector = [math.exp((1+vector[x])/(1.0+1.0*max(vector))) for x in range(k)]
+            label = self.Model.predict([self.Test.word_vectors[j][word]])[0]
+            if label != -1:
+                vector[label]+=1.0*self.Test.freqDist[j][topic][word]
+        vector = [math.exp((1+vector[x])/(1.0*sum(vector))) for x in range(k)]
         self.topicVectors[topic]=np.array(vector)

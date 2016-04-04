@@ -3,15 +3,18 @@ from doc2vec import *
 languages = ['en','fr','es']
 topics_list = ['Adele','Baboon','Chemistry','Energy','pokemon','English_language','French_language','India','Pakistan','Politics','Tennis','The_Beatles','Wikipedia']
 test_list = ['India_test','Pokemon_test']
-loo = len(topics_list)-3
+loo = len(topics_list)
 topics_list = topics_list[:loo]
 
 # All the generation
 # wordVecGen = wordVecGen(topics_list,languages,loo)
 # This is load wordVecGen directly. We don't compute it again and again
 import pickle
-f=open('word2vec.pkl','rb')
+
+
+f=open('word2vec-sum-norm.pkl','rb')
 wordVecGen = pickle.load(f)
+# pickle.dump(wordVecGen,f,protocol=pickle.HIGHEST_PROTOCOL)
 f.close()
 Test = Test(wordVecGen, test_list)
 d=docVector(wordVecGen,topics_list,Test,test_list,40)
