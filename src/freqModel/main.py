@@ -2,8 +2,8 @@ from doc2vec import *
 # Declarations
 languages = ['en','fr','es']
 topics_list = ['Adele','Baboon','Chemistry','Energy','pokemon','English_language','French_language','India','Pakistan','Politics','Tennis','The_Beatles','Wikipedia']
-test_list = ['pokemon','Energy','Tennis']
-loo = len(topics_list)
+test_list = ['India_test','Pokemon_test']
+loo = len(topics_list)-3
 topics_list = topics_list[:loo]
 
 # All the generation
@@ -13,9 +13,8 @@ import pickle
 f=open('word2vec.pkl','rb')
 wordVecGen = pickle.load(f)
 f.close()
-
 Test = Test(wordVecGen, test_list)
-d=docVector(wordVecGen,Test,test_list,40)
+d=docVector(wordVecGen,topics_list,Test,test_list,40)
 
 #Empty lists
 X_train=[]
