@@ -187,15 +187,19 @@ class Test:
 
 
     def vectorGen(self,k,word):
-        vec=[]
-        for topic in self.wordVecGen.topics[k]:
-            try:
-                # if unicode(word) in self.freqDist[k][topic]: print "LOL"
-                vec.append(self.wordVecGen.freqDist[k][topic][unicode(word)])
-                # print 'app'
-            except:
-                vec.append(0)
-        self.word_vectors[k][word] = vec
+        # vec=[]
+        # for topic in self.wordVecGen.topics[k]:
+        #     try:
+        #         # if unicode(word) in self.freqDist[k][topic]: print "LOL"
+        #         vec.append(self.wordVecGen.freqDist[k][topic][unicode(word)])
+        #         # print 'app'
+        #     except:
+        #         vec.append(0)
+        # self.word_vectors[k][word] = vec
+        try:
+            self.word_vectors[k][word] = self.wordVecGen.word_vectors_all[unicode(word)]
+        except:
+            pass
 
     def load(self,test_topic,k, stop):
         f=open('files/test/'+test_topic+'.txt','r')

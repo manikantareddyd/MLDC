@@ -5,31 +5,30 @@ import numpy as np
 from scipy.spatial.distance import *
 from sklearn.neighbors import NearestNeighbors
 from sklearn.cluster import MeanShift, estimate_bandwidth
-# from multithreading.Threading import threading.Thread
+
 class docVector:
     def __init__(self,wordVecGen,topics_list,Test,test_list,k):
-        self.wv = wordVecGen # Generator for Word Vectors
+        self.wv = wordVecGen
         self.Test = Test
         for j in self.wv.languages:
             self.wv.topics[j]=[topic+'_'+j for topic in topics_list]
         print "Building Model"
-        # bandwidth = estimate_bandwidth(np.array(self.wv.word_vectors_all.values()))
-        # print "bandwidth:",bandwidth
         self.Model = KMeans(k)
-
         self.Model.fit(self.wv.word_vectors_all.values())
         print "Model Built"
-        # k = len(self.Model.cluster_centers_)
         self.languages = self.wv.languages
         self.topicVectors={}
         self.topicVectorsTrain={}
         threads = {}
-
-        for j in self.languages:
-            threads[j+'Train']=threading.Thread(target=self.genTrain, args=(k,j,))
-            threads[j+'Train'].start()
-        for j in self.languages:
-            threads[j+'Train'].join()
+        useMultiThread =True
+        if useMultiThread == True:
+            for j in self.languages:
+                threads[j+'Train']=threading.Thread(target=self.genTrain, args=(k,j,))
+                threads[j+'Train'].start()
+            for j in self.languages:
+                threads[j+'Train'].join()
+        else:
+            self.genTrain(k,j)
         print "\nTraining Set Done\n"
 
         if test_list != None :
@@ -63,7 +62,6 @@ class docVector:
     def genTest(self,k,j):
         threadTopic = {}
         for topic in self.Test.test_topics[j]:
-            # self.vectorGen(topic,k,j)
             threadTopic[topic] =  threading.Thread(target = self.vectorGenTest, args = (topic,k,j,))
             threadTopic[topic].start()
 
@@ -74,8 +72,11 @@ class docVector:
     def vectorGenTest(self,topic,k,j):
         vector = [0 for x in range(k)]
         for word in self.Test.corpus[j][topic]:
-            label = self.Model.predict([self.Test.word_vectors[j][word]])[0]
-            if label != -1:
-                vector[label]+=1.0*self.Test.freqDist[j][topic][word]
+            try:
+                label = self.Model.predict([self.Test.word_vectors[j][word]])[0]
+                if label != -1:
+                    vector[label]+=1.0*self.Test.freqDist[j][topic][word]
+            except:
+                pass
         vector = [math.exp((1+vector[x])/(1.0*sum(vector))) for x in range(k)]
         self.topicVectors[topic]=np.array(vector)

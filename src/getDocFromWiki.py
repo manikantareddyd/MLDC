@@ -8,15 +8,15 @@ for topic in ['Adele','Baboon','Chemistry','Energy','pokemon','English_language'
     soup = BeautifulSoup(urllib2.urlopen('http://en.wikipedia.org/wiki/'+topic), "lxml")
     links = [(el.get('lang'), el.get('title')) for el in soup.select('li.interlanguage-link > a')]
 
-    # This one is for english
-    # wikipedia.set_lang('en')
-    # print "en ",topic
-    # page    = wikipedia.page(topic)
-    # content = page.content.lower()
-    # f=open('files/'+topic+'_en'+'.txt','w')
-    # f.write(content.encode('utf8'))
-    # f.close()
-    languages = ['es']
+    This one is for english
+    wikipedia.set_lang('en')
+    print "en ",topic
+    page    = wikipedia.page(topic)
+    content = page.content.lower()
+    f=open('files/'+topic+'_en'+'.txt','w')
+    f.write(content.encode('utf8'))
+    f.close()
+    languages = ['es','fr']
     for language, title in links:
         if language not in languages:
             continue
