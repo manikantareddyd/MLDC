@@ -7,7 +7,7 @@ from nltk.stem.snowball import FrenchStemmer
 from nltk.stem import *
 import math
 import threading
-
+# from multithreading.Threading import threading.Thread
 class wordVecGen:
     def __init__(self,topics_list,languages,tmp):
         # Initializations...
@@ -81,6 +81,7 @@ class wordVecGen:
         vec=[]
         for topic in self.topics[k]:
             try:
+
                 vec.append(self.freqDist[k][topic][unicode(word)])
             except:
                 vec.append(0)
@@ -106,7 +107,7 @@ class wordVecGen:
         # Current Function: exp(frequency/(1+max(frequencies)))
         maxval = max(self.freqDist[k][topic].values())
         sumval = sum(self.freqDist[k][topic].values())
-        self.freqDist[k][topic]={x:math.exp(self.freqDist[k][topic][x]/(1.0+1.0*maxval)) for x in self.freqDist[k][topic].keys()}
+        self.freqDist[k][topic]={x:math.exp(self.freqDist[k][topic][x]/(1.0*sumval)) for x in self.freqDist[k][topic].keys()}
 
         # Add all the words in the current document to all words list
         self.words[k] += self.freqDist[k][topic].keys()
@@ -117,49 +118,53 @@ class wordVecGen:
 
 class Test:
     def __init__(self,wordVecGen, test_topics_list):
-        self.wordVecGen = wordVecGen
-        self.languages = self.wordVecGen.languages
-        self.test_topics_all = test_topics_list
-        self.corpus = {}
-        self.test_topics = {}
-        self.word_vectors = {}
-        for k in self.languages:
-            self.test_topics[k] =  [i +'_'+ k for i in self.test_topics_all]
-            self.word_vectors[k] = {}
-            self.corpus[k] = {}
+        if test_topics_list == None:
+            self.status = 0
+        else:
+            self.wordVecGen = wordVecGen
+            self.languages = self.wordVecGen.languages
+            self.test_topics_all = test_topics_list
+            self.corpus = {}
+            self.freqDist={}
+            self.test_topics = {}
+            self.word_vectors = {}
+            for k in self.languages:
+                self.test_topics[k] =  [i +'_'+ k for i in self.test_topics_all]
+                self.word_vectors[k] = {}
+                self.corpus[k] = {}
 
-        self.word_vectors_all = {}
+            self.word_vectors_all = {}
 
-        print "Test Topics Chosen"
-        t = PrettyTable(self.languages)
-        for i in range(len(self.test_topics['en'])):
-            t.add_row([self.test_topics[k][i] for k in self.languages])
-        print t
+            print "Test Topics Chosen"
+            t = PrettyTable(self.languages)
+            for i in range(len(self.test_topics['en'])):
+                t.add_row([self.test_topics[k][i] for k in self.languages])
+            print t
 
-        self.words = {}
+            self.words = {}
 
-        # self.shortlang = {'en':['english',LancasterStemmer] , 'fr':['french',FrenchStemmer]}
-        self.language = {'en':'english','fr':'french','es':'spanish'}
-        self.stop = {}
-        for k in self.languages:
-            self.stop[k] = stopwords.words(self.language[k])
-        # Now lets Generate
+            # self.shortlang = {'en':['english',LancasterStemmer] , 'fr':['french',FrenchStemmer]}
+            self.language = {'en':'english','fr':'french','es':'spanish'}
+            self.stop = {}
+            for k in self.languages:
+                self.stop[k] = stopwords.words(self.language[k])
+            # Now lets Generate
 
-        threads = {}
-        for k in self.languages:
-            threads[k]=threading.Thread( target=self.gen, args=(k,))
-            threads[k].start()
-            # self.gen(k)
-        for k in self.languages:
-            threads[k].join()
+            threads = {}
+            for k in self.languages:
+                threads[k]=threading.Thread( target=self.gen, args=(k,))
+                threads[k].start()
+                # self.gen(k)
+            for k in self.languages:
+                threads[k].join()
 
-        print "Loaded Topics in Test set\n"
+            print "Loaded Topics in Test set\n"
 
     def gen(self,k):
         self.words[k] = []
         stop = self.stop[k]
         stop = [unicode(i) for i in stop ]
-
+        self.freqDist[k]={}
         threadTopic = {}
         for topic in self.test_topics[k]:
             # self.load(topic,k,stop)
@@ -182,21 +187,43 @@ class Test:
 
 
     def vectorGen(self,k,word):
-        vec=[]
-        for topic in self.wordVecGen.topics[k]:
-            try:
-                vec.append(self.wordVecGen(self.wordVecGen.freqDist[k][topic][unicode(word)]))
-            except:
-                vec.append(0)
-        self.word_vectors[k][word] = vec
+        # vec=[]
+        # for topic in self.wordVecGen.topics[k]:
+        #     try:
+        #         # if unicode(word) in self.freqDist[k][topic]: print "LOL"
+        #         vec.append(self.wordVecGen.freqDist[k][topic][unicode(word)])
+        #         # print 'app'
+        #     except:
+        #         vec.append(0)
+        # self.word_vectors[k][word] = vec
+        try:
+            self.word_vectors[k][word] = self.wordVecGen.word_vectors_all[unicode(word)]
+        except:
+            pass
 
     def load(self,test_topic,k, stop):
-        f=open('files/'+test_topic+'.txt','r')
+        f=open('files/test/'+test_topic+'.txt','r')
         content=f.read()
         f.close()
-
-
         # This Part now stems every word in the document loaded and copies it into corpus['en'].
         words_in_test_topic  = [(SnowballStemmer(self.language[k], ignore_stopwords=True).stem(unicode(i))) for i in (re.findall("[a-zA-Z]+", content)) if i not in stop]
-        self.corpus[k][test_topic] = list(set(words_in_test_topic))
-        self.words[k] += self.corpus[k][test_topic]
+        # self.corpus[k][test_topic] = list(set(words_in_test_topic))
+        # self.words[k] += self.corpus[k][test_topic]
+
+        # Generate a histogram of words in the current document
+        self.freqDist[k][test_topic]={x:words_in_test_topic.count(x) for x in words_in_test_topic}
+        for word in self.freqDist[k][test_topic].keys()[:]:
+            if word in stop:
+                del self.freqDist[k][test_topic][word]
+
+        # Applying a term frequency function... A factor to be experimented on...
+        # Current Function: exp(frequency/(1+max(frequencies)))
+        # maxval = max(self.freqDist[k][test_topic].values())
+        # sumval = sum(self.freqDist[k][test_topic].values())
+        # self.freqDist[k][test_topic]={x:math.exp(self.freqDist[k][test_topic][x]/(1.0+1.0*maxval)) for x in self.freqDist[k][test_topic].keys()}
+
+        # Add all the words in the current document to all words list
+        self.words[k] += self.freqDist[k][test_topic].keys()
+
+        # Copy all words in the topic to corpus['en']
+        self.corpus[k][test_topic] = ((self.freqDist[k][test_topic].keys()))
