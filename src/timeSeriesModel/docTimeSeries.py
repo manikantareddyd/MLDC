@@ -15,12 +15,12 @@ class docSeries:
 		self.topicSeries={}
 		threads = {}
 		for j in self.languages:
-			threads[j]=threading.Thread( target=self.gen, args=(k,j,))
-			print "Sequencing "+j+" docs"
-			threads[j].start()
-			# self.gen(k,j)
-		for j in self.languages:
-			threads[j].join()
+			# threads[j]=threading.Thread( target=self.gen, args=(k,j,))
+			# print "Sequencing "+j+" docs"
+			# threads[j].start()
+			self.gen(k,j)
+		# for j in self.languages:
+		# 	threads[j].join()
 		print "All docs sequenced!"
 
 	def gen(self,k,j):
@@ -28,13 +28,13 @@ class docSeries:
 
 		threadTopic = {}
 		for topic in self.wv.topics[j]:
-			# self.seriesGen(topic,k,j)
-			threadTopic[topic] =  threading.Thread(target = self.seriesGen, args = (topic,k,j,))
-			threadTopic[topic].start()
+			self.seriesGen(topic,k,j)
+			# threadTopic[topic] =  threading.Thread(target = self.seriesGen, args = (topic,k,j,))
+			# threadTopic[topic].start()
 
-		for topic in self.wv.topics[j]:
-			threadTopic[topic].join()
-			print "Loaded", topic
+		# for topic in self.wv.topics[j]:
+		# 	threadTopic[topic].join()
+		# 	print "Loaded", topic
 
 	def seriesGen(self,topic,k,j):
 		series = []

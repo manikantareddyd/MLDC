@@ -1,4 +1,5 @@
 from doc2vec import *
+from math import *
 from sklearn.decomposition import RandomizedPCA
 # Declarations
 languages = ['en','fr','es']
@@ -49,15 +50,17 @@ for topic in test_docs:
 X_pca = X
 #gives distance and indices in X_train, y_train of 5 NearestNeighbors of every element in X
 dist, ind = neigh.kneighbors(X_pca,n_neighbors=5,return_distance=True)
-y = [('_').join(i.split('_')[:-2]) for i in y]
-print y
-table = PrettyTable(['Topic','N1','N2','N3','N4','score'])
+y_copy = [('_').join(i.split('_')[:-2]) for i in y]
+table = PrettyTable(['Topic','N0','N1','N2','N3','N4','score'])
+su=0
 for i in range(len(X_pca)):
     score = 0
-    for j in range(0,4):
-        if y[int(i)].lower() == y_train[ind[i][j]].lower() :
-            score += (1/(1.0*dist[i][j]))*(4-j)
-    score = score/(sum([(4-j)/(1.0*dist[i][j]) for j in range(0,4)]))
-    table.add_row( [ y[int(i)] , y_train[ind[i][1]] , y_train[ind[i][2]] , y_train[ind[i][3]] , y_train[ind[i][4]], score ])
+    for j in range(0,3):
+        if y_copy[int(i)].lower() == y_train[ind[i][j]].lower() :
+            score += 1.0*((3-j)*(3-j)*(1/(1.0*dist[i][j]))*(1/(1.0*dist[i][j])))
+    score = score/(1.0*sum([1.0*((3-j)*(3-j)*1/(1.0*dist[i][j])*(1/(1.0*dist[i][j]))) for j in range(0,3)]))
+    table.add_row( [ y[int(i)] , y_train[ind[i][0]],y_train[ind[i][1]] , y_train[ind[i][2]] , y_train[ind[i][3]] , y_train[ind[i][4]], score ])
+    su += score
 
 print table
+print su/6.0
